@@ -1,0 +1,164 @@
+{
+ "n8n": {
+  "total": 55,
+  "design": [
+   {
+    "title": "Senior/Staff Product Designer",
+    "url": "https://jobs.ashbyhq.com/n8n/fe05c209-8069-4a88-aeba-8da23488cd30",
+    "loc": "Germany"
+   }
+  ],
+  "source": "Ashby API",
+  "checked": "2026-11-15"
+ },
+ "Synthesia": {
+  "total": 31,
+  "design": [
+   {
+    "title": "Product Designer, AI-Native Products (Staff-Level / L6)",
+    "url": "https://jobs.ashbyhq.com/synthesia/4721d2c3-3d94-45d3-b9f7-ea5e1f549ce2",
+    "loc": "Europe"
+   },
+   {
+    "title": "Product Designer, Enterprise (Staff-level / L6)",
+    "url": "https://jobs.ashbyhq.com/synthesia/72144066-ff3f-4cdd-b648-743592e414ca",
+    "loc": "London"
+   }
+  ],
+  "source": "Ashby API",
+  "checked": "2026-11-15"
+ },
+ "Parloa": {
+  "total": 45,
+  "design": [
+   {
+    "title": "Staff Product Designer - Expert Experience",
+    "url": "https://jobs.ashbyhq.com/parloa/bd30916a-ec2e-4552-b898-75ed28449b65",
+    "loc": "Berlin"
+   }
+  ],
+  "source": "Ashby API",
+  "checked": "2026-11-15"
+ },
+ "Lovable": {
+  "total": 79,
+  "design": [
+   {
+    "title": "Product Designer",
+    "url": "https://jobs.ashbyhq.com/lovable/cf78be5e-41ca-478a-b480-0d0839c24543",
+    "loc": "London"
+   },
+   {
+    "title": "Staff / Principal Design Engineer, Web",
+    "url": "https://jobs.ashbyhq.com/lovable/51885ae5-4f4c-46c4-abd3-d7aad1c8d9c0",
+    "loc": "London"
+   },
+   {
+    "title": "Staff / Principal Product Designer",
+    "url": "https://jobs.ashbyhq.com/lovable/5635b88f-a361-4f5f-8209-ca343a003947",
+    "loc": "Stockholm"
+   }
+  ],
+  "source": "Ashby API",
+  "checked": "2026-11-15"
+ },
+ "Moss": {
+  "total": 31,
+  "design": [
+   {
+    "title": "Senior Product Designer",
+    "url": "https://jobs.ashbyhq.com/moss/e7d57c83-fcc4-43cf-b6cb-e6672460892f",
+    "loc": "Berlin"
+   }
+  ],
+  "source": "Ashby API",
+  "checked": "2026-11-15"
+ },
+ "Langdock": {
+  "total": 11,
+  "design": [
+   {
+    "title": "(Senior) Design Engineer - m/f/d",
+    "url": "https://jobs.ashbyhq.com/langdock/b443b7ae-975e-42da-b515-58fcf9870839",
+    "loc": "Berlin"
+   }
+  ],
+  "source": "Ashby API",
+  "checked": "2026-11-15"
+ },
+ "Pennylane": {
+  "total": 202,
+  "design": [
+   {
+    "title": "Product Design Manager",
+    "url": "https://jobs.ashbyhq.com/pennylane/5b5fa189-654f-483f-8287-b812862264a2",
+    "loc": "Paris"
+   },
+   {
+    "title": "Product Designer (Confirmed/Senior) - Remote Europe 🇪🇺",
+    "url": "https://jobs.ashbyhq.com/pennylane/d0918e54-49c5-42be-9e97-66b1186a4b66",
+    "loc": "Paris"
+   },
+   {
+    "title": "Product Designer (Confirmed/Senior) - Germany (m/w/d)",
+    "url": "https://jobs.ashbyhq.com/pennylane/0c36dac8-2482-47d1-940a-883ad394a737",
+    "loc": "Germany (remote)"
+   },
+   {
+    "title": "Senior Design Manager",
+    "url": "https://jobs.ashbyhq.com/pennylane/ec92cb34-4490-499d-8b79-3adcf58dbf9a",
+    "loc": "All France (remote)"
+   }
+  ],
+  "source": "Ashby API",
+  "checked": "2026-11-15"
+ },
+ "Skalar": {
+  "total": 18,
+  "design": [
+   {
+    "title": "Senior Product Designer (w/m/d)",
+    "url": "https://jobs.ashbyhq.com/Skalar/3c9992ed-38e1-42f3-8a5d-0a0b5ce700cc",
+    "loc": "München"
+   }
+  ],
+  "source": "Ashby API",
+  "checked": "2026-11-15"
+ },
+ "Avelios Medical": {
+  "total": 46,
+  "design": [
+   {
+    "title": "(Senior) Product Designer (all genders)",
+    "url": "https://jobs.ashbyhq.com/avelios-medical/7bed3c01-118f-47b6-bea3-f98765d9e77c",
+    "loc": "Munich"
+   }
+  ],
+  "source": "Ashby API",
+  "checked": "2026-11-15"
+ },
+ "Sereact": {
+  "total": 46,
+  "design": [
+   {
+    "title": "Product Designer (m/f/d)",
+    "url": "https://jobs.ashbyhq.com/sereact/c6316a22-37f5-4ed0-8be1-cc46f06073b4",
+    "loc": "Stuttgart Schockenriedstr. 17"
+   }
+  ],
+  "source": "Ashby API",
+  "checked": "2026-11-15"
+ },
+ "1KOMMA5°": {
+  "total": 328,
+  "design": [
+   {
+    "title": "(Senior) Product Designer (m/f/d)",
+    "url": "https://1komma5grad.jobs.personio.de/job/2619626",
+    "loc": "Remote"
+   }
+  ],
+  "source": "Personio XML",
+  "checked": "2026-11-15"
+ }
+}

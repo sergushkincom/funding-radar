@@ -1,0 +1,38 @@
+name: Refresh roles and news
+
+# Once a day: re-fetch open roles (Ashby, Personio) and company news (Google News RSS) into data/feed.json.
+# The commit to main triggers the Vercel deploy. No secrets: public sources and the built-in GITHUB_TOKEN.
+on:
+  schedule:
+    - cron: "15 5 * * *" # 05:15 UTC, about 06:15/07:15 in Munich
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: refresh
+  cancel-in-progress: false
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 24
+      - name: Fetch roles and news
+        run: node scripts/refresh.mjs
+      - name: Commit the new snapshot
+        run: |
+          if git diff --quiet -- data/feed.json; then
+            echo "No changes."
+            exit 0
+          fi
+          git config user.name "funding-radar-bot"
+          git config user.email "funding-radar-bot@users.noreply.github.com"
+          git add data/feed.json
+          git commit -m "data: refresh roles and news ($(date -u +%F))"
+          git push

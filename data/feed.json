@@ -1,0 +1,1959 @@
+{
+ "generated": "2026-11-17",
+ "companies": {
+  "n8n": {
+   "roles": {
+    "total": 60,
+    "design": [
+     {
+      "title": "Senior/Staff Product Designer",
+      "url": "https://jobs.ashbyhq.com/n8n/fe05c209-8069-4a88-aeba-8da23488cd30",
+      "loc": "Germany",
+      "published": "2026-11-09"
+     }
+    ],
+    "families": {
+     "engineering": [
+      {
+       "title": "Sr Security Engineer | Remote | Europe",
+       "url": "https://jobs.ashbyhq.com/n8n/49e569f0-503e-4e42-a1ba-7e63684e90d3",
+       "loc": "Berlin Office",
+       "published": "2026-10-13"
+      },
+      {
+       "title": "Senior Product Engineer (TS/NodeJS/Vue)",
+       "url": "https://jobs.ashbyhq.com/n8n/896c58a8-0388-4037-b265-82b15633a568",
+       "loc": "Berlin Office",
+       "published": "2026-03-04"
+      },
+      {
+       "title": "Engineering Manager | Remote | Europe",
+       "url": "https://jobs.ashbyhq.com/n8n/2ac306a9-1d24-4b19-8261-32902b7dd423",
+       "loc": "Berlin Office",
+       "published": "2026-10-20"
+      },
+      {
+       "title": "Forward Deployed Engineer - US East Coast",
+       "url": "https://jobs.ashbyhq.com/n8n/98dc8c86-b135-4803-8044-1d6f6a631aa8",
+       "loc": "Boston",
+       "published": "2026-09-15"
+      },
+      {
+       "title": "Forward Deployed Engineer - EMEA",
+       "url": "https://jobs.ashbyhq.com/n8n/c9fc97fa-a473-4133-b3cb-502785649ecd",
+       "loc": "Berlin Office",
+       "published": "2026-11-16"
+      },
+      {
+       "title": "Internal Context Engineer",
+       "url": "https://jobs.ashbyhq.com/n8n/d16d63fa-2198-4bde-8b00-b8bf30f19644",
+       "loc": "Berlin Office",
+       "published": "2026-10-13"
+      },
+      {
+       "title": "Staff Platform Engineer, Agentic Engineering",
+       "url": "https://jobs.ashbyhq.com/n8n/24ad7d68-fac9-476c-b9fa-3410d73a6d7d",
+       "loc": "Berlin Office",
+       "published": "2026-11-10"
+      },
+      {
+       "title": "Lead Forward Deployed Engineer - EMEA",
+       "url": "https://jobs.ashbyhq.com/n8n/fb5e4f97-a769-4b87-95f4-bdc5e4c3b031",
+       "loc": "Berlin Office",
+       "published": "2026-11-11"
+      }
+     ],
+     "product": [
+      {
+       "title": "Senior Product Manager - AI Gateway",
+       "url": "https://jobs.ashbyhq.com/n8n/473bcbae-ad3e-4611-8ca3-3499040e5f22",
+       "loc": "Berlin Office",
+       "published": "2026-11-03"
+      },
+      {
+       "title": "Senior Product Manager (Enterprise)",
+       "url": "https://jobs.ashbyhq.com/n8n/bcf96878-d41a-479d-b506-7753356077c4",
+       "loc": "Berlin Office",
+       "published": "2026-10-22"
+      },
+      {
+       "title": "Senior Product Manager - Core Platform (Engine, Scale & Reliability)",
+       "url": "https://jobs.ashbyhq.com/n8n/d418f8fb-b2f2-405e-8f22-db73dcf4e8b4",
+       "loc": "Berlin Office",
+       "published": "2026-10-22"
+      },
+      {
+       "title": "Senior Product Manager (Licensing & Billing)",
+       "url": "https://jobs.ashbyhq.com/n8n/163162f1-9873-45b4-932e-aff27beea78a",
+       "loc": "Berlin Office",
+       "published": "2026-10-22"
+      },
+      {
+       "title": "Head of Enterprise Product",
+       "url": "https://jobs.ashbyhq.com/n8n/cc5ce6e0-5d50-4cfd-a522-4304dc09d29b",
+       "loc": "Berlin Office",
+       "published": "2026-11-11"
+      }
+     ],
+     "data": []
+    },
+    "counts": {
+     "design": 1,
+     "engineering": 8,
+     "product": 5,
+     "data": 0,
+     "other": 46
+    },
+    "source": "ashby",
+    "checked": "2026-11-17",
+    "history": [
+     {
+      "date": "2026-11-17",
+      "total": 60,
+      "design": 1,
+      "counts": {
+       "design": 1,
+       "engineering": 8,
+       "product": 5,
+       "data": 0,
+       "other": 46
+      }
+     }
+    ]
+   },
+   "news": [
+    {
+     "title": "n8n Releases Open-Source Personal Agent Nod for Mac and Windows",
+     "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNcFBnVEREMGEtUWVoUzNzSlpQbmhaWFA2S2hOSE5EVllPWko3aFdlRDdEdmZ0bWl6TGpyNmd2TVFXcEdYYy1qTllRWGE2Y0M2Q05jdC1DMWF5ZnlhUHhvOEs1YzFOZXhFRTliYXBlUllQS1JJdTM5X2V4SWxyd09ybmNFVmRZaElubUNaMlNR?oc=5",
+     "source": "Unite.AI",
+     "sourceUrl": "https://www.unite.ai",
+     "date": "2026-11-10",
+     "tag": "launch"
+    },
+    {
+     "title": "Dataverse goes where you build: Copilot Cowork, coding agents and n8n",
+     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPWFVzWE5ncThURDdoelp6V3JvYy1zRE10eUFSSGtuZUxVOWp2NGlINWdEcEZFXzRxb0s1REhGNGplREQ0RWp1TVpGY2tOcV9ZV1V2UTgyQ1lwdFJ1YWxMb2VmbmdXeUdqeEQ3NnlnMXBGcDZIQjYxTTBWZ0pLNEYtSy1TRVdCTmg0bkV0cUpMZk9ENTQ4VDRUUXJhNFozWENudlJuVzFXcFhzUXA5RUZv?oc=5",
+     "source": "Microsoft",
+     "sourceUrl": "https://www.microsoft.com",
+     "date": "2026-11-02",
+     "tag": "other"
+    },
+    {
+     "title": "AI Supply Chain Control Tower with n8n",
+     "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBwMkFCVFlKam5sNVdUbGNBSElzNEQtQ09IY0UycG5SSG51YmlabjFxZTBOWUFlTTNub1J4VkJ0TGdoZWdHN2RPd3RwVDNIVTNtTVByblRUV0pwN0JiZXFJZFNMOV9QLXg2REE?oc=5",
+     "source": "Towards Data Science",
+     "sourceUrl": "https://towardsdatascience.com",
+     "date": "2026-10-14",
+     "tag": "other"
+    }
+   ],
+   "newsChecked": "2026-11-17"
+  },
+  "Synthesia": {
+   "roles": {
+    "total": 29,
+    "design": [
+     {
+      "title": "Product Designer, AI-Native Products (Staff-Level / L6)",
+      "url": "https://jobs.ashbyhq.com/synthesia/4721d2c3-3d94-45d3-b9f7-ea5e1f549ce2",
+      "loc": "Europe",
+      "published": "2026-10-22"
+     },
+     {
+      "title": "Product Designer, Enterprise (Staff-level / L6)",
+      "url": "https://jobs.ashbyhq.com/synthesia/72144066-ff3f-4cdd-b648-743592e414ca",
+      "loc": "London",
+      "published": "2026-10-22"
+     }
+    ],
+    "families": {
+     "engineering": [
+      {
+       "title": "SecOps Security Engineer (Staff-level, L6)",
+       "url": "https://jobs.ashbyhq.com/synthesia/c3c79cb1-3ead-46ac-abf2-04502e4655bd",
+       "loc": "US Remote",
+       "published": "2026-08-25"
+      },
+      {
+       "title": "Principal ML Platform Engineer",
+       "url": "https://jobs.ashbyhq.com/synthesia/e9c63d3d-13cc-4049-ae0a-5fef402c595b",
+       "loc": "Europe",
+       "published": "2026-04-08"
+      },
+      {
+       "title": "Senior Frontend Engineer, Marketing Website",
+       "url": "https://jobs.ashbyhq.com/synthesia/78656c70-f0c9-44d2-83d4-f18ad4fb593f",
+       "loc": "London",
+       "published": "2026-11-05"
+      }
+     ],
+     "product": [
+      {
+       "title": "Product Manager, New Product Bet (Principal-level)",
+       "url": "https://jobs.ashbyhq.com/synthesia/c2ba6d4d-f991-4432-a9c8-1514a93b08bb",
+       "loc": "London",
+       "published": "2026-09-28"
+      },
+      {
+       "title": "Product Manager, Enterprise (Staff/Principal-level)",
+       "url": "https://jobs.ashbyhq.com/synthesia/31e1dca3-74fd-4f74-8f40-5bb19f4034bb",
+       "loc": "London",
+       "published": "2026-08-05"
+      },
+      {
+       "title": "Product Manager, Interactive Avatars (Staff/Principal-level - SDKs, APIs)",
+       "url": "https://jobs.ashbyhq.com/synthesia/e934a7ac-b668-46c0-9953-eed4504658b7",
+       "loc": "London",
+       "published": "2026-11-11"
+      }
+     ],
+     "data": []
+    },
+    "counts": {
+     "design": 2,
+     "engineering": 3,
+     "product": 3,
+     "data": 0,
+     "other": 21
+    },
+    "source": "ashby",
+    "checked": "2026-11-17",
+    "history": [
+     {
+      "date": "2026-11-17",
+      "total": 29,
+      "design": 2,
+      "counts": {
+       "design": 2,
+       "engineering": 3,
+       "product": 3,
+       "data": 0,
+       "other": 21
+      }
+     }
+    ]
+   },
+   "news": [
+    {
+     "title": "Synthesia and Datadog CEOs back AI startup Remanence in $30M funding round",
+     "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQRUdEQk5jYjNWZ1U3YjlMOWYyMF9jTTAtOHZkV04xSjZoYlZMam40dEFfaVBJUUpEZHY3RHo5TmVRa201Q0g2UktfMGRQZ3pyaTNfRTNpSExHQXFMTHNPVWpXN3BaOUFydU43SUxIaXY4dnpHU2R2YkVBdGJXTXVvcXE5Z1ZMODVmY21OeU1mOHQ?oc=5",
+     "source": "Tech.eu",
+     "sourceUrl": "https://tech.eu",
+     "date": "2026-11-17",
+     "tag": "funding"
+    },
+    {
+     "title": "Synthesia's Sirén and the \"ChatGPT moment\" — Victor Riparbelli on the rise of interactive AI video",
+     "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNNU5RQi1fbmlzaU5LUHZQZWlsVGVOb1pGaEZaTUs2MnA1bWZQd0ctM2ZuMzFwbl9oUUZVTnZoek53STZmYzFIdkVtdjd3bGFsTFlWV3pYTFIwNEF0aGNHYW1BZkRWRDlJcFpiWk9BZndkOUItTVpsbTB6aEdlLTFWMUtGRTZSb3ZOdVA1UmdFbUZvb3ZXeFlFUUVWWmRnRDg5REdiYU81V1ZOS09rZDRXRDlFUHBIUWFudXdLaUFkX281YUhsWVIw?oc=5",
+     "source": "Dealroom",
+     "sourceUrl": "https://app.dealroom.co",
+     "date": "2026-10-26",
+     "tag": "other"
+    },
+    {
+     "title": "I took on Synthesia’s AI-generated employee — and failed",
+     "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOLWFiV3F2aVh4RWUwRk02alRXaVVZMlZCdENmdzZESEFKRDNFRU1jMXJNOVYyYzNlendEdzNNbklHLWlxNFMxV1NIUjloa2lqWFN3UVlQZ29pLXN3QTVic2Jxb3VEMHZ5SGVnQ3dxUnptOEZyZTJfS254blBnVGlqUWFTc3NqMHRSemU5TmwyQUU2STVuclpUS25nMncwZTY3MzhsQ01VSnBrZUlVNmtteDBNdENvYzJYZnFj?oc=5",
+     "source": "The Times",
+     "sourceUrl": "https://www.thetimes.com",
+     "date": "2026-10-09",
+     "tag": "other"
+    }
+   ],
+   "newsChecked": "2026-11-17"
+  },
+  "Parloa": {
+   "roles": {
+    "total": 45,
+    "design": [
+     {
+      "title": "Staff Product Designer - Expert Experience",
+      "url": "https://jobs.ashbyhq.com/parloa/bd30916a-ec2e-4552-b898-75ed28449b65",
+      "loc": "Berlin",
+      "published": "2025-11-24"
+     }
+    ],
+    "families": {
+     "engineering": [
+      {
+       "title": "SAP Integration Architect",
+       "url": "https://jobs.ashbyhq.com/parloa/f6e08c53-5f00-4340-b5b0-6e5e4d819998",
+       "loc": "New York",
+       "published": "2026-11-07"
+      },
+      {
+       "title": "Senior Engineering Manager",
+       "url": "https://jobs.ashbyhq.com/parloa/8e720dd0-5e40-44f8-b7f5-0423fc2e963a",
+       "loc": "Berlin",
+       "published": "2026-11-06"
+      },
+      {
+       "title": "Staff Product Engineer",
+       "url": "https://jobs.ashbyhq.com/parloa/8adc761e-ee2f-46c7-8bd7-10813d1e3b82",
+       "loc": "Berlin",
+       "published": "2026-09-30"
+      },
+      {
+       "title": "Staff Software Engineer",
+       "url": "https://jobs.ashbyhq.com/parloa/0856c6a8-89df-4135-9b86-1837fc9c23eb",
+       "loc": "Berlin",
+       "published": "2026-04-15"
+      },
+      {
+       "title": "Principal Software Engineer - Real-Time Voice",
+       "url": "https://jobs.ashbyhq.com/parloa/56ea8611-dc45-4780-a89d-421b7b91f87a",
+       "loc": "Berlin",
+       "published": "2026-10-14"
+      },
+      {
+       "title": "Senior Software Engineer",
+       "url": "https://jobs.ashbyhq.com/parloa/c8ad0eac-c5bb-4ae1-9839-6c532118bef7",
+       "loc": "Berlin",
+       "published": "2026-06-24"
+      }
+     ],
+     "product": [
+      {
+       "title": "Staff/Principal Product Manager, Agent Management Platform",
+       "url": "https://jobs.ashbyhq.com/parloa/ee4a4054-bb72-41b4-aacf-53a9121b7925",
+       "loc": "Berlin",
+       "published": "2026-09-14"
+      }
+     ],
+     "data": []
+    },
+    "counts": {
+     "design": 1,
+     "engineering": 6,
+     "product": 1,
+     "data": 0,
+     "other": 37
+    },
+    "source": "ashby",
+    "checked": "2026-11-17",
+    "history": [
+     {
+      "date": "2026-11-17",
+      "total": 45,
+      "design": 1,
+      "counts": {
+       "design": 1,
+       "engineering": 6,
+       "product": 1,
+       "data": 0,
+       "other": 37
+      }
+     }
+    ]
+   },
+   "news": [
+    {
+     "title": "Parloa Joins OpenAI Alpha Model Testing Program",
+     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOdkJ2ZTVmMHUtdkQzYXNwUUkzZjlMUVpNRkpRVFNndXFiSW1IdmFMOEJ3bzR0Rnp2RlZPUmtTV19uTDVxdjdIbEpZRnJlbmpzcXlObUx6Smx2LVhuUkg2QjhNbGhzVmtMTDhBQ1l0V2JWem9YT3pKY0c1VmM1T0lTM19xdXdON2o2b0k2TFFHSUZTNjBjd2toOGlRYWUtRXVkYlE?oc=5",
+     "source": "CMSWire",
+     "sourceUrl": "https://www.cmswire.com",
+     "date": "2026-11-12",
+     "tag": "other"
+    },
+    {
+     "title": "McKinsey and Parloa partner for customer-facing AI technology",
+     "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPTUUzLU1MNXMzTWllWlZyeXNMT0hUUjY2dnRoV2Z5Z0hJTFpZMFRHdENxM19DcXBzeTJSVlVZbExFTXR4VkVCSGRNYWhMNkY0Z0I5ZnFwYjlEeFRldWpSYUV0YlROMV93T3Jnc1VqcHQ4am5BdnM2Sk01cW9wbkVpTmN4WFcyOWFDUVFFLTdmMXRNZTV1?oc=5",
+     "source": "MarTech Cube",
+     "sourceUrl": "https://www.martechcube.com",
+     "date": "2026-11-08",
+     "tag": "other"
+    },
+    {
+     "title": "Parloa Expands North American Agentic CX Footprint through Alliance with Deloitte Canada",
+     "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPcWc1NDdJN1VNSlU5VzJEX0NaMGQyazZVbmFfT0h6djU5Y29sRmhYeWFVUjN2MjFqNHJYd0pHbnZQTVQxaEFGcW1VMHBiVVEzUk5fNklqT0hzaTJDWFkzQi14emtoZlhhQ2EzeHktWlVHcENUZFJNYUpMd1ZHc3prSDBkZHZITVVZMGhPeFZHcnkwUXFyTVFqUnZ0NTNTU1BYeHVkX3U4OG9peUhFeXVvdFBpOFFvaEwwNklpaV85RGI1bjJwM0FONkNLM1BLZmQxTHdtWUdQbjg0dloy?oc=5",
+     "source": "PR Newswire",
+     "sourceUrl": "https://www.prnewswire.com",
+     "date": "2026-11-04",
+     "tag": "other"
+    }
+   ],
+   "newsChecked": "2026-11-17"
+  },
+  "Lovable": {
+   "roles": {
+    "total": 78,
+    "design": [
+     {
+      "title": "Product Designer",
+      "url": "https://jobs.ashbyhq.com/lovable/cf78be5e-41ca-478a-b480-0d0839c24543",
+      "loc": "London",
+      "published": "2025-07-17"
+     },
+     {
+      "title": "Staff / Principal Design Engineer, Web",
+      "url": "https://jobs.ashbyhq.com/lovable/51885ae5-4f4c-46c4-abd3-d7aad1c8d9c0",
+      "loc": "London",
+      "published": "2026-08-06"
+     },
+     {
+      "title": "Staff / Principal Product Designer",
+      "url": "https://jobs.ashbyhq.com/lovable/5635b88f-a361-4f5f-8209-ca343a003947",
+      "loc": "Stockholm",
+      "published": "2026-04-15"
+     }
+    ],
+    "families": {
+     "engineering": [
+      {
+       "title": "Application Security Engineer",
+       "url": "https://jobs.ashbyhq.com/lovable/d15f1a6a-dbba-41d6-b8b4-90fc00de183c",
+       "loc": "Stockholm",
+       "published": "2026-05-15"
+      },
+      {
+       "title": "Software Engineer, Platform (Developer Experience)",
+       "url": "https://jobs.ashbyhq.com/lovable/99f2854e-4937-4227-b96a-81269b5f871d",
+       "loc": "Stockholm",
+       "published": "2025-11-06"
+      },
+      {
+       "title": "Software Engineer, Platform (Infrastructure)",
+       "url": "https://jobs.ashbyhq.com/lovable/920b4099-00bc-4d5e-9469-2c955ef3a662",
+       "loc": "Stockholm",
+       "published": "2025-11-06"
+      },
+      {
+       "title": "Staff / Principal Software Engineer, Product",
+       "url": "https://jobs.ashbyhq.com/lovable/45db5790-4305-4fad-b96b-1fbdf42b88f2",
+       "loc": "Stockholm",
+       "published": "2026-09-22"
+      },
+      {
+       "title": "Staff / Principal Software Engineer, Platform",
+       "url": "https://jobs.ashbyhq.com/lovable/dc19c01d-a6d5-4fbd-bba6-47efa01a8dce",
+       "loc": "Stockholm",
+       "published": "2026-05-14"
+      },
+      {
+       "title": "Fullstack Engineer, Cloud & App Hosting",
+       "url": "https://jobs.ashbyhq.com/lovable/4a2535cc-9b62-42d4-9401-941c465ee56b",
+       "loc": "Stockholm",
+       "published": "2026-06-10"
+      },
+      {
+       "title": "Software Engineer, Platform (Runtime)",
+       "url": "https://jobs.ashbyhq.com/lovable/3b6525b4-8229-4b7e-a307-a550646d0483",
+       "loc": "Stockholm",
+       "published": "2026-05-13"
+      },
+      {
+       "title": "Staff / Principal Software Engineer, Security",
+       "url": "https://jobs.ashbyhq.com/lovable/3496c512-9612-446a-bbed-152457fa2389",
+       "loc": "Stockholm",
+       "published": "2026-05-22"
+      },
+      {
+       "title": "Trust & Safety Engineer",
+       "url": "https://jobs.ashbyhq.com/lovable/13c2f37b-a60c-4601-993b-88baac9cbdfc",
+       "loc": "Stockholm",
+       "published": "2026-10-31"
+      },
+      {
+       "title": "Staff / Principal Software Engineer, Infrastructure Security",
+       "url": "https://jobs.ashbyhq.com/lovable/522e925e-ede2-4659-8b8b-1122d4ad7ab0",
+       "loc": "Stockholm",
+       "published": "2026-09-14"
+      },
+      {
+       "title": "Staff / Principal Software Engineer, Detection and Response",
+       "url": "https://jobs.ashbyhq.com/lovable/e53bdf9e-39ee-46d4-aa95-6b3ba5d3de73",
+       "loc": "Stockholm",
+       "published": "2026-09-14"
+      },
+      {
+       "title": "Staff Forward Deployed Engineer",
+       "url": "https://jobs.ashbyhq.com/lovable/f16a20b6-d3a2-4507-944c-86becd975766",
+       "loc": "New York City",
+       "published": "2026-10-21"
+      },
+      {
+       "title": "Senior Mobile Engineer",
+       "url": "https://jobs.ashbyhq.com/lovable/64964fb3-848a-4bd0-8e66-6e54e99a8eca",
+       "loc": "Stockholm",
+       "published": "2026-09-22"
+      },
+      {
+       "title": "Staff Software Engineer - Enterprise Platform",
+       "url": "https://jobs.ashbyhq.com/lovable/6971bf2b-5873-4817-b886-ad6d63358a71",
+       "loc": "London",
+       "published": "2026-08-03"
+      },
+      {
+       "title": "Software Engineer, Product (Integration Platform)",
+       "url": "https://jobs.ashbyhq.com/lovable/77326507-b4dd-4239-89b6-85b077baeeb5",
+       "loc": "Stockholm",
+       "published": "2026-09-18"
+      },
+      {
+       "title": "Marketing Growth Engineer",
+       "url": "https://jobs.ashbyhq.com/lovable/513393c6-1887-41b5-96fb-38982130bd36",
+       "loc": "London",
+       "published": "2026-10-02"
+      },
+      {
+       "title": "Staff Software Engineer, Data Infrastructure",
+       "url": "https://jobs.ashbyhq.com/lovable/7ebba78c-4404-4e07-b783-c434a60e749a",
+       "loc": "Stockholm",
+       "published": "2026-10-08"
+      },
+      {
+       "title": "Growth Engineer",
+       "url": "https://jobs.ashbyhq.com/lovable/bd6cb2a8-85c4-4650-94a6-94bf780713e8",
+       "loc": "London",
+       "published": "2026-10-07"
+      },
+      {
+       "title": "Staff Forward Deployed Engineer",
+       "url": "https://jobs.ashbyhq.com/lovable/7fe39289-1f7f-47d4-8002-d3aeeaaaabc6",
+       "loc": "London",
+       "published": "2026-10-06"
+      },
+      {
+       "title": "Organic Discovery, Growth Engineer",
+       "url": "https://jobs.ashbyhq.com/lovable/85d689a5-3e1d-410e-8aaf-eb6480198a83",
+       "loc": "London",
+       "published": "2026-11-13"
+      }
+     ],
+     "product": [
+      {
+       "title": "Product Manager (Build Experience)",
+       "url": "https://jobs.ashbyhq.com/lovable/e8897c7e-53bd-43f8-94bb-02237f4459bb",
+       "loc": "Stockholm",
+       "published": "2026-04-01"
+      },
+      {
+       "title": "Product Manager (Agents)",
+       "url": "https://jobs.ashbyhq.com/lovable/1140665c-a426-49d5-bcdd-f78560efe50d",
+       "loc": "Stockholm",
+       "published": "2026-08-13"
+      },
+      {
+       "title": "Product Manager (Security)",
+       "url": "https://jobs.ashbyhq.com/lovable/282cea94-a525-43a6-a18e-8b92900d03f8",
+       "loc": "Stockholm",
+       "published": "2026-04-01"
+      },
+      {
+       "title": "Product Manager (Identity & Access Management)",
+       "url": "https://jobs.ashbyhq.com/lovable/725b8529-5c3e-4b23-867e-8e2766bc9629",
+       "loc": "Stockholm",
+       "published": "2026-08-14"
+      }
+     ],
+     "data": [
+      {
+       "title": "Data Platform Engineer",
+       "url": "https://jobs.ashbyhq.com/lovable/cfef6fe1-e0c9-4139-8618-b51bfb1dc683",
+       "loc": "Stockholm",
+       "published": "2025-08-22"
+      },
+      {
+       "title": "Data Scientist",
+       "url": "https://jobs.ashbyhq.com/lovable/22169279-acc3-4133-96ab-6f525b16fc8e",
+       "loc": "Stockholm",
+       "published": "2025-10-16"
+      },
+      {
+       "title": "Analytics Engineer",
+       "url": "https://jobs.ashbyhq.com/lovable/69c3e92a-1bff-498b-9cda-a78e267030ad",
+       "loc": "Stockholm",
+       "published": "2025-12-22"
+      },
+      {
+       "title": "AI Research Engineer, Post-Training",
+       "url": "https://jobs.ashbyhq.com/lovable/59d85cf1-104b-48cb-956c-bed73ef934c9",
+       "loc": "London",
+       "published": "2026-04-28"
+      },
+      {
+       "title": "Data Scientist, Product",
+       "url": "https://jobs.ashbyhq.com/lovable/c5bc3891-8482-4276-816e-fe38302b1a3c",
+       "loc": "Stockholm",
+       "published": "2026-08-06"
+      },
+      {
+       "title": "Data Scientist, Agent",
+       "url": "https://jobs.ashbyhq.com/lovable/a1e49a18-7533-450f-b760-cef337f2f9e3",
+       "loc": "Stockholm",
+       "published": "2026-08-06"
+      },
+      {
+       "title": "Data Scientist, Pricing",
+       "url": "https://jobs.ashbyhq.com/lovable/03e04a4e-75d6-425f-843d-684ae505fa61",
+       "loc": "Stockholm",
+       "published": "2026-08-06"
+      },
+      {
+       "title": "Data Scientist, Growth",
+       "url": "https://jobs.ashbyhq.com/lovable/f7ffd722-a5bc-4229-9a9f-1d2c952dd7ba",
+       "loc": "London",
+       "published": "2026-08-06"
+      },
+      {
+       "title": "Analytics Engineer",
+       "url": "https://jobs.ashbyhq.com/lovable/d92292d5-a9f5-4637-9d86-77e95bf66970",
+       "loc": "Boston",
+       "published": "2026-10-22"
+      }
+     ]
+    },
+    "counts": {
+     "design": 3,
+     "engineering": 20,
+     "product": 4,
+     "data": 9,
+     "other": 42
+    },
+    "source": "ashby",
+    "checked": "2026-11-17",
+    "history": [
+     {
+      "date": "2026-11-17",
+      "total": 78,
+      "design": 3,
+      "counts": {
+       "design": 3,
+       "engineering": 20,
+       "product": 4,
+       "data": 9,
+       "other": 42
+      }
+     }
+    ]
+   },
+   "news": [
+    {
+     "title": "Lovable: Europe’s Vibe Coding Platform Crosses US$600m ARR",
+     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNdHo0VVpjaXNwUlJab0VuMTc1TDdEQU9nZ0t4YnVkdVRjbjNYT3NNVkljMGFUcGo0TVV4anRmOVdaNDdaeWoyN2cyN2dLYXN0MXlBS3VMamkyNDg0aEQ3SHFieHFDTVZBd28yZGdRb3NibHpMMzZocWFtNm1EV1VrZ0ZGb19qenJQR3QyNg?oc=5",
+     "source": "AI Magazine",
+     "sourceUrl": "https://aimagazine.com",
+     "date": "2026-10-29",
+     "tag": "other"
+    },
+    {
+     "title": "Lovable and Microsoft bring AI-built apps inside company systems",
+     "url": "https://news.google.com/rss/articles/CBMisAJBVV95cUxOV1pCR2x3RnNMZF92TmxZdTlVTnd6LWFHeGZCbVd5TWl1cTdwblBJdE9HMFp3d1BOdzFicEJXemNNcW5GMHV2VzFlX3RDQmZ1clcyZVgyUjBFTFVmMUhjSXJqc2pURDdzTkhQR0ZUMzRMa3V4YlNqQTM5Zm9hbVFvcXZrMmVkeDRBZkZ3MTdfTUIwZ0hsdjdQS3JycDE0ZXQxMjhmQ0psU08tOGdfWkxNckVHOUsxQndNUWMzd2xZLVlsZnJENkEtWl9hY1lDQnR2ZjdDWFQ0WU82bHhQbm80M3NIdlplVFJmVjdOYllycW1ZMHM2NGx5VG9lZDMxS01DRm9Iempwdkd5T0R6Z0hVNzZyRWI0V21KaVRoZnhFMzhQc3plQlJsWTgxekh0YkxB?oc=5",
+     "source": "EdTech Innovation Hub",
+     "sourceUrl": "https://www.edtechinnovationhub.com",
+     "date": "2026-10-14",
+     "tag": "other"
+    },
+    {
+     "title": "Lovable’s annualized revenue crosses $600M as vibe coding takes off",
+     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQOVFia1NFWFpvdm9FT1YzcDV1OTVsV3JLeVVGOUd5VXhLZ2E0OUhBbVhHYnc4TzdyZTlZdkJTQjdPZTdPaUFoZGJwOUtyRl9VbGtFQmZBeDY4NHM2Y2pTZDNEVTVUQ2k4TjNNOUs2MzJnRl8tSGVsdkFmMGNaeFRhSThOOVBSNmp3d3RxRzd4RHZ5ZG9ENFI2dl80RTJIU1BweVE?oc=5",
+     "source": "TechCrunch",
+     "sourceUrl": "https://techcrunch.com",
+     "date": "2026-09-24",
+     "tag": "other"
+    }
+   ],
+   "newsChecked": "2026-11-17"
+  },
+  "Moss": {
+   "roles": {
+    "total": 33,
+    "design": [
+     {
+      "title": "Senior Product Designer",
+      "url": "https://jobs.ashbyhq.com/moss/e7d57c83-fcc4-43cf-b6cb-e6672460892f",
+      "loc": "Berlin",
+      "published": "2026-07-17"
+     }
+    ],
+    "families": {
+     "engineering": [
+      {
+       "title": "Senior Backend Engineer (f/m/d)",
+       "url": "https://jobs.ashbyhq.com/moss/5173ab99-7972-4427-b7d6-745dd867e451",
+       "loc": "Warsaw",
+       "published": "2026-07-13"
+      },
+      {
+       "title": "Senior Backend Engineer (f/m/d)",
+       "url": "https://jobs.ashbyhq.com/moss/776c9af0-12a5-4756-af41-02ff7a1aed72",
+       "loc": "Tallinn",
+       "published": "2026-09-04"
+      },
+      {
+       "title": "Applied AI Engineer",
+       "url": "https://jobs.ashbyhq.com/moss/a4cd2807-aabc-4dfb-9256-0b3736582efe",
+       "loc": "Warsaw",
+       "published": "2026-10-27"
+      },
+      {
+       "title": "Head of Engineering (f/m/d)",
+       "url": "https://jobs.ashbyhq.com/moss/285befa2-ad9e-4106-801a-593b73ef0cce",
+       "loc": "Berlin",
+       "published": "2026-10-27"
+      }
+     ],
+     "product": [],
+     "data": []
+    },
+    "counts": {
+     "design": 1,
+     "engineering": 4,
+     "product": 0,
+     "data": 0,
+     "other": 28
+    },
+    "source": "ashby",
+    "checked": "2026-11-17",
+    "history": [
+     {
+      "date": "2026-11-17",
+      "total": 33,
+      "design": 1,
+      "counts": {
+       "design": 1,
+       "engineering": 4,
+       "product": 0,
+       "data": 0,
+       "other": 28
+      }
+     }
+    ]
+   },
+   "news": [],
+   "newsChecked": "2026-11-17"
+  },
+  "Langdock": {
+   "roles": {
+    "total": 11,
+    "design": [
+     {
+      "title": "(Senior) Design Engineer - m/f/d",
+      "url": "https://jobs.ashbyhq.com/langdock/b443b7ae-975e-42da-b515-58fcf9870839",
+      "loc": "Berlin",
+      "published": "2026-04-20"
+     }
+    ],
+    "families": {
+     "engineering": [
+      {
+       "title": "Forward Deployed Infrastructure Engineer - m/f/d",
+       "url": "https://jobs.ashbyhq.com/langdock/d57ef155-c7a4-489e-b3e6-e30e418fd553",
+       "loc": "Berlin",
+       "published": "2026-07-13"
+      },
+      {
+       "title": "(Senior) Product Engineer - m/f/d",
+       "url": "https://jobs.ashbyhq.com/langdock/ba8e2d17-818f-4ffb-b5ee-05d97b59a596",
+       "loc": "Berlin",
+       "published": "2026-05-07"
+      },
+      {
+       "title": "Senior Systems Software Engineer (Linux & HPC) - m/f/d",
+       "url": "https://jobs.ashbyhq.com/langdock/a9b93572-71a1-469f-8d91-f1eaf218658c",
+       "loc": "Berlin",
+       "published": "2026-08-09"
+      },
+      {
+       "title": "(Senior) Platform Engineer - m/f/d",
+       "url": "https://jobs.ashbyhq.com/langdock/e92df507-d2cc-4cfa-8a3e-ce59b767771e",
+       "loc": "Berlin",
+       "published": "2026-08-09"
+      },
+      {
+       "title": "Forward Deployed Engineer - m/f/d",
+       "url": "https://jobs.ashbyhq.com/langdock/e27922a1-5484-410e-ada9-1d4f744b4ad6",
+       "loc": "Berlin",
+       "published": "2026-10-16"
+      }
+     ],
+     "product": [],
+     "data": []
+    },
+    "counts": {
+     "design": 1,
+     "engineering": 5,
+     "product": 0,
+     "data": 0,
+     "other": 5
+    },
+    "source": "ashby",
+    "checked": "2026-11-17",
+    "history": [
+     {
+      "date": "2026-11-17",
+      "total": 11,
+      "design": 1,
+      "counts": {
+       "design": 1,
+       "engineering": 5,
+       "product": 0,
+       "data": 0,
+       "other": 5
+      }
+     }
+    ]
+   },
+   "news": [
+    {
+     "title": "Langdock hits €50M ARR (≈$55M)",
+     "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1pMXNlTHhpR09jdU50T3BUSDdYbkR1dGpBejg2bEMybGVKa1dmOVlHY245OG9GSnVZemxzVUtmYVJwMXRZbm1USEU5OGQ0REotbXRWWTRaUXpHM2d2eVQ1eTZhMHd3S2VPRXRn?oc=5",
+     "source": "Dealroom",
+     "sourceUrl": "https://app.dealroom.co",
+     "date": "2026-09-30",
+     "tag": "other"
+    },
+    {
+     "title": "Hendrik Hofstadt joins Langdock as CTO",
+     "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5HbFdtenkyRzN4NzJ5UHN4M3ZaaVhnR1AtNzA0U0ltY25zREMwVWluMmEyOURLLW9IQ3d5V2U1Nm45RnR6a3VXbld2d1l3QzZoenhRX01XYjRCVngzaXhFdTJGTm9oc2NoREs2QXUxRWd6VURUMWt5c2ZweXI?oc=5",
+     "source": "Dealroom",
+     "sourceUrl": "https://app.dealroom.co",
+     "date": "2026-09-20",
+     "tag": "hire"
+    },
+    {
+     "title": "Langdock Ditches Its US Parent Company And Moves Home To Germany",
+     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxONmJpa0FUSHhPM2tWbHZicmsxU3lCNTlNbWxFMC1aWmYzandaX1ZGaFgzbG9OaE05NmVTVUNGUzk0YUppVzFsMmFiRU9xRUtzMjNqR3JZZFo0NVprRmdEZlVMRHlwc0lCU2pUTkZORXdSdy1WRGUyUGJIeVFrNVlwb0RHeUc0d29KY3p1bzFJNnFnUm5WZjVF?oc=5",
+     "source": "Startup Fortune",
+     "sourceUrl": "https://startupfortune.com",
+     "date": "2026-09-19",
+     "tag": "other"
+    }
+   ],
+   "newsChecked": "2026-11-17"
+  },
+  "Pennylane": {
+   "roles": {
+    "total": 212,
+    "design": [
+     {
+      "title": "Product Design Manager",
+      "url": "https://jobs.ashbyhq.com/pennylane/5b5fa189-654f-483f-8287-b812862264a2",
+      "loc": "Paris",
+      "published": "2026-03-03"
+     },
+     {
+      "title": "Product Designer (Confirmed/Senior) - Remote Europe 🇪🇺",
+      "url": "https://jobs.ashbyhq.com/pennylane/d0918e54-49c5-42be-9e97-66b1186a4b66",
+      "loc": "Paris",
+      "published": "2026-03-02"
+     },
+     {
+      "title": "Product Designer (Confirmed/Senior) - Germany (m/w/d)",
+      "url": "https://jobs.ashbyhq.com/pennylane/0c36dac8-2482-47d1-940a-883ad394a737",
+      "loc": "Germany (remote)",
+      "published": "2026-06-18"
+     },
+     {
+      "title": "Senior Design Manager",
+      "url": "https://jobs.ashbyhq.com/pennylane/ec92cb34-4490-499d-8b79-3adcf58dbf9a",
+      "loc": "All France (remote)",
+      "published": "2026-11-09"
+     }
+    ],
+    "families": {
+     "engineering": [
+      {
+       "title": "Growth Engineer - Data & Tracking",
+       "url": "https://jobs.ashbyhq.com/pennylane/18f252a7-7b19-44b6-b175-6dfcaea8b2e8",
+       "loc": "France",
+       "published": "2026-11-04"
+      },
+      {
+       "title": "Senior Application Security Engineer",
+       "url": "https://jobs.ashbyhq.com/pennylane/a4bbb941-224c-486d-9dc8-e915e31c4c7a",
+       "loc": "All France (remote)",
+       "published": "2026-11-06"
+      },
+      {
+       "title": "Senior Engineering Manager",
+       "url": "https://jobs.ashbyhq.com/pennylane/8b166d76-d222-4a6b-977d-8654ba4af825",
+       "loc": "France",
+       "published": "2026-06-12"
+      },
+      {
+       "title": "Senior Backend Software Engineer",
+       "url": "https://jobs.ashbyhq.com/pennylane/ef6211d7-777e-4fd7-ae8f-d25c17df144d",
+       "loc": "Remote",
+       "published": "2026-09-18"
+      },
+      {
+       "title": "Senior Fullstack Software Engineer",
+       "url": "https://jobs.ashbyhq.com/pennylane/aee7ca91-2914-4f12-bf27-88c2593e2c5c",
+       "loc": "Remote",
+       "published": "2026-09-18"
+      }
+     ],
+     "product": [
+      {
+       "title": "Senior Product Manager 🇫🇷",
+       "url": "https://jobs.ashbyhq.com/pennylane/a4555925-195a-4a59-9367-fcaf27f2113d",
+       "loc": "Paris",
+       "published": "2026-02-23"
+      },
+      {
+       "title": "Senior Product Manager Monetization",
+       "url": "https://jobs.ashbyhq.com/pennylane/0cfac216-2fb1-4ea6-ab5f-68a07dafe9d8",
+       "loc": "France",
+       "published": "2026-10-23"
+      },
+      {
+       "title": "Senior Product Manager AI -  — Studio Builder",
+       "url": "https://jobs.ashbyhq.com/pennylane/c76653dc-805a-4406-9022-bb589bf3972c",
+       "loc": "France",
+       "published": "2026-10-28"
+      }
+     ],
+     "data": [
+      {
+       "title": "Senior Product Analyst",
+       "url": "https://jobs.ashbyhq.com/pennylane/56edd251-e7d2-483f-a6a0-e2acb7cb8fcf",
+       "loc": "All France (remote)",
+       "published": "2026-07-23"
+      },
+      {
+       "title": "Senior Machine Learning Engineer - Embedded AI",
+       "url": "https://jobs.ashbyhq.com/pennylane/57614043-7914-40b1-94a2-ed5203c4c0d4",
+       "loc": "All France (remote)",
+       "published": "2026-09-09"
+      },
+      {
+       "title": "Senior Data Analyst - Acquisition",
+       "url": "https://jobs.ashbyhq.com/pennylane/a26bbade-e859-4fa9-8f6b-b6f19bb1747e",
+       "loc": "All France (remote)",
+       "published": "2026-09-29"
+      }
+     ]
+    },
+    "counts": {
+     "design": 4,
+     "engineering": 5,
+     "product": 3,
+     "data": 3,
+     "other": 197
+    },
+    "source": "ashby",
+    "checked": "2026-11-17",
+    "history": [
+     {
+      "date": "2026-11-17",
+      "total": 212,
+      "design": 4,
+      "counts": {
+       "design": 4,
+       "engineering": 5,
+       "product": 3,
+       "data": 3,
+       "other": 197
+      }
+     }
+    ]
+   },
+   "news": [
+    {
+     "title": "Pennylane raises €175 million to accelerate AI development and European expansion",
+     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQb2NUdjNJZlhydTFYUTdMaTdfSjJaMjJLaFNuTWVzUzQ2LXZjT3ozQXZFSTdjdnVrU2VfaWNZbjEtR1NMdmNMTm9oalVydjcyNllGRl8waFBsa241MGdyYnFhaGliS2pBc3pramxyWExWUnR0VFlZajRyd3lqR1FXWGNLNm41ZnRoa0NmQnUtem85NjhpTERheHZya0o1bzdqNWd3Zm5ubHc1dXpaUUxsY243N0M?oc=5",
+     "source": "Dealroom",
+     "sourceUrl": "https://app.dealroom.co",
+     "date": "2026-04-15",
+     "tag": "funding"
+    },
+    {
+     "title": "Unicorn Pennylane raises €175 mn to scale AI finance OS for European SMEs",
+     "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9OUFpMaF9Ub3I1RllLeDBhSkpjdlhqblN2bTcyMW5vbkk4UUFGbnpzMFFOTHBVVTlDXzJYVzUyQzRGN3JiRXZlanFQOUxTYkNMWEtGcVR5WVZfZ3gtdC1JdV9sQ2JxRlpCYXpROEVZUklnbUJROHZHZXdkMDg?oc=5",
+     "source": "Beinsure",
+     "sourceUrl": "https://beinsure.com",
+     "date": "2026-02-02",
+     "tag": "funding"
+    },
+    {
+     "title": "French fintech Pennylane secures €175m funding round",
+     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQRHVteHIwUGlPYXROR21EMzdINXZCWU55eDljaHF4aTBjYktxNW15WXAtbUZPNjFJZ0xWaFVaY1ZibWRlU3p6VlhSWVFPVDNBUlhBejB0aU9zQjBsOE1vbkJ6bUxWdDI2U2FveFkxT3NVMVY2Nmg5X1FkUGgtSTRYcHhWYU53WUE1VHY2d29iWW13LXlQZTRrbzVIMjVFYkZTLXlncDZFTUFiQQ?oc=5",
+     "source": "FinTech Futures",
+     "sourceUrl": "https://www.fintechfutures.com",
+     "date": "2026-01-26",
+     "tag": "funding"
+    }
+   ],
+   "newsChecked": "2026-11-17"
+  },
+  "Skalar": {
+   "roles": {
+    "total": 18,
+    "design": [
+     {
+      "title": "Senior Product Designer (w/m/d)",
+      "url": "https://jobs.ashbyhq.com/Skalar/3c9992ed-38e1-42f3-8a5d-0a0b5ce700cc",
+      "loc": "München",
+      "published": "2026-10-09"
+     }
+    ],
+    "families": {
+     "engineering": [
+      {
+       "title": "Senior Full-Stack Engineer (w/m/d)",
+       "url": "https://jobs.ashbyhq.com/Skalar/73e1bf79-a3b4-4973-9d0a-da07ddb4d8af",
+       "loc": "München",
+       "published": "2026-03-16"
+      },
+      {
+       "title": "Senior AI Engineer (w/m/d)",
+       "url": "https://jobs.ashbyhq.com/Skalar/cde4a728-a388-47da-b1c3-d307398ec23e",
+       "loc": "München",
+       "published": "2026-03-16"
+      },
+      {
+       "title": "Product Engineer (w/m/d)",
+       "url": "https://jobs.ashbyhq.com/Skalar/405dfe48-69e4-45b8-afcd-35c64b7a96f7",
+       "loc": "München",
+       "published": "2026-06-15"
+      },
+      {
+       "title": "Founding Engineer (w/m/d)",
+       "url": "https://jobs.ashbyhq.com/Skalar/af1bfa65-2fee-4fab-bed6-f01122edf26d",
+       "loc": "München",
+       "published": "2026-06-15"
+      }
+     ],
+     "product": [
+      {
+       "title": "Senior Product Manager (m/w/d)",
+       "url": "https://jobs.ashbyhq.com/Skalar/9d2d68c1-ca7b-4052-bda0-d2f6b6fe553e",
+       "loc": "München",
+       "published": "2026-06-30"
+      }
+     ],
+     "data": [
+      {
+       "title": "Senior Data Engineer (w/m/d)",
+       "url": "https://jobs.ashbyhq.com/Skalar/66fa9b2c-4ca6-4792-ae6e-428d46d11776",
+       "loc": "München",
+       "published": "2026-03-16"
+      },
+      {
+       "title": "Senior Data Scientist (m/w/d) mit Fokus AI",
+       "url": "https://jobs.ashbyhq.com/Skalar/d9b89f4e-b002-4f06-a686-431da34b82db",
+       "loc": "München",
+       "published": "2026-05-18"
+      }
+     ]
+    },
+    "counts": {
+     "design": 1,
+     "engineering": 4,
+     "product": 1,
+     "data": 2,
+     "other": 10
+    },
+    "source": "ashby",
+    "checked": "2026-11-17",
+    "history": [
+     {
+      "date": "2026-11-17",
+      "total": 18,
+      "design": 1,
+      "counts": {
+       "design": 1,
+       "engineering": 4,
+       "product": 1,
+       "data": 2,
+       "other": 10
+      }
+     }
+    ]
+   },
+   "news": [
+    {
+     "title": "Skalar Raises €12 Million To Build AI-First Tax Advisory Firm",
+     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNRWRnWVdBeG1DMzV3MG5yYUlDeE5wNmdpQXdWTktVenhneXFOTkQxVlZuWXFtY3Bjb3lYODQzS3hEZWNWbzVSUWozeFI0aDhLdV9zLW5SYnpYZ045Rmw1aWFjRmNTSVJkTDhxT0tqdDNOaDg0b21lOVJ2YmU3Z250Qk9sR2Y5YTg00gGOAUFVX3lxTE16Y3lNSXIyeW9FZ0ZXYlRTM0FkQk5sRzNCUWg4RThzSFRzY3BXb1BSMFRHemE4b0ZlRmt2WUdpYmJtM2JybHZnRU9JOUV4Znh2dHpQZEUtSEF0MGJJWkxsRjhwbFZKM3BldjNFTnE5bEpFdVlNVkN3R3hqWWQ4akxSXzdUOGVXSFY2ZnJSbUE?oc=5",
+     "source": "Pulse 2.0",
+     "sourceUrl": "https://pulse2.com",
+     "date": "2026-07-15",
+     "tag": "funding"
+    },
+    {
+     "title": "Skalar snaps €12M from Headline to build a tax and accounting firm designed around AI",
+     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBNMnZDaWZSTGxZMlAwMWN2ZWJzZ3hLclh2bFotNGlwZ1FvUkl1UlBIQ1U3djdqOF9YTEtvcjJUbE9FZDFpQW1wRGxJV05CMDFaLVRtWXktLVFjeDktdkljemJibEQ0UkRYVGt6TEROQThKcFFPZ3UwN1pBV0g3MGM?oc=5",
+     "source": "Tech Funding News",
+     "sourceUrl": "https://techfundingnews.com",
+     "date": "2026-07-14",
+     "tag": "funding"
+    },
+    {
+     "title": "Skalar raises €12m to build an AI-first tax and accounting firm",
+     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxONm1ualhkbEVXdGVGNzloSU5JWE5aSWJBcVAxV1ZzY05uNmU3elNzMTRLUFBhOVZHbjlGUnZ2cjJJc0lQaXc0aXFuSTdPdjR3QTVxOGJISHhibDREQ2xCdlhDUFpTbjh1Qy1wRWRSNjJ4dnZIYW5aWl9pUVFTbVA1RkRZNmRXMjgteDdTTEFMYjkwRGhnTENyaWQ4TEk?oc=5",
+     "source": "Dealroom",
+     "sourceUrl": "https://app.dealroom.co",
+     "date": "2026-07-14",
+     "tag": "funding"
+    }
+   ],
+   "newsChecked": "2026-11-17"
+  },
+  "Avelios Medical": {
+   "roles": {
+    "total": 47,
+    "design": [
+     {
+      "title": "(Senior) Product Designer (all genders)",
+      "url": "https://jobs.ashbyhq.com/avelios-medical/7bed3c01-118f-47b6-bea3-f98765d9e77c",
+      "loc": "Munich",
+      "published": "2026-04-29"
+     }
+    ],
+    "families": {
+     "engineering": [
+      {
+       "title": "(Senior) Backend Engineer (all genders)",
+       "url": "https://jobs.ashbyhq.com/avelios-medical/827296fe-dded-4e56-bba5-2f8077977729",
+       "loc": "Munich",
+       "published": "2025-11-13"
+      },
+      {
+       "title": "Frontend Engineer (all genders)",
+       "url": "https://jobs.ashbyhq.com/avelios-medical/dc59bf48-4640-451e-853d-f5b610596bb0",
+       "loc": "Munich",
+       "published": "2025-11-13"
+      },
+      {
+       "title": "DevOps Engineer (all genders)",
+       "url": "https://jobs.ashbyhq.com/avelios-medical/1a6e637c-792a-437f-8ffd-1768d2a0be33",
+       "loc": "Munich",
+       "published": "2025-11-13"
+      },
+      {
+       "title": "Full Stack Engineer (all genders)",
+       "url": "https://jobs.ashbyhq.com/avelios-medical/9adc378c-a2c8-4e79-9161-5cff10602eef",
+       "loc": "Munich",
+       "published": "2025-11-13"
+      },
+      {
+       "title": "iOS Engineer (all genders)",
+       "url": "https://jobs.ashbyhq.com/avelios-medical/bf58245e-2bfb-4ebe-a5bf-a87c72521ed5",
+       "loc": "Munich",
+       "published": "2025-11-13"
+      },
+      {
+       "title": "Solution Consultant for Clinical Software (all genders)",
+       "url": "https://jobs.ashbyhq.com/avelios-medical/6a079125-f95d-4812-bae0-320173862632",
+       "loc": "Munich",
+       "published": "2026-05-19"
+      },
+      {
+       "title": "Solution Architect for Clinical Software Solutions (all genders)",
+       "url": "https://jobs.ashbyhq.com/avelios-medical/da9e9388-c2e1-425d-aaeb-d2a0480a584e",
+       "loc": "Munich",
+       "published": "2025-11-13"
+      },
+      {
+       "title": "Automated Software Tester (all genders)",
+       "url": "https://jobs.ashbyhq.com/avelios-medical/56d8456f-65c1-47de-b331-69f8ab5839e0",
+       "loc": "Munich",
+       "published": "2025-12-18"
+      },
+      {
+       "title": "Forward Deployed Engineer (all genders)",
+       "url": "https://jobs.ashbyhq.com/avelios-medical/521028a8-55fc-4d1f-8237-a511ef28a16f",
+       "loc": "Munich",
+       "published": "2026-04-30"
+      }
+     ],
+     "product": [
+      {
+       "title": "Senior Product Manager (all genders)",
+       "url": "https://jobs.ashbyhq.com/avelios-medical/328128fb-f8b8-4c01-9cc5-7f37c1100bc2",
+       "loc": "Munich",
+       "published": "2025-12-10"
+      },
+      {
+       "title": "Medical Product Manager (all genders)",
+       "url": "https://jobs.ashbyhq.com/avelios-medical/06f4606e-a753-43b6-8385-8576920ad3c9",
+       "loc": "Munich",
+       "published": "2026-08-24"
+      },
+      {
+       "title": "Product Manager Pharmacy (all genders)",
+       "url": "https://jobs.ashbyhq.com/avelios-medical/2889e72a-c0da-41b1-a365-57aee339ff91",
+       "loc": "Munich",
+       "published": "2026-09-16"
+      }
+     ],
+     "data": [
+      {
+       "title": "Machine Learning Engineer (all genders)",
+       "url": "https://jobs.ashbyhq.com/avelios-medical/8db0a6d3-d548-433d-90ae-dac66b1228a8",
+       "loc": "Munich",
+       "published": "2025-11-13"
+      },
+      {
+       "title": "Senior Data Scientist (all genders)",
+       "url": "https://jobs.ashbyhq.com/avelios-medical/936d4d4e-7d01-4e03-8fa4-08cf24507372",
+       "loc": "Munich",
+       "published": "2026-11-17"
+      }
+     ]
+    },
+    "counts": {
+     "design": 1,
+     "engineering": 9,
+     "product": 3,
+     "data": 2,
+     "other": 32
+    },
+    "source": "ashby",
+    "checked": "2026-11-17",
+    "history": [
+     {
+      "date": "2026-11-17",
+      "total": 47,
+      "design": 1,
+      "counts": {
+       "design": 1,
+       "engineering": 9,
+       "product": 3,
+       "data": 2,
+       "other": 32
+      }
+     }
+    ]
+   },
+   "news": [
+    {
+     "title": "NVIDIA in Germany: Agile Robots, Avelios, Mirelo, Reflex",
+     "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxONFZKanNjTThvOEVfTXFleG1CLUZleW1meThFMWEwd19XTlFRQTZBUUtyNDVNLUM3Ml9jYnJXUzhtZHl0U001cVFZX25lNWZKT3oyX0hsc3BPbHlOUnBGaVFzd0VjbkNJTm0wNmRvY3pCTjVsSm9lbE1sZjhUNG9iRjE1X19jc1hyZnJEb1NsQzRlUVNUaGVtdHdvWE1lTFhjeXY5Rkk5N0dfMy1Jd0Z5bWVqWmhNUHc?oc=5",
+     "source": "Startuprad Io",
+     "sourceUrl": "https://www.startuprad.io",
+     "date": "2026-10-21",
+     "tag": "other"
+    },
+    {
+     "title": "Nvidia plans stakes in Agile Robots, Avelios, Mirelo and Reflex Aerospace in $10B Europe push",
+     "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPZjExTnJmRHFoSGVBT094TzAzOWROcThiTXNjRGJfaThyWDVqNkFfSThycGhqUmFqTGJ6NFJORHQ2bExQMUpNMkxOOFdjbUtDSGhYbkpjSTQ2ZTNJeHkybGx2MkNRRnJHRWp2OUFSOXRsQy05Mk5xRm9ZN3lGanJ1eWloQTlLMktBc2xLdTFCMFVVUmRZVXBQRUVBLUVPcG91TkZHTE1hT1pVdnNJUFFSTnc1b1dLU2FQM1BZ?oc=5",
+     "source": "Tech Funding News",
+     "sourceUrl": "https://techfundingnews.com",
+     "date": "2026-10-21",
+     "tag": "funding"
+    },
+    {
+     "title": "Nvidia Takes Stakes in Agile Robots, Avelios, Mirelo and Reflex Aerospace",
+     "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOSzRzWnZYdjJHXzZhcVQ3QnkyNUhZblgtN1BGQndJbGQwMzBGelA2Qmx2TWRaaEdGRXljdm9MaHpiQTA2TE9VSzB2U0JBUTFkVjEzM0VmYzVzWVd2R2lJWmVNSjV2Q19TZGNNdEE0T3VCSzZCSnhtc091Q1d0SkR5WWd0V2YxdENJZFBQU2dDMkRFVTZy?oc=5",
+     "source": "www.trendingtopics.eu",
+     "sourceUrl": "https://www.trendingtopics.eu",
+     "date": "2026-10-20",
+     "tag": "funding"
+    }
+   ],
+   "newsChecked": "2026-11-17"
+  },
+  "1KOMMA5°": {
+   "roles": {
+    "total": 322,
+    "design": [
+     {
+      "title": "(Senior) Product Designer (m/f/d)",
+      "url": "https://1komma5grad.jobs.personio.de/job/2619626",
+      "loc": "Remote",
+      "published": "2026-04-30"
+     }
+    ],
+    "families": {
+     "engineering": [
+      {
+       "title": "(Senior) Category Manager IT & Software",
+       "url": "https://1komma5grad.jobs.personio.de/job/2762189",
+       "loc": "Remote",
+       "published": "2026-08-20"
+      },
+      {
+       "title": "(Senior) Lab Engineer (m/f/d)",
+       "url": "https://1komma5grad.jobs.personio.de/job/2855346",
+       "loc": "Berlin",
+       "published": "2026-10-22"
+      },
+      {
+       "title": "(Senior) Product Engineer - Heartbeat (m/f/d)",
+       "url": "https://1komma5grad.jobs.personio.de/job/2645786",
+       "loc": "Hamburg",
+       "published": "2026-05-22"
+      },
+      {
+       "title": "(Senior) Product Engineer (m/f/d)",
+       "url": "https://1komma5grad.jobs.personio.de/job/2634012",
+       "loc": "Hamburg",
+       "published": "2026-05-13"
+      },
+      {
+       "title": "Principal Software Engineer (m/f/d)",
+       "url": "https://1komma5grad.jobs.personio.de/job/2733962",
+       "loc": "Berlin",
+       "published": "2026-07-29"
+      },
+      {
+       "title": "Senior / Staff Backend Engineer - HEMS Configuration (m/f/d)",
+       "url": "https://1komma5grad.jobs.personio.de/job/2890979",
+       "loc": "Remote",
+       "published": "2026-11-16"
+      },
+      {
+       "title": "Senior Backend VPP Software Engineer - TypeScript (m/f/d)",
+       "url": "https://1komma5grad.jobs.personio.de/job/2544244",
+       "loc": "Berlin",
+       "published": "2026-02-25"
+      },
+      {
+       "title": "Senior Software Engineer - Energy Markets (m/f/d)",
+       "url": "https://1komma5grad.jobs.personio.de/job/2547705",
+       "loc": "Berlin",
+       "published": "2026-02-27"
+      },
+      {
+       "title": "Software Engineer - Edge & Cloud (m/w/d)",
+       "url": "https://1komma5grad.jobs.personio.de/job/2869700",
+       "loc": "Remote",
+       "published": "2026-10-30"
+      },
+      {
+       "title": "Staff Engineer - Heartbeat AI (m/f/d)",
+       "url": "https://1komma5grad.jobs.personio.de/job/2740345",
+       "loc": "Remote",
+       "published": "2026-08-04"
+      },
+      {
+       "title": "Staff Engineer - Virtual Assembly Line (m/f/d)",
+       "url": "https://1komma5grad.jobs.personio.de/job/2739962",
+       "loc": "Remote",
+       "published": "2026-08-04"
+      },
+      {
+       "title": "Statiker / Structural Engineer (m/w/d) – Gewerbe & Industrie - Remote, Hamburg, München, Berlin - 1KOMMA5° Commercial, Industrial & Public Solutions",
+       "url": "https://1komma5grad.jobs.personio.de/job/2742233",
+       "loc": "Remote",
+       "published": "2026-08-05"
+      }
+     ],
+     "product": [
+      {
+       "title": "(Senior) Product Manager - Energy (m/f/d)",
+       "url": "https://1komma5grad.jobs.personio.de/job/2398031",
+       "loc": "Berlin",
+       "published": "2025-10-22"
+      },
+      {
+       "title": "(Senior) Product Manager - Procurement & Portfolio Management (m/f/d)",
+       "url": "https://1komma5grad.jobs.personio.de/job/2715944",
+       "loc": "Remote",
+       "published": "2026-07-16"
+      },
+      {
+       "title": "(Senior) Product Manager Energy (m/f/d)",
+       "url": "https://1komma5grad.jobs.personio.de/job/2804896",
+       "loc": "Remote",
+       "published": "2026-09-21"
+      },
+      {
+       "title": "(Senior) Product Manager Heartbeat (m/f/d)",
+       "url": "https://1komma5grad.jobs.personio.de/job/2804897",
+       "loc": "Remote",
+       "published": "2026-09-21"
+      },
+      {
+       "title": "(Senior) Product Manager Smart Metering & Steering (m/f/d)",
+       "url": "https://1komma5grad.jobs.personio.de/job/2659159",
+       "loc": "Hamburg",
+       "published": "2026-06-05"
+      },
+      {
+       "title": "Product Manager – Global Services (m/f/d)",
+       "url": "https://1komma5grad.jobs.personio.de/job/2419435",
+       "loc": "Berlin",
+       "published": "2025-11-06"
+      },
+      {
+       "title": "Product Manager Energy Markets & Flexibility (m/w/d)",
+       "url": "https://1komma5grad.jobs.personio.de/job/2869617",
+       "loc": "Remote",
+       "published": "2026-10-30"
+      },
+      {
+       "title": "Senior Product Manager - ARR & Subscriptions (m/f/d)",
+       "url": "https://1komma5grad.jobs.personio.de/job/2836423",
+       "loc": "Remote",
+       "published": "2026-10-09"
+      },
+      {
+       "title": "Senior Product Manager Heartbeat Australia (m/f/d)",
+       "url": "https://1komma5grad.jobs.personio.de/job/2879098",
+       "loc": "Sydney",
+       "published": "2026-11-06"
+      }
+     ],
+     "data": []
+    },
+    "counts": {
+     "design": 1,
+     "engineering": 12,
+     "product": 9,
+     "data": 0,
+     "other": 300
+    },
+    "source": "personio",
+    "checked": "2026-11-17",
+    "history": [
+     {
+      "date": "2026-11-17",
+      "total": 322,
+      "design": 1,
+      "counts": {
+       "design": 1,
+       "engineering": 12,
+       "product": 9,
+       "data": 0,
+       "other": 300
+      }
+     }
+    ]
+   },
+   "news": [
+    {
+     "title": "Powering on together: Adelaide United and 1KOMMA5° extend partnership",
+     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNT3labVl0bWJNMGFJWjlWV2liUlBORThYZ3RVSS1hazdpcmR2SGM0NmFrdkJkREl2TGxhZm5ickJyQzVmNXBjRkYxMU53N0pIRWJNZ0xDN19pb2otTGp4WElzc3JBdThKbHdGM3VocWZocFhlQzZJZ2ZkdUxJVWNWWHNjdk9RN0E5U0hBN3NLeEcwS3ZDQ042VWpWelZENWZaemlJRmdR?oc=5",
+     "source": "Adelaide United",
+     "sourceUrl": "https://adelaideunited.com.au",
+     "date": "2026-10-22",
+     "tag": "other"
+    },
+    {
+     "title": "Osborne Clarke advises G2 Venture Partners on 1KOMMA5°’s EUR 70 million Series C financing round",
+     "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOdDE5YzV4Zk4tLXBoMkhxLTNrVDlQRl9mWms4Z1FfMnFGY2ZlNzFHRGlGR0FuQkQzUzdvMUdwdWsyNEZaTDFLM0FoeVAwd2RlYlpLTXl3U0JkajBNaThURUJ5cDNfSW1XZlNmNmJBTktkRXVGR19tTl9DMWdqczIyVDNuTFVjYmIwdHRWVlFsb0NDSkpKT0lVUkU2RU80V0gyMWVwX1E4ZmJjUTZadnJrTlBRSkF6UkQ3YXFNM0NxSWlXd0lRZHQzdQ?oc=5",
+     "source": "Osborne Clarke",
+     "sourceUrl": "https://www.osborneclarke.com",
+     "date": "2026-10-19",
+     "tag": "funding"
+    },
+    {
+     "title": "Home Energy Cleantech Startup 1KOMMA5° Raises €70 Million at Unicorn $1.35 Billion Valuation",
+     "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPUGVxMmFlc2F6T2RHZEFpdHc4ajVnUGh2WU0xbm5jYllTNjg0Tl9FZ3NTTUJkSkE4bWtwZUlkRU9QdkhoTlNlMnAzRER4Mnlscm5NT3kxR1JqbTE4YUVnSElidFZKNUJiT2xYWjNMa2Fob3pDUU1oeWhuV1FiVnB1LVBLZHJNWE1aVUt3N1dTMklaSnpDRkQzSVZxNFZaX0NuVURLZjQxMDVvbEttNEhybUgtYUVUams?oc=5",
+     "source": "ESG Today",
+     "sourceUrl": "https://www.esgtoday.com",
+     "date": "2026-10-14",
+     "tag": "funding"
+    }
+   ],
+   "newsChecked": "2026-11-17"
+  },
+  "Sereact": {
+   "roles": {
+    "total": 48,
+    "design": [
+     {
+      "title": "Product Designer (m/f/d)",
+      "url": "https://jobs.ashbyhq.com/sereact/c6316a22-37f5-4ed0-8be1-cc46f06073b4",
+      "loc": "Stuttgart Schockenriedstr. 17",
+      "published": "2026-08-25"
+     }
+    ],
+    "families": {
+     "engineering": [
+      {
+       "title": "Robotics Deployment Engineer (m/f/d)",
+       "url": "https://jobs.ashbyhq.com/sereact/a8755452-ace3-4d71-bdf1-4659feb43496",
+       "loc": "Stuttgart Schockenriedstr. 17",
+       "published": "2026-05-20"
+      },
+      {
+       "title": "Senior Robotics Deployment Engineer (m/f/d)",
+       "url": "https://jobs.ashbyhq.com/sereact/e9f5853b-3ba6-4d21-854c-4bd89bd6bd63",
+       "loc": "Stuttgart Schockenriedstr. 17",
+       "published": "2026-07-01"
+      },
+      {
+       "title": "Teleoperation Engineer",
+       "url": "https://jobs.ashbyhq.com/sereact/f9e8a75d-5d01-4ff2-a968-5e066ea395f2",
+       "loc": "Boston, Massachusetts",
+       "published": "2026-08-18"
+      }
+     ],
+     "product": [
+      {
+       "title": "Product Manager (m/f/d)",
+       "url": "https://jobs.ashbyhq.com/sereact/0bcdba71-5495-4d58-ba96-5530c3dd2017",
+       "loc": "Germany",
+       "published": "2026-07-06"
+      }
+     ],
+     "data": [
+      {
+       "title": "Senior Research Scientist (m/f/d)",
+       "url": "https://jobs.ashbyhq.com/sereact/d410b572-0fcd-4283-8856-f1a1dfd95f51",
+       "loc": "Zurich",
+       "published": "2026-07-08"
+      }
+     ]
+    },
+    "counts": {
+     "design": 1,
+     "engineering": 3,
+     "product": 1,
+     "data": 1,
+     "other": 42
+    },
+    "source": "ashby",
+    "checked": "2026-11-17",
+    "history": [
+     {
+      "date": "2026-11-17",
+      "total": 48,
+      "design": 1,
+      "counts": {
+       "design": 1,
+       "engineering": 3,
+       "product": 1,
+       "data": 1,
+       "other": 42
+      }
+     }
+    ]
+   },
+   "news": [
+    {
+     "title": "Teradyne Robotics and Sereact partner to automate robotics systems for logistics applications",
+     "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQV2szbXpPYkVyNWlFQ3BLZlQ5THNIeUkxYzFhQTA0a0stdjdza3J1Z0V4a3ZWeGk1RWlsOGJmdEh6c0hKUnYtcnpGMHhXN05uRzB5WXhjclhxSlp4aFZJWWhaV2IzbzVuZlBHVk5aZ3AweTMwZkMyb1RabXZqNVI5OE52aG41SjVjbGJESjh4WHZEaUFhaGFJNzZMQlE3MUJ2WHI3dlIwV19HZEVORzhobllXSGVCZnByNF9neUFR?oc=5",
+     "source": "Modern Materials Handling",
+     "sourceUrl": "https://www.mmh.com",
+     "date": "2026-11-05",
+     "tag": "other"
+    },
+    {
+     "title": "CEVA Logistics, Sereact and Zalando launch robotic returns handling solution",
+     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPNjRPUENWUWh4eTdMNDQ1aEhxMVg0UHd5MmZncTVPeVhYbF82dDJDS3RDWXlQemdPbS1weEdsTVBsaWppWTdBZk9VMFZPcXRONWZScXlsdVhNdzM4NDVPWkxOanJkaU04T1AwYjNLYTFmS2RFU25UVl9fWHRuOGNpUVhGdHdUS1hHbHI3Y1haRDRaQUx2U3NUWFBSOUNRX0lzVlBneTlB?oc=5",
+     "source": "Modern Materials Handling",
+     "sourceUrl": "https://www.mmh.com",
+     "date": "2026-10-29",
+     "tag": "launch"
+    },
+    {
+     "title": "Otto Group and Sereact Bring NVIDIA-Powered Physical AI to Returns Processing",
+     "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNcndEbG9PQ3pIcG1MQVF6R0RxRXdac1RYMlNzbjRWc3QtLTdzOTB4aVY4MGxnRE13R3VVYnFyQmREWGRqY19ZWHM5UVZLTmNMZXd4R1JBNHMwdkdOQzVtOHg0aVZ1MFplTUVpOTlSbnhxZGd1ODZjSVlqdkVoWU11X3dqdW5HV01Hdm42MmttQmJMQUtGMGM2LTcxT3FGYzVlQUkxU3hWNXhiWnNNdmllYURMb3F0MzRkN3BwQ1dkNFZCcUdVLU4ydF8wU040VHJNMnVrdmo5Sy1CV2E3T0JaSENIVQ?oc=5",
+     "source": "GlobeNewswire",
+     "sourceUrl": "https://www.globenewswire.com",
+     "date": "2026-10-28",
+     "tag": "other"
+    }
+   ],
+   "newsChecked": "2026-11-17"
+  },
+  "Lio": {
+   "news": [
+    {
+     "title": "Procurement's invisible 80%: why Lio's AI agents own the end-to-end job",
+     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPZXg4NUtJa0VMWHFHWm5pNXpvbW1wMmg0ZDYwUDQ0c0lnMy0xVmJfYjVYVE1QbEdwTEpDeFIwMmZHM0l0MWpLYTZjak51YWJSOFZtNHp4bmNVaWQ3a2pHdGdKdDFwRTRpUDh1eWdTMkFzNjlRS1hyQnpKczFvLVdlZjBpQ25YZXRoN1NaNEFzOUlkeDVYTzhBTzZGcTVuOG1PUjNTTmNB?oc=5",
+     "source": "Dealroom",
+     "sourceUrl": "https://app.dealroom.co",
+     "date": "2026-10-05",
+     "tag": "other"
+    },
+    {
+     "title": "Lio's Bots & Buyers Summit Heads to New York",
+     "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE44c1pGQXZvUDR2b2tEMFNBbGlCTFhhQnYyTV9JNW1NdGdLV1AySnBUX0FPMkRXcTc2MHRmU19JNW9nQnY1RlBRdGxTU2tHU19Hc0xOT1dON3Y0Z2E3clNnWDlTeHBxX1MtNi1SaGI0MUlZcEg1MXVIdk9NZnBLUQ?oc=5",
+     "source": "Procurement Magazine",
+     "sourceUrl": "https://procurementmag.com",
+     "date": "2026-09-15",
+     "tag": "other"
+    },
+    {
+     "title": "Why has Lio Appointed Jared Petras to Lead US Growth?",
+     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQTGNvbUt0ZEg3RTFBMGhKa2hGcHJ2WUxXZFBPdE1JVnNkOG5JMzF4SXkybjJVaTB0eGZFMTYzak82OFVXaDdUTzdjMEdKYVEyLWV1c1FFYjdUV1BZRXBFMTA0cm16NE5GQ0wyQmRyN191VVJTOVVkMWlQdm54S1lxOUh2ajRTT2xoc1k0RA?oc=5",
+     "source": "Procurement Magazine",
+     "sourceUrl": "https://procurementmag.com",
+     "date": "2026-07-16",
+     "tag": "hire"
+    }
+   ],
+   "newsChecked": "2026-11-17"
+  },
+  "Tendos": {
+   "news": [
+    {
+     "title": "Tendos raises €12M seed round, topping 99% of German enterprise software peers",
+     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQTGZRQVlmOGRIYUdvYUhVeUhpVUtmRjJoVWRDbXJtZlI3MnRqVGNKeFFDeVhQNno4WFVuY255dDJFbkJFT0E3SkI0eUtEdWRMRUE1QVQ0TmxXWVVHWGplNjBTcEZfWFZVVmJtVjdxWHJPd2x4OC1oTjQ2UTlYaU90OFVRS2EyamVSbE5sOHQzaWU0MG1IS09MMTdTQzkwTFJIN2Rkbkd3bWlMdWNCX0E?oc=5",
+     "source": "Dealroom",
+     "sourceUrl": "https://app.dealroom.co",
+     "date": "2026-11-15",
+     "tag": "funding"
+    },
+    {
+     "title": "Tendos Raises €12 Million to Bring A.I. to Building Materials Makers",
+     "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE56bXFlaU1nWVdrOEZlcjIzZEJZSW5YTEFFdEVGTmdsdG1vTFpyZ3RjcG9hRXFHN0E5Z3hDcEY5MWhQQmJZZk9lZ3N1V3dHZzl1QlhoV3UzWnEyQUwwUVBDT3dNbXl0Xy1YbGFsdTBUNGhxQ1NhMVJRanZR?oc=5",
+     "source": "www.trendingtopics.eu",
+     "sourceUrl": "https://www.trendingtopics.eu",
+     "date": "2026-10-27",
+     "tag": "funding"
+    }
+   ],
+   "newsChecked": "2026-11-17"
+  },
+  "Atira": {
+   "news": [
+    {
+     "title": "Exclusive: German startup Atira raises $17.5 million to streamline cumbersome industrial sales process",
+     "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQdS1PcHVGaENFRWl6Mk5uelU2Slc1NHVVWVc1V0pCR3pKWmtYWWpzeUc4ZXg2WFZNdXo3SURudmhIRWl1UDV5YWlyblhhQTNYZVA4Q2Z6T1Y1bTF4Vy1kOUN5ZFEwMXRZYXhUbEE1cEswdE10T2NDY2dGTWREbWoxY3NzVzljbGlVeWkzejFfcnVGT3ZzOWRjZzh6TUY1M3U5VHFlUG9LZ2FxSExZOU9ja1ZsbzFuUi1pcDYxbDkyUmhScHFnNWNqeXUzcFdMVmVDbUNoOU5QT0FrWXNtX2c?oc=5",
+     "source": "Fortune",
+     "sourceUrl": "https://fortune.com",
+     "date": "2026-09-03",
+     "tag": "funding"
+    },
+    {
+     "title": "Atira raises $15M seed to automate industrial sales engineering",
+     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOSGFMcHBWTTR6NVJlNGlSUzdJNzlRdWNRTmljWERXX0RxNjQtUXh6akhHaGpuZEFNcFVWQktzVVBDQUw2YU1aaDMxcVRZdDhfVUZCeEhkVUlLNERwWF9TMk1uODdGNURkQnltMlZHVm9HdGQwRHVzMi1iWWpodjJsT0xhTnVva3FVYm5WbTd0djZ0THMyV3NuRnFoVnk?oc=5",
+     "source": "Dealroom",
+     "sourceUrl": "https://app.dealroom.co",
+     "date": "2026-09-03",
+     "tag": "funding"
+    },
+    {
+     "title": "Atira raises $17.5M to bring AI orchestration to industrial sales",
+     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQUjBrZTBJbFZwMzBSNHcwblk5N1IybHA5VUItS001MlVxM2RpOHlMVlpEQ0ZGZHdFNmZnXzd3dGRIODV0RXNNZmN4ck92dktuellRQzJNVy04alZCeTRzLVdocXpQTjlIQ0pFY2Nxa3RDU3VOYVFZMHY0OWFwYXJEVk45VVlwT0x1dWpKUzA0WWhGb3J5RkE?oc=5",
+     "source": "Tech.eu",
+     "sourceUrl": "https://tech.eu",
+     "date": "2026-09-03",
+     "tag": "funding"
+    }
+   ],
+   "newsChecked": "2026-11-17"
+  },
+  "ClearOps": {
+   "news": [
+    {
+     "title": "ClearOps: €8.6 Million Series A Raised To Build AI Operating System For OEM After Sales",
+     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxORllsbmZwcVFUYmplS001OE05VVlqQ0tRUDI0cy1HQ3YwNTFYOHBNLXcteDVUdlI1SEtNVTB3RDRSSzlHaVp3anpVWjFMN1JYUjB0cWxTSzBEV05LdHNEMGwxQy1vOHJ2REF4Vklwc0pzZUZCY09HaDdNZmpUVXhKX2k3VXNnTnNLU1lBVDBNRUVmaTdya21hQTVPZHhtN1UtWGpFODQzMjlQd9IBrwFBVV95cUxPOGFTX2sxYVFlZU55NTl2RmhFZkFvSlN1SE15Q0RnemNKdFFkT21DRDZZZ0Y5UmRTblJzaTctWmVraUkyTVladGdyLWh4WWVkZ3p1WjM0SlppRURsdVg4MUt5c2wweEVqMWhFRGZmWm5qVWVUaGVKcW9WSGgwZVpGR1pqM2JENlFqTDNUNVR3ZFJpTXp6X0JVdW5ZYU5wYlFGZHhPTFNnVlJydVhycnVZ?oc=5",
+     "source": "Pulse 2.0",
+     "sourceUrl": "https://pulse2.com",
+     "date": "2026-05-24",
+     "tag": "funding"
+    },
+    {
+     "title": "Munich-based ClearOps raises €8.6 million Series A to build AI operating system for industrial after-sales",
+     "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNWjhwbkM1d1h0QjcwY0lxNlJCdG5ua0lvNEI5VFBjTVFabFQ0Y29JTVRZV2FLSlUzeUYzLXEyRUdxRjQ1SGgyTVJGd0hzeW9HSV9JbTRZZHZJQkwza2l6RzAyV2JBX0FkQzVPLVlwYTJwSlNUZGxydWxJTlFaVjNDTXczamhpdGU1Yk1adEJLbnh6UHQ1bE1fWVlTUDFEQVM2RmVvRlV3S2UzVzZpYUZnWnhxcFpyU01GX3VpNzNZd2d4QzdfeEo5WEItcUZnNkJieFlaUnZXRjFWS1k?oc=5",
+     "source": "EU-Startups",
+     "sourceUrl": "https://www.eu-startups.com",
+     "date": "2026-05-21",
+     "tag": "funding"
+    }
+   ],
+   "newsChecked": "2026-11-17"
+  },
+  "Causa Prima": {
+   "news": [
+    {
+     "title": "Causa Prima Raises $20M for Buyer-Supplier AI Network",
+     "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxONmJmNGZWa1NtLVJUNnVOUzRaR3hQWmIya0EwWnl0MUJ4OXVEVlA3eVpYODFrX2VVNmZFQlZqMWpmQ3Q2UTM4NHAzVmZGbnk0elM0MndGSFdBZ194S0p0b2JYTTNIR0w1N2tORTBCc2Y2bFJ5U0xXNDhwU3llS2FVT0VXMUIyNTF6c0ZiREFB?oc=5",
+     "source": "Quasa.io",
+     "sourceUrl": "https://quasa.io",
+     "date": "2026-10-16",
+     "tag": "funding"
+    },
+    {
+     "title": "Causa Prima raises $20m to end B2B billing disputes",
+     "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPUWRJaEZvVGhMTUpuOTI1dDRwczJpcjdGMFZTOE9mU2h3eHNsVlNIMnBIUGRLQUdoWVBiOW0yVEVQa3dSSnJOcFk1SlBaelhpNXJyaWlUZDhDZjVxdm10cEdfdFlxTWdkcnoyWF9zWTNlVmc0R0JxM3ZDcWVGRjFsLTZzdlF3QzhvZE8tN2ln?oc=5",
+     "source": "FinTech Global",
+     "sourceUrl": "https://fintech.global",
+     "date": "2026-10-14",
+     "tag": "funding"
+    },
+    {
+     "title": "Causa Prima Raises $20M to Expand US Operations, Deploy AI Agents for B2B Payments",
+     "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPZW16UnhoOWcwU2oyOUdxUnd5cDFaY214ZDBaMm1rUk93RDA0WmRvek1xZDVFMDQzUFFWSi1XYWM3dUdaUkZlODdOUUJMRUtRYkVmdEZjalpCSTFSdXZYQjI2ZUd1eEFZYTNHVXJYcVNLLVUxTl93TGhHTXJpZmc3SWdkYndlQTZRWUxIZlh1NXBMRUJSREZXZk5pNHloUENvRlk2cnFrYnVwNjlGOTZIUkFyOGhMSENWRG4w?oc=5",
+     "source": "citybiz",
+     "sourceUrl": "https://www.citybiz.co",
+     "date": "2026-10-14",
+     "tag": "funding"
+    }
+   ],
+   "newsChecked": "2026-11-17"
+  },
+  "Lanes & Planes": {
+   "news": [
+    {
+     "title": "Lanes & Planes appoints first CFO",
+     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPeVA3Z2F0NU5QQkNzeUFQd296RmJzT0JhbVkydllkUFNvU3U0YXdhVk9xWW5hYXl5T1puZnZQZGViUGlwVVdfWEwwTnhFZTNYdTJLQVN4UFlIVTNsTC1rOTdQbmNhT2JEVjlnZVFyOUhEdE9BY3JNSkpwdU1qQUYwemhYWEpYN1V1TXN2RA?oc=5",
+     "source": "Business Travel News Europe",
+     "sourceUrl": "https://www.businesstravelnewseurope.com",
+     "date": "2026-10-28",
+     "tag": "hire"
+    },
+    {
+     "title": "Lanes & Planes Secures Double-digit Million Euro Financing From BBVA to Fuel Growth",
+     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPWUVxS3BPSk40RUtGNGZSdFAtV1E5ajVGZHVGek1rRkE0TVZYdTdzN3c5OVdZWTNqN1c1LUhEUkFDRmNhSW9MdjNMdExYcUpnLVJFUk40ZmlNX0VoQ0pzemVUeURGcEtaMGdGV3A2YkRmVnZoWHZsNWc5aEs0MG5vTklMNjlhNGF0SDNla2RVWkhlSHZ2OU5kaGk2QTdfM09SMDlxU2dnTllqMUd4c3Nickh5YWNZM0d4?oc=5",
+     "source": "BBVA",
+     "sourceUrl": "https://www.bbva.com",
+     "date": "2026-01-29",
+     "tag": "funding"
+    }
+   ],
+   "newsChecked": "2026-11-17"
+  },
+  "Secfix": {
+   "news": [
+    {
+     "title": "Secfix lands $12m to automate European compliance",
+     "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQY01ocldmSXRwZzFtTEF6ZldqdUUwWHhUbExSQmdBR0JIQUhYNkh6eFE0WXdPTGpEQzJPc3NIQTdNNFpQYWVSQVN4MTJJX0tUOFZEWlZiRy1QSk11cy1rZjBDWFJfOHkyMjJpWm1aMnVGUmFsRnF4WVpUNVJuMy1PRDlnNTduRVlKZlc0?oc=5",
+     "source": "FinTech Global",
+     "sourceUrl": "https://fintech.global",
+     "date": "2026-02-26",
+     "tag": "funding"
+    },
+    {
+     "title": "Secfix raises $12M Series A to build end-to-end security compliance platform",
+     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQcU13bHVkVlJFTk9RVXJfLXV2SDRLM0h2bENIQXFrUzgyQThkbXBEaExTbnVGeWhaZVZWUl9yR0FuNjVocU1xQTl6eXhfaEVzTUM3YzNOalNhUmpJWlR1V0pMVXpTX09Hei1HSDFPNTRHNVhuTlhIMU1DQUk1TkJOUHBQWDNJNUpKMHZQNkhmNEhJaUQzd1NZb0t5NTlieFUzdlN0UVF3?oc=5",
+     "source": "Tech.eu",
+     "sourceUrl": "https://tech.eu",
+     "date": "2026-02-25",
+     "tag": "funding"
+    }
+   ],
+   "newsChecked": "2026-11-17"
+  },
+  "Voiceline": {
+   "roles": {
+    "error": "Personio voiceline: HTTP 404",
+    "checked": null,
+    "design": [],
+    "total": null,
+    "history": []
+   },
+   "news": [
+    {
+     "title": "Voiceline.ai Review: AI Voice Messaging & Automated CRM Documentation",
+     "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNN19SdE42aGsxeVRrS3BJbVZEQW1scXFoUGpsZkkxMHFKQnZ3U00yTzNwemx1b0k4LXB4X1dRY1poSmN6dnBzREpJb3hCLW9hMDdWa2k1cWttZHBzSHB0WlpWalh6MnhzMnhvRGtFRzNCYUxWLUZ4Z2FCMHhtdmhhU3hGOTRCNldIcU1CNGJNa0I2Zw?oc=5",
+     "source": "Quasa.io",
+     "sourceUrl": "https://quasa.io",
+     "date": "2026-10-19",
+     "tag": "other"
+    }
+   ],
+   "newsChecked": "2026-11-17"
+  },
+  "Sinpex": {
+   "news": [
+    {
+     "title": "Sinpex obtains EUR 10 million in Series A",
+     "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNUmFCUElyNFpfTmthWHU2RjFJWVRwZlYyRWJxV3pJUXVidmxhdTdaZ3lSa3FDbERxTjNLdzhwU1hXdkJ5b0JFQk1EdV95TlVpVEN2WFFSbGZiTGVVS05seS0zb0VBeVRHWExncTI4RHc5VUdSeTN3d0NUX0lDS1p5YktaTTVjSWtPRm1QdldGQW80RzlB?oc=5",
+     "source": "The Paypers",
+     "sourceUrl": "https://thepaypers.com",
+     "date": "2026-01-20",
+     "tag": "funding"
+    },
+    {
+     "title": "Sinpex Raises €10M to Scale AI KYB Across Europe",
+     "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9CaXlhZXFmaThFczZ3Yzcwdms0XzhCZUlwbmp6WU1qcXNBYzZSV0prVGJOeDRyZ2ZzRktRdVU4VVNkd3R1MTQ5N1M0U0xpQzR1WkxVMTdQd05wN1pQaUZ3elFiODR2WkI5LXAzVVczVFJyNUJXZDk4ZkwxdHB3Zw?oc=5",
+     "source": "StartupValley",
+     "sourceUrl": "https://startupvalley.news",
+     "date": "2026-01-20",
+     "tag": "funding"
+    },
+    {
+     "title": "Taylor Wessing advises BlackFin Capital Partners on €10 million Series A financing round for Sinpex",
+     "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQVXNzaFlaOVp0R242a3lUSzUyX19laTQtWG15TEdpb28xaEJWSWlzTFlaQkZqVzJfWjI3STF4RDA2VG43Qlpvd1Q1d2VtSnprNFlVNHBWZk4yQ2p3N0FuWFVuR0ZFSnZKQXIzcjVqVmxJX2lTQ1pobllaMnFMUzdQVGtmTDNTeUI3SGg3QTM3UEhVb2RaejVmZ0pKTHJXYlhLYzB5N0FtTlNFZmJGbGZvSnVHTGowdDcteEZ2Q0R0dXY0YTFMZzRVN204dEpnVzVoU0JnUU5lX00?oc=5",
+     "source": "Taylor Wessing",
+     "sourceUrl": "https://www.taylorwessing.com",
+     "date": "2026-01-20",
+     "tag": "funding"
+    }
+   ],
+   "newsChecked": "2026-11-17"
+  },
+  "Rencore": {
+   "news": [
+    {
+     "title": "Rencore Launches Multi-AI Governance Platform",
+     "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQZHNWNEk5aUUtbjdDR1R6TlFxVjlIOFNkTjBjVU9EVS16ZTNXbG5mSTBKSkNXS29SWEdjdGFYb3lyVldKN0lfWXpRU0JselhrVldhTFk4cGpLcmUtOEQybXVKMVFZMnVISkJPVk5WOUlwZEZyTTc1YmdzcVZHelU2aUt3WERkMjk1bzBXRkllck5yZzZSMS02UlFXa0lrRjltblZ5ZXhQa2VhcUE5dGxDcS1vMEtsczg?oc=5",
+     "source": "Konsulteer",
+     "sourceUrl": "https://www.konsulteer.com",
+     "date": "2026-10-08",
+     "tag": "launch"
+    },
+    {
+     "title": "Rencore: Series A Extended To $15 Million As It Expands AI Governance Platform And International Footprint",
+     "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPdU1yX3VNZngtSmZWUlRvck83TjB5M3JKRndOSDZoNXR5X0RJMEJ6UjF4cy11MjZyaHNmeFF2QlBNWjRybDlEX3FjY2tWM2JQR3lwbU9QbGxaSkhTTTJhOFRaV0diNmx0QlFaVWVLZzM5bVYybk9XMmR5M0pOYk9mX1FxN1c0MDJhNk9OaGo5NzQ2Ym1JTFhJdG0tYnNtenFnR3BKQ21aaHU4bm0xRFIxSWstQnB6OXlZcTZrZ0w4VkNNZ9IBxwFBVV95cUxNNW1jSzZrd1RRcG9xRS01OGRpWHdCcWRuMVJkbHc1bkpVQV9HY2tGOFp3clVRVVlGb1gxQ0lnTW54dV9WTmpSeVN2eE53R3dKSUpDbDZUMUI3eU9NRHpfbjhqZEVEcy1Hc3pFOG12bVlFVkdTQ2FraWtiT3RGMEZRLVo1N3Y5MzVTbFU3LTRPYkxmSk9nUEtnbUhvOHBmTHltd2VOUlJxaVVaeVFINklaRlI1RUNuY1BlNjNaeTRBbkpuNDZqeTlB?oc=5",
+     "source": "Pulse 2.0",
+     "sourceUrl": "https://pulse2.com",
+     "date": "2025-11-30",
+     "tag": "funding"
+    }
+   ],
+   "newsChecked": "2026-11-17"
+  },
+  "Elevatry": {
+   "news": [
+    {
+     "title": "H&Z Management Consulting invests in German strategic procurement startup Elevatry",
+     "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOeXd3YW8xQk9wek5qS095Mi1tVmtjRVZnQXY3RUUyYnltamdhamxUX3F0amgtVFdxNWpFTTZudmU1VDBWdV81UWNhbUduS0NlYlZ1dHFmQ0doTlhJd3FuMWVWSnh3RHlPR2xjY1ppZENsTkVwdDhzS1QxR1Y3UVhVM2tyQUJVajVQR1JRY1NwODBZX2xRQVRTN0NjWVZSUFp1YXlaN29sNnJDSnNmTURCcTRBOXZSRGRUdFI40gHAAUFVX3lxTE9NQ185UHVkS2Iya1hSN0RnRXI4Ni0xR09GdnNHT1RaYy01aW9JdF9wWlkwRXE4SXJPMTBSU2F3WGw4ZmFtZmdmbU4wXzA1R1kxMFI0MVB6LVhaX3FKZkZKQU1aQmJQbkEyU3VMTjJ6d2NDaXFTcUVqNzJUeXFUcTkweFliX1FYYTJzUjNBaHA5SkVaZ1JXY3RCSDMzYVR3VnFhd1dzYk1KbDlxeF9WX0lWQ18wQTY2bkdWdXQ4dFhuRw?oc=5",
+     "source": "Consultancy.eu",
+     "sourceUrl": "https://www.consultancy.eu",
+     "date": "2026-10-16",
+     "tag": "funding"
+    },
+    {
+     "title": "Elevatry Raises €3M Pre-Seed for AI Agents That Automate Strategic Procurement",
+     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNbFZIYUpuWkF5OTZqdjI1NW1rSmp5endxbjFEUjlvR3dPVGtGTW5rbVJ3VHJ3N0JqdUhMVTE2ZEFITGxZamVOd19TVmtEOUlhSjBWN25OY1dUOTEyQ0EtbDlzeW5EZHUwZ3M1S3p5Q0ZqbEl2TG9kaG9xNTdKLURkZno2a3ZOa205cU5MbllwMGxUU01XNG9HUFNtRTMtXy1VZEEtaXJqNl9iQ1NPQ01WSGxB?oc=5",
+     "source": "Konsulteer",
+     "sourceUrl": "https://www.konsulteer.com",
+     "date": "2026-10-16",
+     "tag": "funding"
+    },
+    {
+     "title": "Munich's Elevatry raises €3M to bring AI to corporate purchasing",
+     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOYS0tZW9YaXAwZW9QWWFmdlloeG1oZ2s3MjdYOG80b1hscnhIY0ZqTkVRcHZjVDB3RkZvd0p0Y3FBS2FfRDRGN1ZSM0pzS2ozRnRkb0diaVFEMndFcEFaQ1FBcGVvUWVxcndLc09mampCckdfalkxVXBpaDB2MWNiZ1NoM080T1EyM3dqb3pQam5xSFJRSGpRazBUYk92Zw?oc=5",
+     "source": "Dealroom",
+     "sourceUrl": "https://app.dealroom.co",
+     "date": "2026-10-15",
+     "tag": "funding"
+    }
+   ],
+   "newsChecked": "2026-11-17"
+  },
+  "Interloom": {
+   "news": [
+    {
+     "title": "Osborne Clarke advises Air Street Capital on seed investment in Interloom’s enterprise AI memory platform",
+     "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPbEthSzczdVd1VE1TN0lnZVFkQlhxeDlGZWd0aVl4QUowM24yaERiOHR5VlZTNXNZbV9tTC05bWdqTTZLcnpWamhvRUNEUFdxLWh4ZDhzSkJISXNxNDNMdjBTV0Z4S2F3TTdvOUlPaHpQeUo2WjFGY3dIXzU5d2JrR1JZS2hOZXBBd2pFS29GT0tybWRqQXFKS0Z5MURJWWsxNmJlQ1pEMG9lRFJsYUpwYkNWZ05PSjcxTEFnclBqZHIzdw?oc=5",
+     "source": "Osborne Clarke",
+     "sourceUrl": "https://www.osborneclarke.com",
+     "date": "2026-04-28",
+     "tag": "funding"
+    },
+    {
+     "title": "Exclusive: Interloom, which wants to solve AI agents' 'tacit knowledge' problem, raises $16.5 million in VC funding",
+     "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPWjRsSmNmQ3M4clY5alRPV1VSZVNrazQ5U3BwTWlGQzBtVHpHOXV6QnQxNDAyOGo4N2M2YXBQT1k5cjItbVBxUnkxWTRlTWh4S1pXbm9CbEZoN1FwMXM4blAzeE5HY2ZySGlGVFRwWUdTTW1icFdnRVo3aEFJdm5IYkdmWC14WkVQUndFTWpB?oc=5",
+     "source": "Fortune",
+     "sourceUrl": "https://fortune.com",
+     "date": "2026-03-23",
+     "tag": "funding"
+    },
+    {
+     "title": "German startup Interloom lands €14.2 million Seed funding for AI agent knowledge infrastructure",
+     "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQaDZoLW5WZEFsRXRRU3lkUW9XUWRXNndMRzRjTURkNmc4Z09ycXFRVHJrRHVxYmFacDFJdUpZNmotUXZBa3k3NG1vcWZTaFA2Q2dyQmhHMC1HN1otTkM4RFdMYTBCX1AwNXRad1c2V3NlVms1OWhJRXlwcXhUeFBWZHdWREk5X0ZVeENqQ0JwVENNRS1NSkxVcjNjYmRhdDgwLWdnWkNlRDZZZmk1cXVOaU10NFY0VExtcmxfNHJ3M1dxT2VxNEJsT21qQXM?oc=5",
+     "source": "EU-Startups",
+     "sourceUrl": "https://www.eu-startups.com",
+     "date": "2026-03-23",
+     "tag": "funding"
+    }
+   ],
+   "newsChecked": "2026-11-17"
+  },
+  "Finn": {
+   "news": [],
+   "newsChecked": "2026-11-17"
+  },
+  "NavVis": {
+   "news": [
+    {
+     "title": "NavVis introduces agile handheld capture device for reliable as-built data at scale",
+     "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQdGpCOXM1WHVQaDdzdUxCZ0tZZ0hEbHF5QnFwU0t1ckdFa2RPcVdKeEM4Rm5EMjFKZGd4S1d6eGY0RDd2ZUxFaV9iNzZVNzJ2bHd5c1VJdmNKdnhnaVRhMU5vWU54NWxlNW45UV9nZGgwOW1HVjdoUFFmZDh4aG12eFRiRHhoUy1hcFJ0d2lIWkhSYkFEWTZGOTJVTVFkM1JKeGNwQ0cyNFVBdExudzExaXZvQlA5SnZ6Wk9aSHAzTQ?oc=5",
+     "source": "GIM International",
+     "sourceUrl": "https://www.gim-international.com",
+     "date": "2026-09-10",
+     "tag": "launch"
+    },
+    {
+     "title": "NavVis Raises $85M to Own the Spatial Data Layer for Physical AI",
+     "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9aVExLN3RKRnlQS0treHdYeXdWcW45WHF6X3ZLTHpCZEtfZHJVUFdXYl9GNHd2ZGVWNHZaUHhkQ251aF9ZblFkUEFwSmJkLWhhU3NMTWdLTndJTDR0SjlUY0xzMVJhbWtmbGtYa2sxc0xYdkVWUHN3?oc=5",
+     "source": "Geoawesome",
+     "sourceUrl": "https://geoawesome.com",
+     "date": "2026-08-15",
+     "tag": "funding"
+    },
+    {
+     "title": "NavVis raises USD85 million to expand spatial data platform",
+     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQOXE1Q0VtUjZNbGlQR3hnWGFuVE5XdlFTSjkzVzMzblZiYl8yakk3ekxqZldVOTlDaklFMEdfNHNFNEozeXdiZVBNeEJlNGNYeWFlajhDVTdrZHo3c3BrQkQ1QVRDdDdVY0ZlbUJzUk5nRS12UWhmSzVzX2JpWTZrZS1hUXFpeUJLOUdpZ1lMVGJLUWVoT2Z4UFM0Z1NxbWs?oc=5",
+     "source": "GIM International",
+     "sourceUrl": "https://www.gim-international.com",
+     "date": "2026-08-13",
+     "tag": "funding"
+    }
+   ],
+   "newsChecked": "2026-11-17"
+  },
+  "Limehome": {
+   "news": [
+    {
+     "title": "Austria: Limehome breaks the 1,000-unit mark with projects in Vienna and Linz",
+     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNR3BYVEItbnBFX3BRMzhvSzFyLTNUc3V5cHZHVllkQlVTY2hEb0RaS0g3cER2Skp4QU5OQUVwczBRTVNVS2ZXdlN6Y0FaWUZ0QkhQdjRhT2t0czkwNGVRQWF2S05IU0hrSGVjS2FhR2pLc3hzYVFMMVRpYnM0N0x0VF9TN1ZZYk83MVpnOGNyYXh4Z1U1bVNwZWFjWnJBcWR1aGc?oc=5",
+     "source": "ASSETPHYSICS",
+     "sourceUrl": "https://assetphysics.com",
+     "date": "2026-10-22",
+     "tag": "other"
+    },
+    {
+     "title": "Limehome signs first lease with Aroundtown in Frankfurt",
+     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPa3pDTlJIanNnOTdMa2RibEh5SEtQQ0Vsa3hhVk05OFNlbE1Ndm16Z0w4QXhoWkJqWnhqRWZLejdvZWdFTzRtQUpIZTZuZHctcERqZkVCMGlxVHJTZkw1T2xPMS11N29ZaE9HM1NtNjFMYVRuUnlYUG5raVM3bzFKaG5JNXg?oc=5",
+     "source": "Serviced Apartment News",
+     "sourceUrl": "https://servicedapartmentnews.com",
+     "date": "2026-08-28",
+     "tag": "other"
+    },
+    {
+     "title": "Limehome expands in London with St Paul’s opening",
+     "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE14SEdJQ1dLdFZLOTg1SUJaRzNDUVRVMF8tTG1SM215RHdqX2l5S1o4UGlpczdzd1Z1OGliNHVMS1VZWXFZbFc1bEZveXAyYlJ6b2U1WXBsQ0NDcHBPQ1dvUGoyd3MtMHJ1QWJCZ2p0b0FXYWpvOTJqNGhhNVRaUQ?oc=5",
+     "source": "Serviced Apartment News",
+     "sourceUrl": "https://servicedapartmentnews.com",
+     "date": "2026-06-19",
+     "tag": "other"
+    }
+   ],
+   "newsChecked": "2026-11-17"
+  },
+  "Microagi": {
+   "news": [
+    {
+     "title": "Robot-data startup Microagi raises largest seed round ever in Germany",
+     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPUlFWZll5ekQzQ2NLeWVRd1hKcnJsalBfS0xrWXpYVDRqYkd2V1BQa1RGX3lDSi1wY0ZBNGVVTWNCZVhpSHpjNF83SXgtLVNhVjN2N3lYRThCNnVZNkIzaWxnQ0owbXJCOUhOUlVoUGtqdEx1cUxGbW5xcnNaLWoxVk5qMUtkdjNTQnJyWXJnZm8xanRFTEtfZ0hyV3RvSUFDa2NpeFFPV1htYmhCTU5yVlhR?oc=5",
+     "source": "Semafor",
+     "sourceUrl": "https://www.semafor.com",
+     "date": "2026-07-16",
+     "tag": "funding"
+    }
+   ],
+   "newsChecked": "2026-11-17"
+  },
+  "Entrix": {
+   "news": [
+    {
+     "title": "Entrix to optimize 8.8 MW battery storage project in Poland",
+     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQeDV3a3EyX3VGbWFldS1xZ2o3RFBzY25ldWFkbmZOSzBqOFZEbW83eFdEemJ1VUxHZkhKREFXM05VeWdqOWo5bHBZbnRyd2FpdXphdlUwd0dfVHlndF9pTTVGYUdzMGYyMjJYYWdHVjlJX3VxUWJtaG1DY0xrZWZKaWp3NWxYRUhNYXJ3cnEteWxuTEt3ak94SQ?oc=5",
+     "source": "ESS News",
+     "sourceUrl": "https://www.ess-news.com",
+     "date": "2026-07-21",
+     "tag": "other"
+    },
+    {
+     "title": "EU Roundup: Flower-ENGIE and Entrix-DRI battery deals",
+     "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQZGUzR3B5VjY0YzZ2UFJmRzF6WjBZM1MwTVRfV0ZtdUcyNHlPX1VvVzNJbkd5bUJ1cUNDdWl0RU9lZERtVUg4OGYyQXVFQUFXTU53MDhhUHUtZmNaaFpkT1Q5LWF1QW1lVjAzSzlUR2p1LXQwcjQ0S0s5X2t6d3hBbklGSXdxQl9QS0NUZFluWEFQVHowVThXZm1abDhya04zNnlOVHlFTFgzRkE0eDFhUDZ0UmJrdURQdy1yZC1UcnZaRkdCN3Rldmh0OF9wbXpKYU9MUkZYaWFaRGRnXzk0VQ?oc=5",
+     "source": "Energy-Storage.News",
+     "sourceUrl": "https://www.energy-storage.news",
+     "date": "2026-06-23",
+     "tag": "other"
+    },
+    {
+     "title": "Entrix to optimize 144 MWh solar-plus-storage project in Germany",
+     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPWUlmV25zZy1WNENWMHlNRW90ampDaVJaSThtRW9hQUg2SGZaajF0bVBXT3p5V3BCRzRzMFBSeE5TSkZFLVNXOW9RWExNM1Q4Y2NUX3dwLUl1R3NadDMwOVhlaVhZdGVDcFpRS0NzbFBSVTZkTVh5X3RvQXdjR0FMM0tJOVFySEpUczdNX3RlRjlYeUZJdDk3WXA4VEN0MjRrZzNR?oc=5",
+     "source": "ESS News",
+     "sourceUrl": "https://www.ess-news.com",
+     "date": "2026-06-17",
+     "tag": "other"
+    }
+   ],
+   "newsChecked": "2026-11-17"
+  },
+  "Twaice": {},
+  "Allo": {},
+  "Bayshore": {},
+  "Certhub": {},
+  "Calliora": {},
+  "Conxai": {},
+  "Furo": {},
+  "Kontext": {},
+  "Moonscale": {},
+  "Marble Cognition": {},
+  "Grubel": {}
+ }
+}

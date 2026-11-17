@@ -1,0 +1,429 @@
+{
+ "_note": "Hand-written source config for scripts/refresh.mjs. site/careers only where research or job links confirm them; linkedin unknown ([TBC]); news=null means no reliable filter for this name yet.",
+ "companies": {
+  "n8n": {
+   "site": "https://n8n.io",
+   "careers": {
+    "type": "ashby",
+    "slug": "n8n",
+    "url": "https://jobs.ashbyhq.com/n8n"
+   },
+   "linkedin": null,
+   "news": {
+    "name": "n8n",
+    "require": []
+   }
+  },
+  "Synthesia": {
+   "site": "https://www.synthesia.io",
+   "careers": {
+    "type": "ashby",
+    "slug": "synthesia",
+    "url": "https://jobs.ashbyhq.com/synthesia"
+   },
+   "linkedin": null,
+   "news": {
+    "name": "Synthesia",
+    "require": []
+   }
+  },
+  "Parloa": {
+   "site": "https://www.parloa.com",
+   "careers": {
+    "type": "ashby",
+    "slug": "parloa",
+    "url": "https://jobs.ashbyhq.com/parloa"
+   },
+   "linkedin": null,
+   "news": {
+    "name": "Parloa",
+    "require": []
+   }
+  },
+  "Lovable": {
+   "site": "https://lovable.dev",
+   "careers": {
+    "type": "ashby",
+    "slug": "lovable",
+    "url": "https://jobs.ashbyhq.com/lovable"
+   },
+   "linkedin": null,
+   "news": {
+    "name": "Lovable",
+    "require": [
+     "vibe coding",
+     "app builder",
+     "Osika",
+     "AI",
+     "Lovable.dev"
+    ]
+   }
+  },
+  "Moss": {
+   "site": "https://www.getmoss.com",
+   "careers": {
+    "type": "ashby",
+    "slug": "moss",
+    "url": "https://jobs.ashbyhq.com/moss"
+   },
+   "linkedin": null,
+   "news": {
+    "name": "Moss",
+    "require": [
+     "spend management",
+     "fintech",
+     "corporate card",
+     "finance teams",
+     "getmoss"
+    ]
+   }
+  },
+  "Langdock": {
+   "site": "https://www.langdock.com",
+   "careers": {
+    "type": "ashby",
+    "slug": "langdock",
+    "url": "https://jobs.ashbyhq.com/langdock"
+   },
+   "linkedin": null,
+   "news": {
+    "name": "Langdock",
+    "require": []
+   }
+  },
+  "Pennylane": {
+   "site": "https://www.pennylane.com",
+   "careers": {
+    "type": "ashby",
+    "slug": "pennylane",
+    "url": "https://jobs.ashbyhq.com/pennylane"
+   },
+   "linkedin": null,
+   "news": {
+    "name": "Pennylane",
+    "require": [
+     "accounting",
+     "fintech",
+     "SMB",
+     "SMEs",
+     "PME",
+     "raises",
+     "funding",
+     "valuation",
+     "startup",
+     "finance"
+    ]
+   }
+  },
+  "Skalar": {
+   "site": "https://skalar.de",
+   "careers": {
+    "type": "ashby",
+    "slug": "Skalar",
+    "url": "https://jobs.ashbyhq.com/Skalar"
+   },
+   "linkedin": null,
+   "news": {
+    "name": "Skalar",
+    "require": [
+     "tax",
+     "Steuer",
+     "Headline",
+     "Mittelstand",
+     "AI"
+    ]
+   }
+  },
+  "Avelios Medical": {
+   "site": "https://www.avelios.com",
+   "careers": {
+    "type": "ashby",
+    "slug": "avelios-medical",
+    "url": "https://jobs.ashbyhq.com/avelios-medical"
+   },
+   "linkedin": null,
+   "news": {
+    "name": "Avelios",
+    "require": []
+   }
+  },
+  "1KOMMA5°": {
+   "site": "https://1komma5.com",
+   "careers": {
+    "type": "personio",
+    "slug": "1komma5grad",
+    "url": "https://1komma5grad.jobs.personio.de/"
+   },
+   "linkedin": null,
+   "news": {
+    "name": "1KOMMA5",
+    "require": []
+   }
+  },
+  "Sereact": {
+   "site": "https://sereact.ai",
+   "careers": {
+    "type": "ashby",
+    "slug": "sereact",
+    "url": "https://jobs.ashbyhq.com/sereact"
+   },
+   "linkedin": null,
+   "news": {
+    "name": "Sereact",
+    "require": []
+   }
+  },
+  "Lio": {
+   "site": null,
+   "careers": null,
+   "linkedin": null,
+   "news": {
+    "name": "Lio",
+    "require": [
+     "procurement",
+     "a16z",
+     "Andreessen"
+    ]
+   }
+  },
+  "Tendos": {
+   "site": null,
+   "careers": null,
+   "linkedin": null,
+   "news": {
+    "name": "Tendos",
+    "require": []
+   }
+  },
+  "Atira": {
+   "site": null,
+   "careers": null,
+   "linkedin": null,
+   "news": {
+    "name": "Atira",
+    "require": [
+     "quote",
+     "quoting",
+     "industrial",
+     "Accel",
+     "multi-agent"
+    ]
+   }
+  },
+  "ClearOps": {
+   "site": null,
+   "careers": null,
+   "linkedin": null,
+   "news": {
+    "name": "ClearOps",
+    "require": []
+   }
+  },
+  "Causa Prima": {
+   "site": null,
+   "careers": null,
+   "linkedin": null,
+   "news": {
+    "name": "Causa Prima",
+    "require": []
+   }
+  },
+  "Lanes & Planes": {
+   "site": null,
+   "careers": null,
+   "linkedin": null,
+   "news": {
+    "name": "Lanes & Planes",
+    "require": []
+   }
+  },
+  "Secfix": {
+   "site": null,
+   "careers": null,
+   "linkedin": null,
+   "news": {
+    "name": "Secfix",
+    "require": []
+   }
+  },
+  "Voiceline": {
+   "site": null,
+   "careers": {
+    "type": "personio",
+    "slug": "voiceline",
+    "url": "https://voiceline.jobs.personio.de/"
+   },
+   "linkedin": null,
+   "news": {
+    "name": "Voiceline",
+    "require": [
+     "CRM",
+     "sales",
+     "voice AI",
+     "Voiceline.ai",
+     "Alstin",
+     "field"
+    ]
+   }
+  },
+  "Sinpex": {
+   "site": null,
+   "careers": null,
+   "linkedin": null,
+   "news": {
+    "name": "Sinpex",
+    "require": []
+   }
+  },
+  "Rencore": {
+   "site": null,
+   "careers": null,
+   "linkedin": null,
+   "news": {
+    "name": "Rencore",
+    "require": []
+   }
+  },
+  "Elevatry": {
+   "site": null,
+   "careers": null,
+   "linkedin": null,
+   "news": {
+    "name": "Elevatry",
+    "require": []
+   }
+  },
+  "Interloom": {
+   "site": null,
+   "careers": null,
+   "linkedin": null,
+   "news": {
+    "name": "Interloom",
+    "require": []
+   }
+  },
+  "Finn": {
+   "site": null,
+   "careers": null,
+   "linkedin": null,
+   "news": {
+    "name": "Finn",
+    "require": [
+     "car subscription",
+     "Auto-Abo",
+     "car-subscription",
+     "Finn Auto"
+    ]
+   }
+  },
+  "NavVis": {
+   "site": null,
+   "careers": null,
+   "linkedin": null,
+   "news": {
+    "name": "NavVis",
+    "require": []
+   }
+  },
+  "Limehome": {
+   "site": null,
+   "careers": null,
+   "linkedin": null,
+   "news": {
+    "name": "Limehome",
+    "require": []
+   }
+  },
+  "Microagi": {
+   "site": null,
+   "careers": null,
+   "linkedin": null,
+   "news": {
+    "name": "Microagi",
+    "require": [
+     "robot"
+    ]
+   }
+  },
+  "Entrix": {
+   "site": null,
+   "careers": null,
+   "linkedin": null,
+   "news": {
+    "name": "Entrix",
+    "require": [
+     "energy",
+     "battery",
+     "trading",
+     "storage"
+    ]
+   }
+  },
+  "Twaice": {
+   "site": null,
+   "careers": null,
+   "linkedin": null,
+   "news": null
+  },
+  "Allo": {
+   "site": null,
+   "careers": null,
+   "linkedin": null,
+   "news": null
+  },
+  "Bayshore": {
+   "site": null,
+   "careers": null,
+   "linkedin": null,
+   "news": null
+  },
+  "Certhub": {
+   "site": null,
+   "careers": null,
+   "linkedin": null,
+   "news": null
+  },
+  "Calliora": {
+   "site": null,
+   "careers": null,
+   "linkedin": null,
+   "news": null
+  },
+  "Conxai": {
+   "site": null,
+   "careers": null,
+   "linkedin": null,
+   "news": null
+  },
+  "Furo": {
+   "site": null,
+   "careers": null,
+   "linkedin": null,
+   "news": null
+  },
+  "Kontext": {
+   "site": null,
+   "careers": null,
+   "linkedin": null,
+   "news": null
+  },
+  "Moonscale": {
+   "site": null,
+   "careers": null,
+   "linkedin": null,
+   "news": null
+  },
+  "Marble Cognition": {
+   "site": null,
+   "careers": null,
+   "linkedin": null,
+   "news": null
+  },
+  "Grubel": {
+   "site": null,
+   "careers": null,
+   "linkedin": null,
+   "news": null
+  }
+ }
+}
