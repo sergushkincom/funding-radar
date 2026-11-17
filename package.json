@@ -2,6 +2,13 @@
   "name": "funding-radar",
   "version": "0.1.0",
   "private": true,
+  "description": "Which Munich-area startups just raised, who is hiring, and where a product designer's chances are best.",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sergushkincom/funding-radar.git"
+  },
+  "homepage": "https://funding-radar-two.vercel.app",
   "scripts": {
     "dev": "next dev",
     "build": "next build",
