@@ -9,6 +9,9 @@
     "url": "https://github.com/sergushkincom/funding-radar.git"
   },
   "homepage": "https://funding-radar-two.vercel.app",
+  "engines": {
+    "node": ">=20.9"
+  },
   "scripts": {
     "dev": "next dev",
     "build": "next build",
