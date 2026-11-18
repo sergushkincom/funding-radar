@@ -1,9 +1,9 @@
 {
- "generated": "2026-11-17",
+ "generated": "2026-11-18",
  "companies": {
   "n8n": {
    "roles": {
-    "total": 60,
+    "total": 61,
     "design": [
      {
       "title": "Senior/Staff Product Designer",
@@ -102,10 +102,10 @@
      "engineering": 8,
      "product": 5,
      "data": 0,
-     "other": 46
+     "other": 47
     },
     "source": "ashby",
-    "checked": "2026-11-17",
+    "checked": "2026-11-18",
     "history": [
      {
       "date": "2026-11-17",
@@ -118,18 +118,22 @@
        "data": 0,
        "other": 46
       }
+     },
+     {
+      "date": "2026-11-18",
+      "total": 61,
+      "design": 1,
+      "counts": {
+       "design": 1,
+       "engineering": 8,
+       "product": 5,
+       "data": 0,
+       "other": 47
+      }
      }
     ]
    },
    "news": [
-    {
-     "title": "n8n Releases Open-Source Personal Agent Nod for Mac and Windows",
-     "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNcFBnVEREMGEtUWVoUzNzSlpQbmhaWFA2S2hOSE5EVllPWko3aFdlRDdEdmZ0bWl6TGpyNmd2TVFXcEdYYy1qTllRWGE2Y0M2Q05jdC1DMWF5ZnlhUHhvOEs1YzFOZXhFRTliYXBlUllQS1JJdTM5X2V4SWxyd09ybmNFVmRZaElubUNaMlNR?oc=5",
-     "source": "Unite.AI",
-     "sourceUrl": "https://www.unite.ai",
-     "date": "2026-11-10",
-     "tag": "launch"
-    },
     {
      "title": "Dataverse goes where you build: Copilot Cowork, coding agents and n8n",
      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPWFVzWE5ncThURDdoelp6V3JvYy1zRE10eUFSSGtuZUxVOWp2NGlINWdEcEZFXzRxb0s1REhGNGplREQ0RWp1TVpGY2tOcV9ZV1V2UTgyQ1lwdFJ1YWxMb2VmbmdXeUdqeEQ3NnlnMXBGcDZIQjYxTTBWZ0pLNEYtSy1TRVdCTmg0bkV0cUpMZk9ENTQ4VDRUUXJhNFozWENudlJuVzFXcFhzUXA5RUZv?oc=5",
@@ -145,9 +149,17 @@
      "sourceUrl": "https://towardsdatascience.com",
      "date": "2026-10-14",
      "tag": "other"
+    },
+    {
+     "title": "ZoomInfo Launches Native Integration With n8n Through GTM.AI",
+     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNZEdqZ3d4b29uVnpMcnZsdW1BZmZVU1J3aDRIam1meWlvbERKNTNxdXpMVkRydnRFWnlQemk1NHdlTXFDTkpZS1pFcExvend1Z3JQSHBxX3lZQTRpQ1NIdTJ2OFVZdGRDeUVZb1dUYVVmYXNxME1MUGtGNlZtUkUzbXBUNXcwcXpZSVB3YTNXRWFxZlpnN0dPeThwalRaZUM4bVZyYVlvOVNicGVqa21Ld1IwbkVOUUdj?oc=5",
+     "source": "Business Wire",
+     "sourceUrl": "https://www.businesswire.com",
+     "date": "2026-10-12",
+     "tag": "launch"
     }
    ],
-   "newsChecked": "2026-11-17"
+   "newsChecked": "2026-11-18"
   },
   "Synthesia": {
    "roles": {
@@ -217,10 +229,22 @@
      "other": 21
     },
     "source": "ashby",
-    "checked": "2026-11-17",
+    "checked": "2026-11-18",
     "history": [
      {
       "date": "2026-11-17",
+      "total": 29,
+      "design": 2,
+      "counts": {
+       "design": 2,
+       "engineering": 3,
+       "product": 3,
+       "data": 0,
+       "other": 21
+      }
+     },
+     {
+      "date": "2026-11-18",
       "total": 29,
       "design": 2,
       "counts": {
@@ -235,6 +259,14 @@
    },
    "news": [
     {
+     "title": "Synthesia Adds AI Video Creation and Editing to Claude Chats",
+     "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPQnJob05jbUVfZlM3TE5WR1FSTm9UZVN1aTR2cEw1bDdyNjZFNkhTU0JrSWJiVGQ0UlZXQ0Itb3QteS1TT211N1M0cXJsR1NveDJHcWNOd3B6RGo0LTE3VFVhZnVOdENlZnZyak45cEloV3Y4VVZvVjEzeTlEcmpiQ3JSZEpmZGxRQ1E?oc=5",
+     "source": "Unite.AI",
+     "sourceUrl": "https://www.unite.ai",
+     "date": "2026-11-18",
+     "tag": "other"
+    },
+    {
      "title": "Synthesia and Datadog CEOs back AI startup Remanence in $30M funding round",
      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQRUdEQk5jYjNWZ1U3YjlMOWYyMF9jTTAtOHZkV04xSjZoYlZMam40dEFfaVBJUUpEZHY3RHo5TmVRa201Q0g2UktfMGRQZ3pyaTNfRTNpSExHQXFMTHNPVWpXN3BaOUFydU43SUxIaXY4dnpHU2R2YkVBdGJXTXVvcXE5Z1ZMODVmY21OeU1mOHQ?oc=5",
      "source": "Tech.eu",
@@ -243,23 +275,15 @@
      "tag": "funding"
     },
     {
-     "title": "Synthesia's Sirén and the \"ChatGPT moment\" — Victor Riparbelli on the rise of interactive AI video",
-     "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNNU5RQi1fbmlzaU5LUHZQZWlsVGVOb1pGaEZaTUs2MnA1bWZQd0ctM2ZuMzFwbl9oUUZVTnZoek53STZmYzFIdkVtdjd3bGFsTFlWV3pYTFIwNEF0aGNHYW1BZkRWRDlJcFpiWk9BZndkOUItTVpsbTB6aEdlLTFWMUtGRTZSb3ZOdVA1UmdFbUZvb3ZXeFlFUUVWWmRnRDg5REdiYU81V1ZOS09rZDRXRDlFUHBIUWFudXdLaUFkX281YUhsWVIw?oc=5",
-     "source": "Dealroom",
-     "sourceUrl": "https://app.dealroom.co",
-     "date": "2026-10-26",
-     "tag": "other"
-    },
-    {
-     "title": "I took on Synthesia’s AI-generated employee — and failed",
-     "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOLWFiV3F2aVh4RWUwRk02alRXaVVZMlZCdENmdzZESEFKRDNFRU1jMXJNOVYyYzNlendEdzNNbklHLWlxNFMxV1NIUjloa2lqWFN3UVlQZ29pLXN3QTVic2Jxb3VEMHZ5SGVnQ3dxUnptOEZyZTJfS254blBnVGlqUWFTc3NqMHRSemU5TmwyQUU2STVuclpUS25nMncwZTY3MzhsQ01VSnBrZUlVNmtteDBNdENvYzJYZnFj?oc=5",
-     "source": "The Times",
-     "sourceUrl": "https://www.thetimes.com",
-     "date": "2026-10-09",
+     "title": "Leading Synthesia Alternatives for L&D [2027 Comparison]",
+     "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPY1U0bWxRRFBOSlFJaElMc1otMGllYy0ybzh1aTRZaFR6TGdJaUZaeFFGQ1lhMjMyb3lHaVNXLXI2VE9OMmp4SWxITGN1YjhKQnBSLXFsZUJqaE1vZGxoZXdiemN3SkFYazNTNjhqbkpDbHE3Qi1jd2xJTGdaWjZieldqMkxEMy1QT1pfWlMyZzlVX0h2?oc=5",
+     "source": "BBN Times",
+     "sourceUrl": "https://www.bbntimes.com",
+     "date": "2026-11-17",
      "tag": "other"
     }
    ],
-   "newsChecked": "2026-11-17"
+   "newsChecked": "2026-11-18"
   },
   "Parloa": {
    "roles": {
@@ -329,10 +353,22 @@
      "other": 37
     },
     "source": "ashby",
-    "checked": "2026-11-17",
+    "checked": "2026-11-18",
     "history": [
      {
       "date": "2026-11-17",
+      "total": 45,
+      "design": 1,
+      "counts": {
+       "design": 1,
+       "engineering": 6,
+       "product": 1,
+       "data": 0,
+       "other": 37
+      }
+     },
+     {
+      "date": "2026-11-18",
       "total": 45,
       "design": 1,
       "counts": {
@@ -371,18 +407,12 @@
      "tag": "other"
     }
    ],
-   "newsChecked": "2026-11-17"
+   "newsChecked": "2026-11-18"
   },
   "Lovable": {
    "roles": {
-    "total": 78,
+    "total": 80,
     "design": [
-     {
-      "title": "Product Designer",
-      "url": "https://jobs.ashbyhq.com/lovable/cf78be5e-41ca-478a-b480-0d0839c24543",
-      "loc": "London",
-      "published": "2025-07-17"
-     },
      {
       "title": "Staff / Principal Design Engineer, Web",
       "url": "https://jobs.ashbyhq.com/lovable/51885ae5-4f4c-46c4-abd3-d7aad1c8d9c0",
@@ -453,6 +483,12 @@
        "published": "2026-10-31"
       },
       {
+       "title": "Staff Software Engineer, Enterprise",
+       "url": "https://jobs.ashbyhq.com/lovable/a3984ab8-067f-45c4-a644-a2f60c9ed697",
+       "loc": "New York City",
+       "published": "2026-11-17"
+      },
+      {
        "title": "Staff / Principal Software Engineer, Infrastructure Security",
        "url": "https://jobs.ashbyhq.com/lovable/522e925e-ede2-4659-8b8b-1122d4ad7ab0",
        "loc": "Stockholm",
@@ -463,6 +499,12 @@
        "url": "https://jobs.ashbyhq.com/lovable/e53bdf9e-39ee-46d4-aa95-6b3ba5d3de73",
        "loc": "Stockholm",
        "published": "2026-09-14"
+      },
+      {
+       "title": "Staff Software Engineer, Enterprise",
+       "url": "https://jobs.ashbyhq.com/lovable/fdd4c0a3-8b9f-45c4-82b9-865b444d5d8c",
+       "loc": "London",
+       "published": "2026-11-17"
       },
       {
        "title": "Staff Forward Deployed Engineer",
@@ -603,14 +645,14 @@
      ]
     },
     "counts": {
-     "design": 3,
-     "engineering": 20,
+     "design": 2,
+     "engineering": 22,
      "product": 4,
      "data": 9,
-     "other": 42
+     "other": 43
     },
     "source": "ashby",
-    "checked": "2026-11-17",
+    "checked": "2026-11-18",
     "history": [
      {
       "date": "2026-11-17",
@@ -623,40 +665,52 @@
        "data": 9,
        "other": 42
       }
+     },
+     {
+      "date": "2026-11-18",
+      "total": 80,
+      "design": 2,
+      "counts": {
+       "design": 2,
+       "engineering": 22,
+       "product": 4,
+       "data": 9,
+       "other": 43
+      }
      }
     ]
    },
    "news": [
     {
-     "title": "Lovable: Europe’s Vibe Coding Platform Crosses US$600m ARR",
-     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNdHo0VVpjaXNwUlJab0VuMTc1TDdEQU9nZ0t4YnVkdVRjbjNYT3NNVkljMGFUcGo0TVV4anRmOVdaNDdaeWoyN2cyN2dLYXN0MXlBS3VMamkyNDg0aEQ3SHFieHFDTVZBd28yZGdRb3NibHpMMzZocWFtNm1EV1VrZ0ZGb19qenJQR3QyNg?oc=5",
-     "source": "AI Magazine",
-     "sourceUrl": "https://aimagazine.com",
-     "date": "2026-10-29",
+     "title": "ElevenLabs, Lovable and DeepL CEOs urge EU to back homegrown AI",
+     "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQQVRkWC1teWloaEJlTk1aUGo5cVZEdFBmeWpwN2oxQXh3QmxHWkM1bkVGeEJDMkR6a3lFendZNVFaU3JRYTRqUlI1X1RsTHJxRkFsYjBMY2ozVHpKQ2pLWGwxTi1faXg4WkNCSFowUTJjY09UZWg3Tk1zclE2V0o2dGFRYlUxbnc?oc=5",
+     "source": "Sifted",
+     "sourceUrl": "https://sifted.eu",
+     "date": "2026-11-18",
      "tag": "other"
     },
     {
-     "title": "Lovable and Microsoft bring AI-built apps inside company systems",
-     "url": "https://news.google.com/rss/articles/CBMisAJBVV95cUxOV1pCR2x3RnNMZF92TmxZdTlVTnd6LWFHeGZCbVd5TWl1cTdwblBJdE9HMFp3d1BOdzFicEJXemNNcW5GMHV2VzFlX3RDQmZ1clcyZVgyUjBFTFVmMUhjSXJqc2pURDdzTkhQR0ZUMzRMa3V4YlNqQTM5Zm9hbVFvcXZrMmVkeDRBZkZ3MTdfTUIwZ0hsdjdQS3JycDE0ZXQxMjhmQ0psU08tOGdfWkxNckVHOUsxQndNUWMzd2xZLVlsZnJENkEtWl9hY1lDQnR2ZjdDWFQ0WU82bHhQbm80M3NIdlplVFJmVjdOYllycW1ZMHM2NGx5VG9lZDMxS01DRm9Iempwdkd5T0R6Z0hVNzZyRWI0V21KaVRoZnhFMzhQc3plQlJsWTgxekh0YkxB?oc=5",
-     "source": "EdTech Innovation Hub",
-     "sourceUrl": "https://www.edtechinnovationhub.com",
-     "date": "2026-10-14",
+     "title": "Lovable Pushes AI Business Tools Amid Data Exposure Fallout",
+     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxORVNLdy1UU0h0VFBLdU55QWdTMHZna3dzenZVYjBWaDFlbDg0d3FNdDlZT05FSFFaSXRPSmNKMWtEcnk5Qk1kcDhkVkFfRG1NMUFBM3dZU0w3VllsR0YxM2szRExQTGZOMi1yUXdjajd4S3V1MkQxazR4Y0FZOEtWS2xPUHBURFVkU0RXZHAzNHBJTW1QUGtrNQ?oc=5",
+     "source": "streamlinefeed.co.ke",
+     "sourceUrl": "https://streamlinefeed.co.ke",
+     "date": "2026-11-18",
      "tag": "other"
     },
     {
-     "title": "Lovable’s annualized revenue crosses $600M as vibe coding takes off",
-     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQOVFia1NFWFpvdm9FT1YzcDV1OTVsV3JLeVVGOUd5VXhLZ2E0OUhBbVhHYnc4TzdyZTlZdkJTQjdPZTdPaUFoZGJwOUtyRl9VbGtFQmZBeDY4NHM2Y2pTZDNEVTVUQ2k4TjNNOUs2MzJnRl8tSGVsdkFmMGNaeFRhSThOOVBSNmp3d3RxRzd4RHZ5ZG9ENFI2dl80RTJIU1BweVE?oc=5",
-     "source": "TechCrunch",
-     "sourceUrl": "https://techcrunch.com",
-     "date": "2026-09-24",
+     "title": "I asked Lovable, Bolt, and Google AI Studio to build the same web app, and one is in a different league",
+     "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOczJEOXdBSURDMTVxUVFUYlRfRVhIWnlxMUVWWmNQbXdHU21NVEpTanZaWHVlRzAwdlRtTk5fZ2FBWkdjOGFoZmZoM1l0RDk5VE5iWmFvaERaNm03Z28xelRRelZzamhmT2FzVDNKN2I2dnhEM2U1TzA5Tmx4bXF2bFZFclFqUTZjVjJhd3dQVXFyREwxOGNyQ1FjSXNCakVoQkRSZXF2NjhMYk0xcUFjeTNoemdnMlhHMzQtdnRYSkZZVUR4RGZDNUhSNmE?oc=5",
+     "source": "XDA",
+     "sourceUrl": "https://www.xda-developers.com",
+     "date": "2026-11-17",
      "tag": "other"
     }
    ],
-   "newsChecked": "2026-11-17"
+   "newsChecked": "2026-11-18"
   },
   "Moss": {
    "roles": {
-    "total": 33,
+    "total": 30,
     "design": [
      {
       "title": "Senior Product Designer",
@@ -700,10 +754,10 @@
      "engineering": 4,
      "product": 0,
      "data": 0,
-     "other": 28
+     "other": 25
     },
     "source": "ashby",
-    "checked": "2026-11-17",
+    "checked": "2026-11-18",
     "history": [
      {
       "date": "2026-11-17",
@@ -716,15 +770,27 @@
        "data": 0,
        "other": 28
       }
+     },
+     {
+      "date": "2026-11-18",
+      "total": 30,
+      "design": 1,
+      "counts": {
+       "design": 1,
+       "engineering": 4,
+       "product": 0,
+       "data": 0,
+       "other": 25
+      }
      }
     ]
    },
    "news": [],
-   "newsChecked": "2026-11-17"
+   "newsChecked": "2026-11-18"
   },
   "Langdock": {
    "roles": {
-    "total": 11,
+    "total": 12,
     "design": [
      {
       "title": "(Senior) Design Engineer - m/f/d",
@@ -746,6 +812,12 @@
        "url": "https://jobs.ashbyhq.com/langdock/ba8e2d17-818f-4ffb-b5ee-05d97b59a596",
        "loc": "Berlin",
        "published": "2026-05-07"
+      },
+      {
+       "title": "(Senior) Security Engineer - m/f/d",
+       "url": "https://jobs.ashbyhq.com/langdock/8662e63f-63fe-47f1-92c3-a402d3d24486",
+       "loc": "Berlin",
+       "published": "2026-11-18"
       },
       {
        "title": "Senior Systems Software Engineer (Linux & HPC) - m/f/d",
@@ -771,13 +843,13 @@
     },
     "counts": {
      "design": 1,
-     "engineering": 5,
+     "engineering": 6,
      "product": 0,
      "data": 0,
      "other": 5
     },
     "source": "ashby",
-    "checked": "2026-11-17",
+    "checked": "2026-11-18",
     "history": [
      {
       "date": "2026-11-17",
@@ -786,6 +858,18 @@
       "counts": {
        "design": 1,
        "engineering": 5,
+       "product": 0,
+       "data": 0,
+       "other": 5
+      }
+     },
+     {
+      "date": "2026-11-18",
+      "total": 12,
+      "design": 1,
+      "counts": {
+       "design": 1,
+       "engineering": 6,
        "product": 0,
        "data": 0,
        "other": 5
@@ -819,11 +903,11 @@
      "tag": "other"
     }
    ],
-   "newsChecked": "2026-11-17"
+   "newsChecked": "2026-11-18"
   },
   "Pennylane": {
    "roles": {
-    "total": 212,
+    "total": 213,
     "design": [
      {
       "title": "Product Design Manager",
@@ -929,10 +1013,10 @@
      "engineering": 5,
      "product": 3,
      "data": 3,
-     "other": 197
+     "other": 198
     },
     "source": "ashby",
-    "checked": "2026-11-17",
+    "checked": "2026-11-18",
     "history": [
      {
       "date": "2026-11-17",
@@ -944,6 +1028,18 @@
        "product": 3,
        "data": 3,
        "other": 197
+      }
+     },
+     {
+      "date": "2026-11-18",
+      "total": 213,
+      "design": 4,
+      "counts": {
+       "design": 4,
+       "engineering": 5,
+       "product": 3,
+       "data": 3,
+       "other": 198
       }
      }
     ]
@@ -974,7 +1070,7 @@
      "tag": "funding"
     }
    ],
-   "newsChecked": "2026-11-17"
+   "newsChecked": "2026-11-18"
   },
   "Skalar": {
    "roles": {
@@ -1045,10 +1141,22 @@
      "other": 10
     },
     "source": "ashby",
-    "checked": "2026-11-17",
+    "checked": "2026-11-18",
     "history": [
      {
       "date": "2026-11-17",
+      "total": 18,
+      "design": 1,
+      "counts": {
+       "design": 1,
+       "engineering": 4,
+       "product": 1,
+       "data": 2,
+       "other": 10
+      }
+     },
+     {
+      "date": "2026-11-18",
       "total": 18,
       "design": 1,
       "counts": {
@@ -1087,7 +1195,7 @@
      "tag": "funding"
     }
    ],
-   "newsChecked": "2026-11-17"
+   "newsChecked": "2026-11-18"
   },
   "Avelios Medical": {
    "roles": {
@@ -1200,10 +1308,22 @@
      "other": 32
     },
     "source": "ashby",
-    "checked": "2026-11-17",
+    "checked": "2026-11-18",
     "history": [
      {
       "date": "2026-11-17",
+      "total": 47,
+      "design": 1,
+      "counts": {
+       "design": 1,
+       "engineering": 9,
+       "product": 3,
+       "data": 2,
+       "other": 32
+      }
+     },
+     {
+      "date": "2026-11-18",
       "total": 47,
       "design": 1,
       "counts": {
@@ -1242,11 +1362,11 @@
      "tag": "funding"
     }
    ],
-   "newsChecked": "2026-11-17"
+   "newsChecked": "2026-11-18"
   },
   "1KOMMA5°": {
    "roles": {
-    "total": 322,
+    "total": 326,
     "design": [
      {
       "title": "(Senior) Product Designer (m/f/d)",
@@ -1393,10 +1513,10 @@
      "engineering": 12,
      "product": 9,
      "data": 0,
-     "other": 300
+     "other": 304
     },
     "source": "personio",
-    "checked": "2026-11-17",
+    "checked": "2026-11-18",
     "history": [
      {
       "date": "2026-11-17",
@@ -1408,6 +1528,18 @@
        "product": 9,
        "data": 0,
        "other": 300
+      }
+     },
+     {
+      "date": "2026-11-18",
+      "total": 326,
+      "design": 1,
+      "counts": {
+       "design": 1,
+       "engineering": 12,
+       "product": 9,
+       "data": 0,
+       "other": 304
       }
      }
     ]
@@ -1438,7 +1570,7 @@
      "tag": "funding"
     }
    ],
-   "newsChecked": "2026-11-17"
+   "newsChecked": "2026-11-18"
   },
   "Sereact": {
    "roles": {
@@ -1497,10 +1629,22 @@
      "other": 42
     },
     "source": "ashby",
-    "checked": "2026-11-17",
+    "checked": "2026-11-18",
     "history": [
      {
       "date": "2026-11-17",
+      "total": 48,
+      "design": 1,
+      "counts": {
+       "design": 1,
+       "engineering": 3,
+       "product": 1,
+       "data": 1,
+       "other": 42
+      }
+     },
+     {
+      "date": "2026-11-18",
       "total": 48,
       "design": 1,
       "counts": {
@@ -1539,7 +1683,7 @@
      "tag": "other"
     }
    ],
-   "newsChecked": "2026-11-17"
+   "newsChecked": "2026-11-18"
   },
   "Lio": {
    "news": [
@@ -1568,7 +1712,7 @@
      "tag": "hire"
     }
    ],
-   "newsChecked": "2026-11-17"
+   "newsChecked": "2026-11-18"
   },
   "Tendos": {
    "news": [
@@ -1589,7 +1733,7 @@
      "tag": "funding"
     }
    ],
-   "newsChecked": "2026-11-17"
+   "newsChecked": "2026-11-18"
   },
   "Atira": {
    "news": [
@@ -1618,7 +1762,7 @@
      "tag": "funding"
     }
    ],
-   "newsChecked": "2026-11-17"
+   "newsChecked": "2026-11-18"
   },
   "ClearOps": {
    "news": [
@@ -1639,14 +1783,14 @@
      "tag": "funding"
     }
    ],
-   "newsChecked": "2026-11-17"
+   "newsChecked": "2026-11-18"
   },
   "Causa Prima": {
    "news": [
     {
      "title": "Causa Prima Raises $20M for Buyer-Supplier AI Network",
      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxONmJmNGZWa1NtLVJUNnVOUzRaR3hQWmIya0EwWnl0MUJ4OXVEVlA3eVpYODFrX2VVNmZFQlZqMWpmQ3Q2UTM4NHAzVmZGbnk0elM0MndGSFdBZ194S0p0b2JYTTNIR0w1N2tORTBCc2Y2bFJ5U0xXNDhwU3llS2FVT0VXMUIyNTF6c0ZiREFB?oc=5",
-     "source": "Quasa.io",
+     "source": "quasa.io",
      "sourceUrl": "https://quasa.io",
      "date": "2026-10-16",
      "tag": "funding"
@@ -1668,7 +1812,7 @@
      "tag": "funding"
     }
    ],
-   "newsChecked": "2026-11-17"
+   "newsChecked": "2026-11-18"
   },
   "Lanes & Planes": {
    "news": [
@@ -1689,7 +1833,7 @@
      "tag": "funding"
     }
    ],
-   "newsChecked": "2026-11-17"
+   "newsChecked": "2026-11-18"
   },
   "Secfix": {
    "news": [
@@ -1710,7 +1854,7 @@
      "tag": "funding"
     }
    ],
-   "newsChecked": "2026-11-17"
+   "newsChecked": "2026-11-18"
   },
   "Voiceline": {
    "roles": {
@@ -1730,7 +1874,7 @@
      "tag": "other"
     }
    ],
-   "newsChecked": "2026-11-17"
+   "newsChecked": "2026-11-18"
   },
   "Sinpex": {
    "news": [
@@ -1743,23 +1887,23 @@
      "tag": "funding"
     },
     {
-     "title": "Sinpex Raises €10M to Scale AI KYB Across Europe",
-     "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9CaXlhZXFmaThFczZ3Yzcwdms0XzhCZUlwbmp6WU1qcXNBYzZSV0prVGJOeDRyZ2ZzRktRdVU4VVNkd3R1MTQ5N1M0U0xpQzR1WkxVMTdQd05wN1pQaUZ3elFiODR2WkI5LXAzVVczVFJyNUJXZDk4ZkwxdHB3Zw?oc=5",
-     "source": "StartupValley",
-     "sourceUrl": "https://startupvalley.news",
-     "date": "2026-01-20",
-     "tag": "funding"
-    },
-    {
      "title": "Taylor Wessing advises BlackFin Capital Partners on €10 million Series A financing round for Sinpex",
      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQVXNzaFlaOVp0R242a3lUSzUyX19laTQtWG15TEdpb28xaEJWSWlzTFlaQkZqVzJfWjI3STF4RDA2VG43Qlpvd1Q1d2VtSnprNFlVNHBWZk4yQ2p3N0FuWFVuR0ZFSnZKQXIzcjVqVmxJX2lTQ1pobllaMnFMUzdQVGtmTDNTeUI3SGg3QTM3UEhVb2RaejVmZ0pKTHJXYlhLYzB5N0FtTlNFZmJGbGZvSnVHTGowdDcteEZ2Q0R0dXY0YTFMZzRVN204dEpnVzVoU0JnUU5lX00?oc=5",
      "source": "Taylor Wessing",
      "sourceUrl": "https://www.taylorwessing.com",
      "date": "2026-01-20",
      "tag": "funding"
+    },
+    {
+     "title": "Sinpex raises €10M Series A to redefine KYB automation for Europe’s AML era",
+     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPUnlZd2FlaGs4Nkw4a0xucFd4a3ZrRWs5WnFfa29VLW1IUWpoWnkzNFpZOEtkYlV1UGFobC1lZE82dlYzY2lWRHZaV3g5MmR5QVNHSkZQZEplcDFUZUFIYjRMUkw0SUNXemV1TGgyRC1qWGlUaXBOOWxUVVlXVElmeWFvbGdxeENfY09lS0RoeGF2cFJ0VVRocXZvb2ktaGRnNlBDa2VDcw?oc=5",
+     "source": "Tech.eu",
+     "sourceUrl": "https://tech.eu",
+     "date": "2026-01-19",
+     "tag": "funding"
     }
    ],
-   "newsChecked": "2026-11-17"
+   "newsChecked": "2026-11-18"
   },
   "Rencore": {
    "news": [
@@ -1772,6 +1916,14 @@
      "tag": "launch"
     },
     {
+     "title": "Rencore Launches New Multi-AI Governance Functionality",
+     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQLUUwZFBMd21nQjF3ZEFJb1dvM3kwUFJpVnJPdXhvYzUtYW0wbV8wQjZVOE91dk8yLTE4eWRUYndZakJnVllOMzNyV1Znbm9WQXhmRXJpV281Qy1HVGNsYmE3d0s4ZEtkLVJBY1lnX0lvYlQ2c01wS0pLQzNJRS0tOXN5Y20tRC1rdW9RNkZ1bklJRUpGbS02Tzg1ekxMaUFYUEE?oc=5",
+     "source": "Yahoo Finance",
+     "sourceUrl": "https://finance.yahoo.com",
+     "date": "2026-10-07",
+     "tag": "launch"
+    },
+    {
      "title": "Rencore: Series A Extended To $15 Million As It Expands AI Governance Platform And International Footprint",
      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPdU1yX3VNZngtSmZWUlRvck83TjB5M3JKRndOSDZoNXR5X0RJMEJ6UjF4cy11MjZyaHNmeFF2QlBNWjRybDlEX3FjY2tWM2JQR3lwbU9QbGxaSkhTTTJhOFRaV0diNmx0QlFaVWVLZzM5bVYybk9XMmR5M0pOYk9mX1FxN1c0MDJhNk9OaGo5NzQ2Ym1JTFhJdG0tYnNtenFnR3BKQ21aaHU4bm0xRFIxSWstQnB6OXlZcTZrZ0w4VkNNZ9IBxwFBVV95cUxNNW1jSzZrd1RRcG9xRS01OGRpWHdCcWRuMVJkbHc1bkpVQV9HY2tGOFp3clVRVVlGb1gxQ0lnTW54dV9WTmpSeVN2eE53R3dKSUpDbDZUMUI3eU9NRHpfbjhqZEVEcy1Hc3pFOG12bVlFVkdTQ2FraWtiT3RGMEZRLVo1N3Y5MzVTbFU3LTRPYkxmSk9nUEtnbUhvOHBmTHltd2VOUlJxaVVaeVFINklaRlI1RUNuY1BlNjNaeTRBbkpuNDZqeTlB?oc=5",
      "source": "Pulse 2.0",
@@ -1780,7 +1932,7 @@
      "tag": "funding"
     }
    ],
-   "newsChecked": "2026-11-17"
+   "newsChecked": "2026-11-18"
   },
   "Elevatry": {
    "news": [
@@ -1809,7 +1961,7 @@
      "tag": "funding"
     }
    ],
-   "newsChecked": "2026-11-17"
+   "newsChecked": "2026-11-18"
   },
   "Interloom": {
    "news": [
@@ -1822,27 +1974,27 @@
      "tag": "funding"
     },
     {
+     "title": "Interloom: $16.5 Million Seed Funding Raised For Enterprise AI Memory Platform",
+     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPbDBmZTN2MFoxTy15V2JxeWx2MlQ1cGR0X1QwdDJHamRnQXA1MmpicmdtX2tIM1Q4cTUxZlpnS3ktR2hJa0p3RGJCSlhjcEpmS3lEamx6MkxtOFhISWdVa1lhME9xZ0xOb0pTZzRoUjZoRklVbHhGYU1wR3RTczV0YWgtbXhrZkZlSEt3Wkl4blRwNjIxbDI2bkFkNWfSAaIBQVVfeXFMT2lGc1VDQUJqYU1fUUtrRnBHSUZhcFhMNzBjVjhmMFpWNlVCeU5qT3Z1SngtZThJSUZYVnMtRG5TUGFhVHRFbmNkYzZ4YXJrdEFUMUxIdV9Vc2VNV0RkaGk1aWp3ekpVNFJLUExMbGx3Y2hYclhPaUhHdlJMMktZUkE2ZHFOOHdfUFU3OUtWTXg0SFNHYTFlSnd2SkxlWEd5ZEd3?oc=5",
+     "source": "Pulse 2.0",
+     "sourceUrl": "https://pulse2.com",
+     "date": "2026-03-31",
+     "tag": "funding"
+    },
+    {
      "title": "Exclusive: Interloom, which wants to solve AI agents' 'tacit knowledge' problem, raises $16.5 million in VC funding",
      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPWjRsSmNmQ3M4clY5alRPV1VSZVNrazQ5U3BwTWlGQzBtVHpHOXV6QnQxNDAyOGo4N2M2YXBQT1k5cjItbVBxUnkxWTRlTWh4S1pXbm9CbEZoN1FwMXM4blAzeE5HY2ZySGlGVFRwWUdTTW1icFdnRVo3aEFJdm5IYkdmWC14WkVQUndFTWpB?oc=5",
      "source": "Fortune",
      "sourceUrl": "https://fortune.com",
      "date": "2026-03-23",
      "tag": "funding"
-    },
-    {
-     "title": "German startup Interloom lands €14.2 million Seed funding for AI agent knowledge infrastructure",
-     "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQaDZoLW5WZEFsRXRRU3lkUW9XUWRXNndMRzRjTURkNmc4Z09ycXFRVHJrRHVxYmFacDFJdUpZNmotUXZBa3k3NG1vcWZTaFA2Q2dyQmhHMC1HN1otTkM4RFdMYTBCX1AwNXRad1c2V3NlVms1OWhJRXlwcXhUeFBWZHdWREk5X0ZVeENqQ0JwVENNRS1NSkxVcjNjYmRhdDgwLWdnWkNlRDZZZmk1cXVOaU10NFY0VExtcmxfNHJ3M1dxT2VxNEJsT21qQXM?oc=5",
-     "source": "EU-Startups",
-     "sourceUrl": "https://www.eu-startups.com",
-     "date": "2026-03-23",
-     "tag": "funding"
     }
    ],
-   "newsChecked": "2026-11-17"
+   "newsChecked": "2026-11-18"
   },
   "Finn": {
    "news": [],
-   "newsChecked": "2026-11-17"
+   "newsChecked": "2026-11-18"
   },
   "NavVis": {
    "news": [
@@ -1871,7 +2023,7 @@
      "tag": "funding"
     }
    ],
-   "newsChecked": "2026-11-17"
+   "newsChecked": "2026-11-18"
   },
   "Limehome": {
    "news": [
@@ -1900,7 +2052,7 @@
      "tag": "other"
     }
    ],
-   "newsChecked": "2026-11-17"
+   "newsChecked": "2026-11-18"
   },
   "Microagi": {
    "news": [
@@ -1913,7 +2065,7 @@
      "tag": "funding"
     }
    ],
-   "newsChecked": "2026-11-17"
+   "newsChecked": "2026-11-18"
   },
   "Entrix": {
    "news": [
@@ -1942,7 +2094,7 @@
      "tag": "other"
     }
    ],
-   "newsChecked": "2026-11-17"
+   "newsChecked": "2026-11-18"
   },
   "Twaice": {},
   "Allo": {},
