@@ -4,7 +4,7 @@ import * as React from "react"
 
 /**
  * Personal tracking per company: status, follow-up date and one note line.
- * Phase 1 keeps it in this browser (localStorage); phase 2 syncs with Notion.
+ * It stays in this browser (localStorage) and is never sent anywhere.
  */
 export type Status = "not_started" | "saved" | "applied" | "intro_sent" | "interviewing" | "rejected" | "offer"
 

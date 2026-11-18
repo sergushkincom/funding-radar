@@ -1,4 +1,3 @@
-// Ported 1:1 from the prototype (drafts/funding-radar/d-radar.html + common.js in claude-agents).
 // Chance is a transparent rule-based estimate, not a forecast.
 import companiesJson from "@/data/companies.json"
 import jobsJson from "@/data/jobs.json"

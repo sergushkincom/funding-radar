@@ -88,7 +88,7 @@ async function roles(name, src, before) {
 
 /* ---------------------------------- news ---------------------------------- */
 
-// TODO(claude-api): tags are keyword rules. With an API key (Denys's decision) Claude could tag and summarise instead.
+// Tags are keyword rules: no API key, no model, nothing to pay for.
 const TAGS = [
   [
     "hire",
