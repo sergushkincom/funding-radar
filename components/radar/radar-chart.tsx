@@ -219,7 +219,7 @@ export function RadarChart({
                   designView ? "fill-muted-foreground" : "fill-muted-foreground/60",
                 )}
               >
-                {designView ? "chance ↑" : "chance ↑ (design profile only)"}
+                {designView ? "chance ↑ (points of 100)" : "chance ↑ (design profile only)"}
               </text>
 
               {points.map((p) => {

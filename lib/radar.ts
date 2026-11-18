@@ -123,6 +123,26 @@ function roleLevel(t: string): number {
 }
 
 export type Factor = { label: string; value: number; max: number; why: string }
+
+/**
+ * The chance rules in words, for the "How chance works" explainer. Keep in step with score() below.
+ */
+export const CHANCE_RULES: { label: string; max: number; rule: string }[] = [
+  { label: "Round freshness", max: 20, rule: "≤ 3 months 20 · ≤ 6 15 · ≤ 9 10 · ≤ 12 5" },
+  {
+    label: "Design role",
+    max: 35,
+    rule: "Staff/Principal 35 · Senior or Design Engineer 25 · Design Manager 22 · other 15 · no open role 5 · −10 if open > 9 months",
+  },
+  { label: "Topic (B2B/ERP, agents)", max: 25, rule: "matches 25 · related 18 · far 8 or 5" },
+  { label: "Munich / remote DE", max: 10, rule: "yes 10 · another city 5 (Stuttgart 3) · relocation 0" },
+  {
+    label: "Team / design lead",
+    max: 10,
+    rule: "first designer 10 · no designer yet 8 · unknown 5 · Head of Design in place 0",
+  },
+]
+
 export type Score = { total: number; factors: Factor[]; why: string[] }
 
 export function score(c: Company): Score {

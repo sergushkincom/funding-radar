@@ -35,13 +35,17 @@ One screen for one question a job search keeps coming back to: **who has fresh m
 
 A transparent rule-based estimate for one product-design profile (B2B / ERP, AI agents, Munich or remote in Germany). It is not a forecast, and it shows only in the Designer view.
 
-| Factor | Points |
-|---|---|
-| Round freshness | 20 |
-| Design role level | 35 (Staff/Principal 35, Senior or Design Engineer 25, Design Manager 22, other 15, none 5; −10 if open for more than 9 months) |
-| Topic fit | 25 |
-| Munich or remote in Germany | 10 |
-| Design team | 10 (first designer 10, no designer yet 8, Head of Design in place 0, unknown 5) |
+The chance is points out of 100, not money (money is the bubble size). Five factors add up to 100:
+
+| Factor | Up to | Rule |
+|---|---|---|
+| Round freshness | 20 | ≤ 3 months 20, ≤ 6 15, ≤ 9 10, ≤ 12 5 |
+| Design role level | 35 | Staff/Principal 35, Senior or Design Engineer 25, Design Manager 22, other 15, no open role 5; −10 if open for more than 9 months |
+| Topic fit (B2B/ERP, agents) | 25 | matches 25, related 18, far 8 or 5 |
+| Munich or remote in Germany | 10 | yes 10, another city 5 (Stuttgart 3), needs relocation 0 |
+| Design team | 10 | first designer 10, no designer yet 8, unknown 5, Head of Design in place 0 |
+
+On the page, **How chance works** next to the chart and the ⓘ in the Chance column show the same table.
 
 The rules live in `lib/radar.ts`. Gaps in the data stay `[TBC]`; nothing is estimated to fill them.
 
