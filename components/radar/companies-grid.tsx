@@ -19,6 +19,7 @@ import { Badge } from "@/components/ui/badge"
 import { Button } from "@/components/ui/button"
 import { Card } from "@/components/ui/card"
 import { Tooltip, TooltipContent, TooltipTrigger } from "@/components/ui/tooltip"
+import { ChanceExplainer } from "@/components/radar/chance-explainer"
 import { Tbc } from "@/components/radar/company-sheet"
 import { Cut } from "@/components/radar/cut"
 import { FIELDS, type TrackedRow } from "@/components/radar/filters"
@@ -142,7 +143,12 @@ export function CompaniesGrid({
       {
         accessorKey: "chance",
         id: "chance",
-        header: ({ column }) => <DataGridColumnHeader title="Chance" column={column} />,
+        header: ({ column }) => (
+          <span className="inline-flex items-center">
+            <DataGridColumnHeader title="Chance" column={column} />
+            <ChanceExplainer compact />
+          </span>
+        ),
         // The score is tuned to the design profile: shown muted in the other views.
         cell: ({ row }) => (
           <span

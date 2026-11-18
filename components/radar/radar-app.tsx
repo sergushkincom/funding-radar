@@ -5,11 +5,12 @@ import { SearchIcon, XIcon } from "lucide-react"
 
 import type { FilterQuery } from "@/components/reui/filters/filters-types"
 import { Button } from "@/components/ui/button"
-import { Card, CardContent, CardHeader, CardTitle } from "@/components/ui/card"
+import { Card, CardAction, CardContent, CardHeader, CardTitle } from "@/components/ui/card"
 import { Input } from "@/components/ui/input"
 import { CompaniesGrid } from "@/components/radar/companies-grid"
 import { CompanySheet } from "@/components/radar/company-sheet"
 import { KPI_QUERIES, PRESETS, defaultQuery, matches, type PresetId, type TrackedRow } from "@/components/radar/filters"
+import { ChanceExplainer } from "@/components/radar/chance-explainer"
 import { ChartLegend } from "@/components/radar/chart-legend"
 import { RadarChart } from "@/components/radar/radar-chart"
 import { ToggleGroup, ToggleGroupItem } from "@/components/ui/toggle-group"
@@ -106,7 +107,7 @@ export function RadarApp() {
           <h1 className="text-3xl font-semibold tracking-tight md:text-4xl">Who just raised, and my chances</h1>
           <p className="max-w-3xl text-muted-foreground">
             Each bubble is a company that raised in the last 12 months. Further right: more recent round. Higher: better
-            chance (design profile). Size: round amount. Number: open {view.kpi.replace("open ", "")}.
+            chance, 0–100 points for the design profile. Size: round amount. Number: open {view.kpi.replace("open ", "")}.
           </p>
         </div>
         <div className="relative -mx-4 sm:mx-0">
@@ -191,6 +192,9 @@ export function RadarApp() {
       <Card className="gap-2 shadow-sm">
         <CardHeader>
           <CardTitle>Round date × chance</CardTitle>
+          <CardAction>
+            <ChanceExplainer />
+          </CardAction>
         </CardHeader>
         <CardContent className="flex flex-col gap-2">
           <RadarChart rows={onChart} selected={selected} onSelect={setSelected} family={family} />
