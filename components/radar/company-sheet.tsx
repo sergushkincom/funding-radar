@@ -62,26 +62,82 @@ export function Tbc({ children }: { children: string }) {
 /** The score's reasons are lowercase fragments; capitalise the first and close the sentence. */
 const sentence = (t: string) => (t ? t[0].toUpperCase() + t.slice(1) + "." : "")
 
+const RING_R = 36
+const RING_C = 2 * Math.PI * RING_R
+
+/**
+ * New key each time the sheet opens onto a company, so the CSS draw can run again.
+ * Closing keeps the key: the panel slides away still filled.
+ */
+function useDrawKey(open: boolean, company: string) {
+  const token = open ? company : null
+  const [seen, setSeen] = React.useState(token)
+  const [key, setKey] = React.useState(0)
+  if (token !== seen) {
+    setSeen(token)
+    if (token !== null) setKey(key + 1)
+  }
+  return key
+}
+
 function ChanceRing({ value, color }: { value: number; color: string }) {
-  const r = 36
-  const c = 2 * Math.PI * r
   return (
     <div className="relative size-[86px] shrink-0">
       <svg viewBox="0 0 86 86" className="size-full -rotate-90">
-        <circle cx="43" cy="43" r={r} fill="none" strokeWidth="7" className="stroke-muted" />
+        <circle cx="43" cy="43" r={RING_R} fill="none" strokeWidth="7" className="stroke-muted" />
         <circle
           cx="43"
           cy="43"
-          r={r}
+          r={RING_R}
           fill="none"
           stroke={color}
           strokeWidth="7"
           strokeLinecap="round"
-          strokeDasharray={c}
-          strokeDashoffset={c * (1 - value / 100)}
+          className="chance-ring-arc"
+          style={
+            {
+              "--ring-c": `${RING_C}px`,
+              "--ring-pct": value / 100,
+            } as React.CSSProperties
+          }
         />
       </svg>
       <span className="absolute inset-0 grid place-items-center text-2xl font-semibold tabular-nums">{value}</span>
+    </div>
+  )
+}
+
+function FactorBars({
+  factors,
+  color,
+}: {
+  factors: { label: string; value: number; max: number; why: string }[]
+  color: string
+}) {
+  return (
+    <div className="grid grid-cols-[minmax(0,9rem)_1fr_2.5rem] items-center gap-x-3 gap-y-2 text-xs">
+      {factors.map((f, i) => (
+        <React.Fragment key={f.label}>
+          <span className="truncate text-muted-foreground" title={f.why}>
+            {f.label}
+          </span>
+          <div className="h-1.5 overflow-hidden rounded-full bg-muted">
+            <div
+              className="factor-bar h-full rounded-full"
+              style={
+                {
+                  "--bar": `${(f.value / f.max) * 100}%`,
+                  "--i": i,
+                  backgroundColor: color,
+                } as React.CSSProperties
+              }
+            />
+          </div>
+          <span className="text-right tabular-nums">
+            {f.value}/{f.max}
+          </span>
+        </React.Fragment>
+      ))}
     </div>
   )
 }
@@ -126,7 +182,7 @@ export function CompanySheet({
         }}
         className="gap-0 shadow-2xl data-[side=bottom]:max-h-[85dvh] data-[side=right]:w-full data-[side=right]:sm:max-w-md"
       >
-        {c && <Body c={c} entry={entry} onUpdate={onUpdate} family={family} />}
+        {c && <Body c={c} open={name !== null} entry={entry} onUpdate={onUpdate} family={family} />}
       </SheetContent>
     </Sheet>
   )
@@ -134,16 +190,19 @@ export function CompanySheet({
 
 function Body({
   c,
+  open,
   entry,
   onUpdate,
   family,
 }: {
   c: (typeof ROWS)[number]
+  open: boolean
   entry: Entry | undefined
   onUpdate: (name: string, patch: Partial<Entry>) => void
   family: FamilyView
 }) {
   const designView = family === "designer"
+  const drawKey = useDrawKey(open, c.name)
   const view = FAMILY_VIEWS.find((f) => f.value === family)!
   // The roles of the selected family; designer view falls back to the research's own role (e.g. Voiceline).
   const fam = familyRoles(c.name, family, JOBS[c.name])
@@ -183,7 +242,7 @@ function Body({
         {designView ? (
           <>
             <div className="flex items-center gap-4 rounded-lg border bg-muted/40 p-4">
-              <ChanceRing value={c.chance} color={col} />
+              <ChanceRing key={drawKey} value={c.chance} color={col} />
               <div className="flex flex-col gap-1.5 text-sm">
                 {plus && (
                   <p>
@@ -201,24 +260,7 @@ function Body({
               </div>
             </div>
 
-            <div className="grid grid-cols-[minmax(0,9rem)_1fr_2.5rem] items-center gap-x-3 gap-y-2 text-xs">
-              {c.score.factors.map((f) => (
-                <React.Fragment key={f.label}>
-                  <span className="truncate text-muted-foreground" title={f.why}>
-                    {f.label}
-                  </span>
-                  <div className="h-1.5 overflow-hidden rounded-full bg-muted">
-                    <div
-                      className="h-full rounded-full"
-                      style={{ width: `${(f.value / f.max) * 100}%`, backgroundColor: col }}
-                    />
-                  </div>
-                  <span className="text-right tabular-nums">
-                    {f.value}/{f.max}
-                  </span>
-                </React.Fragment>
-              ))}
-            </div>
+            <FactorBars key={drawKey} factors={c.score.factors} color={col} />
           </>
         ) : (
           <p className="rounded-lg border border-dashed px-4 py-3 text-sm text-muted-foreground">

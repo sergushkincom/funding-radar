@@ -164,3 +164,45 @@
     @apply font-sans;
   }
 }
+
+/* Company sheet: the chance ring and the five factor bars draw in on open.
+   The panel's own slide is 200ms, so the draw waits 180ms and then eases out
+   (ring 750ms, bars 700ms, 40ms stagger). Reduced motion keeps --score-draw at 1. */
+@property --score-draw {
+  syntax: "<number>";
+  inherits: false;
+  initial-value: 1;
+}
+
+@keyframes score-draw {
+  from {
+    --score-draw: 0;
+  }
+  to {
+    --score-draw: 1;
+  }
+}
+
+.chance-ring-arc {
+  --score-draw: 1;
+  stroke-dasharray: var(--ring-c);
+  stroke-dashoffset: calc(var(--ring-c) * (1 - var(--score-draw) * var(--ring-pct)));
+}
+
+.factor-bar {
+  --score-draw: 1;
+  width: calc(var(--bar) * var(--score-draw));
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .chance-ring-arc {
+    --score-draw: 0;
+    animation: score-draw 750ms ease-out 180ms forwards;
+  }
+
+  .factor-bar {
+    --score-draw: 0;
+    animation: score-draw 700ms ease-out forwards;
+    animation-delay: calc(180ms + var(--i) * 40ms);
+  }
+}
