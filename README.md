@@ -10,6 +10,8 @@ One screen for one question a job search keeps coming back to: **who has fresh m
 
 **Live:** [funding-radar-two.vercel.app](https://funding-radar-two.vercel.app)
 
+![Demo: Fresh money, then a company panel](docs/demo.gif)
+
 ![Funding radar: KPIs, quick filters and the round date × chance chart](docs/funding-radar.png)
 
 ## What it does
