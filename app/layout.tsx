@@ -9,10 +9,35 @@ import { cn } from "@/lib/utils"
 const inter = Inter({ subsets: ["latin"], variable: "--font-sans" })
 const geistMono = Geist_Mono({ subsets: ["latin"], variable: "--font-geist-mono" })
 
+const title = "Funding radar"
+const description = "Who just raised, and my chances: Munich-area companies with recent rounds and open design roles."
+
+// Preview deploys point the card at themselves. Production stays on the public URL.
+const siteUrl =
+  process.env.VERCEL_ENV === "preview" && process.env.VERCEL_URL
+    ? `https://${process.env.VERCEL_URL}`
+    : process.env.VERCEL_PROJECT_PRODUCTION_URL
+      ? `https://${process.env.VERCEL_PROJECT_PRODUCTION_URL}`
+      : "https://funding-radar-two.vercel.app"
+
 export const metadata: Metadata = {
-  title: "Funding radar",
-  description: "Who just raised, and my chances: Munich-area companies with recent rounds and open design roles.",
+  metadataBase: new URL(siteUrl),
+  title,
+  description,
   robots: { index: false, follow: false },
+  openGraph: {
+    title,
+    description,
+    url: siteUrl,
+    siteName: title,
+    locale: "en_US",
+    type: "website",
+  },
+  twitter: {
+    card: "summary_large_image",
+    title,
+    description,
+  },
 }
 
 export default function RootLayout({ children }: { children: React.ReactNode }) {
