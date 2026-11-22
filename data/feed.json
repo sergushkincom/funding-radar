@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-21",
+ "generated": "2026-11-22",
  "companies": {
   "n8n": {
    "roles": {
@@ -123,7 +123,7 @@
      "other": 51
     },
     "source": "ashby",
-    "checked": "2026-11-21",
+    "checked": "2026-11-22",
     "history": [
      {
       "date": "2026-11-17",
@@ -184,10 +184,30 @@
        "data": 0,
        "other": 51
       }
+     },
+     {
+      "date": "2026-11-22",
+      "total": 68,
+      "design": 3,
+      "counts": {
+       "design": 3,
+       "engineering": 9,
+       "product": 5,
+       "data": 0,
+       "other": 51
+      }
      }
     ]
    },
    "news": [
+    {
+     "title": "n8n hosting Black Friday deals 2026: Sale with up to 70% OFF",
+     "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNRF9tM0FpQklFTTZtZDdqblBnQU9MdEJiZ2xmYmNpUHJsM3hOeXJIa3lNMHRCNGRxaUJJcXJabDJTRUVFTzhMaEtIeTdvcG1taWhfVUkxbU82azd1TlUtQV9WdXQ0dDRyMWM3WFVCWVltam5DVHp0YkR6WUxhZHY3OEVwQjA1T2RVcXRGTnJLb0k?oc=5",
+     "source": "Cybernews",
+     "sourceUrl": "https://cybernews.com",
+     "date": "2026-11-20",
+     "tag": "other"
+    },
     {
      "title": "Set Up n8n on the Raspberry Pi",
      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBYNGpJMGhuMW1mTklrbEFUV25STlNGQmNZY1Q0Si10TmJfNUliOWhqOHdyQjY3UnJmUmN6eXlzelRMQ2pOM2ZobmhuMERfMUU4X0dEM1pCUDhqYTJDTWxLRF9KRjRXby1Qal84RHZ6dEQyYzRncU5n?oc=5",
@@ -197,23 +217,15 @@
      "tag": "other"
     },
     {
-     "title": "What can you automate with n8n? 11 workflow ideas",
-     "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBfNFFhOE9qQ2ZCN2JtR2M0eUI4SEJZM3d6ZWZHWnU1STU0VTJrTGVJMFZLVDB5eGZQMGxZMzJPbDRGRDRxTHF2ck9xaVdJLUVpUDBwSjAwSmRpbGs4VktTWXVFZjN1Rm5pVTZCTnQxR2s0OUJVR1N2aFFB?oc=5",
-     "source": "Hostinger",
-     "sourceUrl": "https://www.hostinger.com",
-     "date": "2026-10-20",
-     "tag": "other"
-    },
-    {
-     "title": "AI Supply Chain Control Tower with n8n",
-     "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBwMkFCVFlKam5sNVdUbGNBSElzNEQtQ09IY0UycG5SSG51YmlabjFxZTBOWUFlTTNub1J4VkJ0TGdoZWdHN2RPd3RwVDNIVTNtTVByblRUV0pwN0JiZXFJZFNMOV9QLXg2REE?oc=5",
-     "source": "Towards Data Science",
-     "sourceUrl": "https://towardsdatascience.com",
-     "date": "2026-10-14",
+     "title": "Dataverse goes where you build: Copilot Cowork, coding agents and n8n",
+     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPWFVzWE5ncThURDdoelp6V3JvYy1zRE10eUFSSGtuZUxVOWp2NGlINWdEcEZFXzRxb0s1REhGNGplREQ0RWp1TVpGY2tOcV9ZV1V2UTgyQ1lwdFJ1YWxMb2VmbmdXeUdqeEQ3NnlnMXBGcDZIQjYxTTBWZ0pLNEYtSy1TRVdCTmg0bkV0cUpMZk9ENTQ4VDRUUXJhNFozWENudlJuVzFXcFhzUXA5RUZv?oc=5",
+     "source": "Microsoft",
+     "sourceUrl": "https://www.microsoft.com",
+     "date": "2026-11-02",
      "tag": "other"
     }
    ],
-   "newsChecked": "2026-11-21"
+   "newsChecked": "2026-11-22"
   },
   "Synthesia": {
    "roles": {
@@ -277,7 +289,7 @@
      "other": 20
     },
     "source": "ashby",
-    "checked": "2026-11-21",
+    "checked": "2026-11-22",
     "history": [
      {
       "date": "2026-11-17",
@@ -338,6 +350,18 @@
        "data": 0,
        "other": 20
       }
+     },
+     {
+      "date": "2026-11-22",
+      "total": 27,
+      "design": 2,
+      "counts": {
+       "design": 2,
+       "engineering": 2,
+       "product": 3,
+       "data": 0,
+       "other": 20
+      }
      }
     ]
    },
@@ -351,23 +375,23 @@
      "tag": "other"
     },
     {
-     "title": "Synthesia Adds AI Video Creation and Editing to Claude Chats",
-     "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPQnJob05jbUVfZlM3TE5WR1FSTm9UZVN1aTR2cEw1bDdyNjZFNkhTU0JrSWJiVGQ0UlZXQ0Itb3QteS1TT211N1M0cXJsR1NveDJHcWNOd3B6RGo0LTE3VFVhZnVOdENlZnZyak45cEloV3Y4VVZvVjEzeTlEcmpiQ3JSZEpmZGxRQ1E?oc=5",
-     "source": "Unite.AI",
-     "sourceUrl": "https://www.unite.ai",
-     "date": "2026-11-18",
-     "tag": "other"
-    },
-    {
      "title": "I took on Synthesia’s AI-generated employee — and failed",
      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOLWFiV3F2aVh4RWUwRk02alRXaVVZMlZCdENmdzZESEFKRDNFRU1jMXJNOVYyYzNlendEdzNNbklHLWlxNFMxV1NIUjloa2lqWFN3UVlQZ29pLXN3QTVic2Jxb3VEMHZ5SGVnQ3dxUnptOEZyZTJfS254blBnVGlqUWFTc3NqMHRSemU5TmwyQUU2STVuclpUS25nMncwZTY3MzhsQ01VSnBrZUlVNmtteDBNdENvYzJYZnFj?oc=5",
      "source": "The Times",
      "sourceUrl": "https://www.thetimes.com",
      "date": "2026-10-09",
      "tag": "other"
+    },
+    {
+     "title": "AI Platform Synthesia Moves HQ to 50K SF at GFP’s 675 Avenue of the Americas",
+     "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPb3VycFFIRGFaQ0FiVDJuelppa09zUmFlYmw4UTA1a2J3VkVGeVQtalM2U2Y1TkNNdWlLLThvTXRkd0JuUTdoQkhmZ1dsbzFDdk5LSG9FekV2blVzal9kNWpzNlVRS0xhSDJETjBybmZ1eHdWS0N6elhqOGc0YmoycXFWOTQ1NXBzUlFxZ0hfWQ?oc=5",
+     "source": "Commercial Observer",
+     "sourceUrl": "https://commercialobserver.com",
+     "date": "2026-10-08",
+     "tag": "other"
     }
    ],
-   "newsChecked": "2026-11-21"
+   "newsChecked": "2026-11-22"
   },
   "Parloa": {
    "roles": {
@@ -437,7 +461,7 @@
      "other": 38
     },
     "source": "ashby",
-    "checked": "2026-11-21",
+    "checked": "2026-11-22",
     "history": [
      {
       "date": "2026-11-17",
@@ -498,6 +522,18 @@
        "data": 0,
        "other": 38
       }
+     },
+     {
+      "date": "2026-11-22",
+      "total": 46,
+      "design": 1,
+      "counts": {
+       "design": 1,
+       "engineering": 6,
+       "product": 1,
+       "data": 0,
+       "other": 38
+      }
      }
     ]
    },
@@ -511,23 +547,23 @@
      "tag": "other"
     },
     {
-     "title": "McKinsey and Parloa partner for customer-facing AI technology",
-     "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPTUUzLU1MNXMzTWllWlZyeXNMT0hUUjY2dnRoV2Z5Z0hJTFpZMFRHdENxM19DcXBzeTJSVlVZbExFTXR4VkVCSGRNYWhMNkY0Z0I5ZnFwYjlEeFRldWpSYUV0YlROMV93T3Jnc1VqcHQ4am5BdnM2Sk01cW9wbkVpTmN4WFcyOWFDUVFFLTdmMXRNZTV1?oc=5",
-     "source": "MarTech Cube",
-     "sourceUrl": "https://www.martechcube.com",
-     "date": "2026-11-08",
-     "tag": "other"
-    },
-    {
      "title": "Parloa Expands North American Agentic CX Footprint through Alliance with Deloitte Canada",
      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPcWc1NDdJN1VNSlU5VzJEX0NaMGQyazZVbmFfT0h6djU5Y29sRmhYeWFVUjN2MjFqNHJYd0pHbnZQTVQxaEFGcW1VMHBiVVEzUk5fNklqT0hzaTJDWFkzQi14emtoZlhhQ2EzeHktWlVHcENUZFJNYUpMd1ZHc3prSDBkZHZITVVZMGhPeFZHcnkwUXFyTVFqUnZ0NTNTU1BYeHVkX3U4OG9peUhFeXVvdFBpOFFvaEwwNklpaV85RGI1bjJwM0FONkNLM1BLZmQxTHdtWUdQbjg0dloy?oc=5",
      "source": "PR Newswire",
      "sourceUrl": "https://www.prnewswire.com",
      "date": "2026-11-04",
      "tag": "other"
+    },
+    {
+     "title": "McKinsey and Parloa partner for customer-facing AI technology",
+     "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPTUUzLU1MNXMzTWllWlZyeXNMT0hUUjY2dnRoV2Z5Z0hJTFpZMFRHdENxM19DcXBzeTJSVlVZbExFTXR4VkVCSGRNYWhMNkY0Z0I5ZnFwYjlEeFRldWpSYUV0YlROMV93T3Jnc1VqcHQ4am5BdnM2Sk01cW9wbkVpTmN4WFcyOWFDUVFFLTdmMXRNZTV1?oc=5",
+     "source": "MarTech Cube",
+     "sourceUrl": "https://www.martechcube.com",
+     "date": "2026-10-29",
+     "tag": "other"
     }
    ],
-   "newsChecked": "2026-11-21"
+   "newsChecked": "2026-11-22"
   },
   "Lovable": {
    "roles": {
@@ -778,7 +814,7 @@
      "other": 40
     },
     "source": "ashby",
-    "checked": "2026-11-21",
+    "checked": "2026-11-22",
     "history": [
      {
       "date": "2026-11-17",
@@ -839,18 +875,22 @@
        "data": 9,
        "other": 40
       }
+     },
+     {
+      "date": "2026-11-22",
+      "total": 78,
+      "design": 2,
+      "counts": {
+       "design": 2,
+       "engineering": 23,
+       "product": 4,
+       "data": 9,
+       "other": 40
+      }
      }
     ]
    },
    "news": [
-    {
-     "title": "Lovable at Two: 70M Projects Signal AI-Native Development Goes Mainstream",
-     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQZm1sMFJUbGVlQUl0OGZmOHc0Mm0zeFgyaTZGZXkwQlJsd1MwMVRSVEhqSVdCbmdUUjRaWUZRaFR6czZBeHkxWlZNSWdZSDk2VHZKanZ0eFpiVDg0UjB3eFFoSjhSWjFGNmJwb2FucmRSa0FVMUtFREhHdmctc095c2g3ZG1OejRhb0NjNTlKZzFlSjZlNDRnZHBRX3ZVWFMwbXloTzhjNWlEN1E?oc=5",
-     "source": "The Futurum Group",
-     "sourceUrl": "https://futurumgroup.com",
-     "date": "2026-11-20",
-     "tag": "other"
-    },
     {
      "title": "59 European tech leaders, from ElevenLabs, Lovable and DeepL to LeCun and Aghion, demand a dedicated AI budget from the EU",
      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQRGtQelJtUHV5RUM4NER6OFYzOTVLRjl0ZGdGczNXMjZoNU5QQ1lsNmd4ME9XUURaVDRyWk9KZldMQm9oanVaTHh1cFFkZC15Zks5eldoWUFzbkN6aktGSFhYMF9WLUk1YVpJZElDWUhxTFRfTkFPd3F6UGlBcWVmaF9la0YyRm9qbTU0dTFvUktKdHFPdDZKdmhOSHhPUDNQcl9xaVVHRXR0c242WVZtbHdSUTVVNU1hTDk2ZEsyTFlyYXg5Y0I0Nk96dE9sanBhTVg2ckFKcDl5ZUV4eFp5WG8zSVJfRE9k?oc=5",
@@ -866,9 +906,17 @@
      "sourceUrl": "https://mlq.ai",
      "date": "2026-11-18",
      "tag": "other"
+    },
+    {
+     "title": "ElevenLabs Lovable Urge EU to Fund AI in Next Budget",
+     "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9xMGhET2xFTDFRdGhPby0wVklvYm9XWjFkSVhIb2pZTkxSU2x2SnV2S2NSYTNWelFOcDFiamdSWE5sUW82UHFfai1EMmRhbzBjcWZEajZjM0hnX2c2bnpzNUhBekRNUmFRVlo0eg?oc=5",
+     "source": "TechnoSports Media Group",
+     "sourceUrl": "https://technosports.co.in",
+     "date": "2026-11-18",
+     "tag": "other"
     }
    ],
-   "newsChecked": "2026-11-21"
+   "newsChecked": "2026-11-22"
   },
   "Moss": {
    "roles": {
@@ -919,7 +967,7 @@
      "other": 27
     },
     "source": "ashby",
-    "checked": "2026-11-21",
+    "checked": "2026-11-22",
     "history": [
      {
       "date": "2026-11-17",
@@ -980,11 +1028,23 @@
        "data": 0,
        "other": 27
       }
+     },
+     {
+      "date": "2026-11-22",
+      "total": 32,
+      "design": 1,
+      "counts": {
+       "design": 1,
+       "engineering": 4,
+       "product": 0,
+       "data": 0,
+       "other": 27
+      }
      }
     ]
    },
    "news": [],
-   "newsChecked": "2026-11-21"
+   "newsChecked": "2026-11-22"
   },
   "Langdock": {
    "roles": {
@@ -1047,7 +1107,7 @@
      "other": 5
     },
     "source": "ashby",
-    "checked": "2026-11-21",
+    "checked": "2026-11-22",
     "history": [
      {
       "date": "2026-11-17",
@@ -1108,6 +1168,18 @@
        "data": 0,
        "other": 5
       }
+     },
+     {
+      "date": "2026-11-22",
+      "total": 12,
+      "design": 1,
+      "counts": {
+       "design": 1,
+       "engineering": 6,
+       "product": 0,
+       "data": 0,
+       "other": 5
+      }
      }
     ]
    },
@@ -1137,7 +1209,7 @@
      "tag": "other"
     }
    ],
-   "newsChecked": "2026-11-21"
+   "newsChecked": "2026-11-22"
   },
   "Pennylane": {
    "roles": {
@@ -1244,7 +1316,7 @@
      "other": 189
     },
     "source": "ashby",
-    "checked": "2026-11-21",
+    "checked": "2026-11-22",
     "history": [
      {
       "date": "2026-11-17",
@@ -1305,10 +1377,38 @@
        "data": 3,
        "other": 189
       }
+     },
+     {
+      "date": "2026-11-22",
+      "total": 203,
+      "design": 4,
+      "counts": {
+       "design": 4,
+       "engineering": 5,
+       "product": 2,
+       "data": 3,
+       "other": 189
+      }
      }
     ]
    },
    "news": [
+    {
+     "title": "Pennylane and Qonto founders just backed a startup that could replace their own auditors",
+     "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5sV2stSlE0MkxKc0FISnZBd0hsSEZwQ3dzblQ5eGFLWDlfTnlJcHpyeHpOSldBN05PUEJQX0Z0S1NpanI4MmtWY3cxdFZHcHVPV2M5aC00RFRhSTlZR3p5X0tqR2I0VklnYTdMOGZ6clZ0Uk9OTXpOSw?oc=5",
+     "source": "Tech Funding News",
+     "sourceUrl": "https://techfundingnews.com",
+     "date": "2026-09-22",
+     "tag": "other"
+    },
+    {
+     "title": "Arthur Waller (Pennylane) and Stanislas Polu (Dust) back startup targeting financial audit professionals",
+     "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPVWo5OFljeTBJdkxwMTJkOXk3UGhOdEgwOWNJWEtwT1Q2bzVkeVhVaDVzcEtyZDZZQU43aTF1LUpCa3lDRDBtNlNyUkd1NVh5d2tXdmpjTkhFMWM1N3VWbF9YMWVqR0NSSFJhczEyZnlTSEI1cUhKZHpacFFCbWM2RkpDMDByZ1ZXa3RiTHE4TG52dEc0ZjdpRU5PeDhXeGNvNGNsTXRsWkJEWWNDS2ZDTUctSlZzc005R1VCaV9aTENfV0ExMG8tbl9BbjZ4VXB4aTF5V0JDT2k?oc=5",
+     "source": "Maddyness",
+     "sourceUrl": "https://www.maddyness.com",
+     "date": "2026-09-16",
+     "tag": "funding"
+    },
     {
      "title": "Qonto and Pennylane: French fintech friends and foes",
      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPS2c3amlndUFwRzJYNDBkampoazNQM2lzNGd6QzJFSWhINU1uNmp3WGRUREROQVJfcW93Y2pBdWN2VEpLWE5BdVlETkVYeUt4MDBVUmhPRlgtcDZIdWJBSWlpVEY3TVRGdmZsWEFkWjliNDFENXoxN2lNV0ZWWUN0SHo4VHpZUQ?oc=5",
@@ -1316,25 +1416,9 @@
      "sourceUrl": "https://tech.eu",
      "date": "2026-07-01",
      "tag": "other"
-    },
-    {
-     "title": "Pennylane raises €175 million to accelerate AI development and European expansion",
-     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQb2NUdjNJZlhydTFYUTdMaTdfSjJaMjJLaFNuTWVzUzQ2LXZjT3ozQXZFSTdjdnVrU2VfaWNZbjEtR1NMdmNMTm9oalVydjcyNllGRl8waFBsa241MGdyYnFhaGliS2pBc3pramxyWExWUnR0VFlZajRyd3lqR1FXWGNLNm41ZnRoa0NmQnUtem85NjhpTERheHZya0o1bzdqNWd3Zm5ubHc1dXpaUUxsY243N0M?oc=5",
-     "source": "Dealroom",
-     "sourceUrl": "https://app.dealroom.co",
-     "date": "2026-04-15",
-     "tag": "funding"
-    },
-    {
-     "title": "Unicorn Pennylane raises €175 mn to scale AI finance OS for European SMEs",
-     "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9OUFpMaF9Ub3I1RllLeDBhSkpjdlhqblN2bTcyMW5vbkk4UUFGbnpzMFFOTHBVVTlDXzJYVzUyQzRGN3JiRXZlanFQOUxTYkNMWEtGcVR5WVZfZ3gtdC1JdV9sQ2JxRlpCYXpROEVZUklnbUJROHZHZXdkMDg?oc=5",
-     "source": "Beinsure",
-     "sourceUrl": "https://beinsure.com",
-     "date": "2026-02-02",
-     "tag": "funding"
     }
    ],
-   "newsChecked": "2026-11-21"
+   "newsChecked": "2026-11-22"
   },
   "Skalar": {
    "roles": {
@@ -1399,7 +1483,7 @@
      "other": 10
     },
     "source": "ashby",
-    "checked": "2026-11-21",
+    "checked": "2026-11-22",
     "history": [
      {
       "date": "2026-11-17",
@@ -1460,6 +1544,18 @@
        "data": 2,
        "other": 10
       }
+     },
+     {
+      "date": "2026-11-22",
+      "total": 17,
+      "design": 1,
+      "counts": {
+       "design": 1,
+       "engineering": 3,
+       "product": 1,
+       "data": 2,
+       "other": 10
+      }
      }
     ]
    },
@@ -1481,7 +1577,7 @@
      "tag": "funding"
     }
    ],
-   "newsChecked": "2026-11-21"
+   "newsChecked": "2026-11-22"
   },
   "Avelios Medical": {
    "roles": {
@@ -1594,7 +1690,7 @@
      "other": 33
     },
     "source": "ashby",
-    "checked": "2026-11-21",
+    "checked": "2026-11-22",
     "history": [
      {
       "date": "2026-11-17",
@@ -1655,6 +1751,18 @@
        "data": 2,
        "other": 33
       }
+     },
+     {
+      "date": "2026-11-22",
+      "total": 48,
+      "design": 1,
+      "counts": {
+       "design": 1,
+       "engineering": 9,
+       "product": 3,
+       "data": 2,
+       "other": 33
+      }
      }
     ]
    },
@@ -1684,7 +1792,7 @@
      "tag": "funding"
     }
    ],
-   "newsChecked": "2026-11-21"
+   "newsChecked": "2026-11-22"
   },
   "1KOMMA5°": {
    "roles": {
@@ -1837,7 +1945,7 @@
      "other": 311
     },
     "source": "personio",
-    "checked": "2026-11-21",
+    "checked": "2026-11-22",
     "history": [
      {
       "date": "2026-11-17",
@@ -1898,6 +2006,18 @@
        "data": 0,
        "other": 311
       }
+     },
+     {
+      "date": "2026-11-22",
+      "total": 333,
+      "design": 0,
+      "counts": {
+       "design": 0,
+       "engineering": 13,
+       "product": 9,
+       "data": 0,
+       "other": 311
+      }
      }
     ]
    },
@@ -1927,7 +2047,7 @@
      "tag": "funding"
     }
    ],
-   "newsChecked": "2026-11-21"
+   "newsChecked": "2026-11-22"
   },
   "Sereact": {
    "roles": {
@@ -1974,7 +2094,7 @@
      "other": 44
     },
     "source": "ashby",
-    "checked": "2026-11-21",
+    "checked": "2026-11-22",
     "history": [
      {
       "date": "2026-11-17",
@@ -2035,6 +2155,18 @@
        "data": 1,
        "other": 44
       }
+     },
+     {
+      "date": "2026-11-22",
+      "total": 48,
+      "design": 1,
+      "counts": {
+       "design": 1,
+       "engineering": 1,
+       "product": 1,
+       "data": 1,
+       "other": 44
+      }
      }
     ]
    },
@@ -2064,7 +2196,7 @@
      "tag": "launch"
     }
    ],
-   "newsChecked": "2026-11-21"
+   "newsChecked": "2026-11-22"
   },
   "Lio": {
    "news": [
@@ -2093,7 +2225,7 @@
      "tag": "hire"
     }
    ],
-   "newsChecked": "2026-11-21"
+   "newsChecked": "2026-11-22"
   },
   "Tendos": {
    "news": [
@@ -2114,7 +2246,7 @@
      "tag": "funding"
     }
    ],
-   "newsChecked": "2026-11-21"
+   "newsChecked": "2026-11-22"
   },
   "Atira": {
    "news": [
@@ -2143,7 +2275,7 @@
      "tag": "funding"
     }
    ],
-   "newsChecked": "2026-11-21"
+   "newsChecked": "2026-11-22"
   },
   "ClearOps": {
    "news": [
@@ -2164,7 +2296,7 @@
      "tag": "funding"
     }
    ],
-   "newsChecked": "2026-11-21"
+   "newsChecked": "2026-11-22"
   },
   "Causa Prima": {
    "news": [
@@ -2193,7 +2325,7 @@
      "tag": "funding"
     }
    ],
-   "newsChecked": "2026-11-21"
+   "newsChecked": "2026-11-22"
   },
   "Lanes & Planes": {
    "news": [
@@ -2206,6 +2338,14 @@
      "tag": "hire"
     },
     {
+     "title": "Lanes & Planes partners with Expedia",
+     "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFA2enFXS3E2NklUck9RYUlOdkszeGgyZzJINld4ZGlDVlJIMkd0Q01veENsX0F2eEJWcFhPbHZVWnpBR1RYZ29nRUR0bGZ5SFh4MmpPc0lSNUNLMU5PQ3JoTmVDYmxTRmd6QWhSRTZTdXhtZlRYNFY0Rm9ldkE?oc=5",
+     "source": "Munich Startup",
+     "sourceUrl": "https://www.munich-startup.de",
+     "date": "2026-08-01",
+     "tag": "other"
+    },
+    {
      "title": "Lanes & Planes Secures Double-digit Million Euro Financing From BBVA to Fuel Growth",
      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPWUVxS3BPSk40RUtGNGZSdFAtV1E5ajVGZHVGek1rRkE0TVZYdTdzN3c5OVdZWTNqN1c1LUhEUkFDRmNhSW9MdjNMdExYcUpnLVJFUk40ZmlNX0VoQ0pzemVUeURGcEtaMGdGV3A2YkRmVnZoWHZsNWc5aEs0MG5vTklMNjlhNGF0SDNla2RVWkhlSHZ2OU5kaGk2QTdfM09SMDlxU2dnTllqMUd4c3Nickh5YWNZM0d4?oc=5",
      "source": "BBVA",
@@ -2214,7 +2354,7 @@
      "tag": "funding"
     }
    ],
-   "newsChecked": "2026-11-21"
+   "newsChecked": "2026-11-22"
   },
   "Secfix": {
    "news": [
@@ -2235,7 +2375,7 @@
      "tag": "funding"
     }
    ],
-   "newsChecked": "2026-11-21"
+   "newsChecked": "2026-11-22"
   },
   "Voiceline": {
    "roles": {
@@ -2255,7 +2395,7 @@
      "tag": "other"
     }
    ],
-   "newsChecked": "2026-11-21"
+   "newsChecked": "2026-11-22"
   },
   "Sinpex": {
    "news": [
@@ -2284,7 +2424,7 @@
      "tag": "funding"
     }
    ],
-   "newsChecked": "2026-11-21"
+   "newsChecked": "2026-11-22"
   },
   "Rencore": {
    "news": [
@@ -2305,7 +2445,7 @@
      "tag": "launch"
     }
    ],
-   "newsChecked": "2026-11-21"
+   "newsChecked": "2026-11-22"
   },
   "Elevatry": {
    "news": [
@@ -2334,26 +2474,10 @@
      "tag": "funding"
     }
    ],
-   "newsChecked": "2026-11-21"
+   "newsChecked": "2026-11-22"
   },
   "Interloom": {
    "news": [
-    {
-     "title": "Osborne Clarke advises Air Street Capital on seed investment in Interloom’s enterprise AI memory platform",
-     "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPbEthSzczdVd1VE1TN0lnZVFkQlhxeDlGZWd0aVl4QUowM24yaERiOHR5VlZTNXNZbV9tTC05bWdqTTZLcnpWamhvRUNEUFdxLWh4ZDhzSkJISXNxNDNMdjBTV0Z4S2F3TTdvOUlPaHpQeUo2WjFGY3dIXzU5d2JrR1JZS2hOZXBBd2pFS29GT0tybWRqQXFKS0Z5MURJWWsxNmJlQ1pEMG9lRFJsYUpwYkNWZ05PSjcxTEFnclBqZHIzdw?oc=5",
-     "source": "Osborne Clarke",
-     "sourceUrl": "https://www.osborneclarke.com",
-     "date": "2026-04-28",
-     "tag": "funding"
-    },
-    {
-     "title": "Interloom: $16.5 Million Seed Funding Raised For Enterprise AI Memory Platform",
-     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPbDBmZTN2MFoxTy15V2JxeWx2MlQ1cGR0X1QwdDJHamRnQXA1MmpicmdtX2tIM1Q4cTUxZlpnS3ktR2hJa0p3RGJCSlhjcEpmS3lEamx6MkxtOFhISWdVa1lhME9xZ0xOb0pTZzRoUjZoRklVbHhGYU1wR3RTczV0YWgtbXhrZkZlSEt3Wkl4blRwNjIxbDI2bkFkNWfSAaIBQVVfeXFMT2lGc1VDQUJqYU1fUUtrRnBHSUZhcFhMNzBjVjhmMFpWNlVCeU5qT3Z1SngtZThJSUZYVnMtRG5TUGFhVHRFbmNkYzZ4YXJrdEFUMUxIdV9Vc2VNV0RkaGk1aWp3ekpVNFJLUExMbGx3Y2hYclhPaUhHdlJMMktZUkE2ZHFOOHdfUFU3OUtWTXg0SFNHYTFlSnd2SkxlWEd5ZEd3?oc=5",
-     "source": "Pulse 2.0",
-     "sourceUrl": "https://pulse2.com",
-     "date": "2026-03-31",
-     "tag": "funding"
-    },
     {
      "title": "Exclusive: Interloom, which wants to solve AI agents' 'tacit knowledge' problem, raises $16.5 million in VC funding",
      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPWjRsSmNmQ3M4clY5alRPV1VSZVNrazQ5U3BwTWlGQzBtVHpHOXV6QnQxNDAyOGo4N2M2YXBQT1k5cjItbVBxUnkxWTRlTWh4S1pXbm9CbEZoN1FwMXM4blAzeE5HY2ZySGlGVFRwWUdTTW1icFdnRVo3aEFJdm5IYkdmWC14WkVQUndFTWpB?oc=5",
@@ -2361,13 +2485,21 @@
      "sourceUrl": "https://fortune.com",
      "date": "2026-03-23",
      "tag": "funding"
+    },
+    {
+     "title": "German startup Interloom lands €14.2 million Seed funding for AI agent knowledge infrastructure",
+     "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQaDZoLW5WZEFsRXRRU3lkUW9XUWRXNndMRzRjTURkNmc4Z09ycXFRVHJrRHVxYmFacDFJdUpZNmotUXZBa3k3NG1vcWZTaFA2Q2dyQmhHMC1HN1otTkM4RFdMYTBCX1AwNXRad1c2V3NlVms1OWhJRXlwcXhUeFBWZHdWREk5X0ZVeENqQ0JwVENNRS1NSkxVcjNjYmRhdDgwLWdnWkNlRDZZZmk1cXVOaU10NFY0VExtcmxfNHJ3M1dxT2VxNEJsT21qQXM?oc=5",
+     "source": "EU-Startups",
+     "sourceUrl": "https://www.eu-startups.com",
+     "date": "2026-03-23",
+     "tag": "funding"
     }
    ],
-   "newsChecked": "2026-11-21"
+   "newsChecked": "2026-11-22"
   },
   "Finn": {
    "news": [],
-   "newsChecked": "2026-11-21"
+   "newsChecked": "2026-11-22"
   },
   "NavVis": {
    "news": [
@@ -2396,7 +2528,7 @@
      "tag": "other"
     }
    ],
-   "newsChecked": "2026-11-21"
+   "newsChecked": "2026-11-22"
   },
   "Limehome": {
    "news": [
@@ -2417,15 +2549,15 @@
      "tag": "other"
     },
     {
-     "title": "Limehome expands in London with St Paul’s opening",
-     "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE14SEdJQ1dLdFZLOTg1SUJaRzNDUVRVMF8tTG1SM215RHdqX2l5S1o4UGlpczdzd1Z1OGliNHVMS1VZWXFZbFc1bEZveXAyYlJ6b2U1WXBsQ0NDcHBPQ1dvUGoyd3MtMHJ1QWJCZ2p0b0FXYWpvOTJqNGhhNVRaUQ?oc=5",
-     "source": "Serviced Apartment News",
-     "sourceUrl": "https://servicedapartmentnews.com",
-     "date": "2026-06-19",
+     "title": "Limehome opens prime London location steps from St. Paul's Cathedral",
+     "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOY2lhWmNreFVTQy1qUEJhZHczZ2k5N3FpdVJ5Sm8zQWk5U3VoSEkwU1B2c0Y1ZEg1QVdpQS1lMngwTEhYMnB5aWlBbjhRNnVaaXhtaDJhb3NfdGlDcUlTazJJUFNQZUl1d2x0RXBhZUQ2SUliVm1UaFZYM1N6TG16M2NFLWJ6dUY5MDFlQWJaQ1h3NWhfMnZveG5kdG9UNldaS1ktcjBjWW0zSjhkU0JxNk9hUC1iMDNYc1RN?oc=5",
+     "source": "Hospitality Net",
+     "sourceUrl": "https://www.hospitalitynet.org",
+     "date": "2026-06-18",
      "tag": "other"
     }
    ],
-   "newsChecked": "2026-11-21"
+   "newsChecked": "2026-11-22"
   },
   "Microagi": {
    "news": [
@@ -2438,7 +2570,7 @@
      "tag": "funding"
     }
    ],
-   "newsChecked": "2026-11-21"
+   "newsChecked": "2026-11-22"
   },
   "Entrix": {
    "news": [
@@ -2451,23 +2583,23 @@
      "tag": "other"
     },
     {
-     "title": "Entrix to optimize Germany’s first PV-plus-battery ‘grey’ co-location project",
-     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNVHhOV1JoX1F6ZHpYRGZhNjhja2NJallRUWNrWU5IeWpPWVhQdjFjNHZTRzN0dko4UVV2NVVxYnZaU1dHelFfSHFLcTV4Q2NfUU5YR0NwNkNIaE5TYUNkLXJJQk5WMnI3MWhveWJ2VTI2dk9qM0l4LWJZYU9lRmNGblU0M1JNNl8yU2NuRmh0bVhYaHNtTFJFRmFOT0l1RzU1ZGdRZ3ItdGRDNmNxZHVjbA?oc=5",
-     "source": "ESS News",
-     "sourceUrl": "https://www.ess-news.com",
-     "date": "2026-06-12",
-     "tag": "other"
-    },
-    {
      "title": "European BESS route-to-market optimisers Entrix, GridBeyond raise €55 million",
      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOZ0NreTNORGpyOW9wQlZOSnJmRWtRZkI3T1pLSmx3SUFra29LdFJLNEwxankwTVZWOTQ3ZlNpdkJhT0FHOWg0ZGFYZjlsaUJsSEp6UkJ1TUtlcy1WY0hGM3p3T3NCcjBaMk9tbW1ralFqWTBtWDRSUGpwSWJNVUQzYlN5ek9uRmFFdEtHQkplRE9TZUxGRlVtQmRmbmd1WnJMT0tDRW03N2pNX25JTmc?oc=5",
      "source": "Energy-Storage.News",
      "sourceUrl": "https://www.energy-storage.news",
      "date": "2026-03-30",
      "tag": "funding"
+    },
+    {
+     "title": "Entrix Locks In 3 GW of Battery Storage and €43M to Scale Across Europe",
+     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNUEh4Wm5Hd1hWWmcwclBIMlpsa29Cd1N4U3BDXzg0WTE4d1JDd2dMRS1qZ2NvOGk4Q2hSOWdLandrb3VUT3dfdlpsM3hobWUxN21nenFQMmtfTjAwTWd5enh4eFlsNVVFX2FLbjZwMWVzRHJjQUZvOE9uMVkxWjRTd0V5YlVnZTFYNlB1Zm5uYmlRWTl3Qmo0c2Uya09sTUZvWUpQbA?oc=5",
+     "source": "www.trendingtopics.eu",
+     "sourceUrl": "https://www.trendingtopics.eu",
+     "date": "2026-03-25",
+     "tag": "other"
     }
    ],
-   "newsChecked": "2026-11-21"
+   "newsChecked": "2026-11-22"
   },
   "Twaice": {},
   "Allo": {},
