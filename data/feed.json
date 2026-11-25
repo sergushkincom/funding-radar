@@ -1,9 +1,9 @@
 {
- "generated": "2026-11-24",
+ "generated": "2026-11-25",
  "companies": {
   "n8n": {
    "roles": {
-    "total": 67,
+    "total": 69,
     "design": [
      {
       "title": "Senior/Staff Product Designer",
@@ -69,13 +69,7 @@
        "published": "2026-11-10"
       },
       {
-       "title": "Lead Forward Deployed Engineer - EMEA",
-       "url": "https://jobs.ashbyhq.com/n8n/fb5e4f97-a769-4b87-95f4-bdc5e4c3b031",
-       "loc": "Germany",
-       "published": "2026-11-11"
-      },
-      {
-       "title": "Soultions Engineering Manager (EMEA)",
+       "title": "Solutions Engineering Manager (EMEA)",
        "url": "https://jobs.ashbyhq.com/n8n/79e4f4d1-41fa-45fd-acd7-7f305f018754",
        "loc": "Germany",
        "published": "2026-11-18"
@@ -117,13 +111,13 @@
     },
     "counts": {
      "design": 3,
-     "engineering": 9,
+     "engineering": 8,
      "product": 5,
      "data": 0,
-     "other": 50
+     "other": 53
     },
     "source": "ashby",
-    "checked": "2026-11-24",
+    "checked": "2026-11-25",
     "history": [
      {
       "date": "2026-11-17",
@@ -220,6 +214,18 @@
        "data": 0,
        "other": 50
       }
+     },
+     {
+      "date": "2026-11-25",
+      "total": 69,
+      "design": 3,
+      "counts": {
+       "design": 3,
+       "engineering": 8,
+       "product": 5,
+       "data": 0,
+       "other": 53
+      }
      }
     ]
    },
@@ -233,27 +239,27 @@
      "tag": "other"
     },
     {
-     "title": "Hostinger Managed apps: How to set up and manage n8n",
-     "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPVTZscFFNUnNTWEhzS2VyLXBfbXdYV1NPUU1UdnY0VmczUmpDMUJfbnVKYmZ5Q0hYNG5tbXJUZFlFN0sxbTgxOTZpRks1cXRvWV9YWFJWOWllZnlYWExPbFRwZUgtM3N2X3dfNEJycDE2N2FwOVF3eDA1WndNcWlYdlJxclRkV2RaQVBqS1RVbw?oc=5",
-     "source": "Hostinger",
-     "sourceUrl": "https://www.hostinger.com",
-     "date": "2026-11-23",
-     "tag": "other"
-    },
-    {
      "title": "Set Up n8n on the Raspberry Pi",
      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBYNGpJMGhuMW1mTklrbEFUV25STlNGQmNZY1Q0Si10TmJfNUliOWhqOHdyQjY3UnJmUmN6eXlzelRMQ2pOM2ZobmhuMERfMUU4X0dEM1pCUDhqYTJDTWxLRF9KRjRXby1Qal84RHZ6dEQyYzRncU5n?oc=5",
      "source": "Adafruit",
      "sourceUrl": "https://blog.adafruit.com",
      "date": "2026-11-06",
      "tag": "other"
+    },
+    {
+     "title": "Dataverse goes where you build: Copilot Cowork, coding agents and n8n",
+     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPWFVzWE5ncThURDdoelp6V3JvYy1zRE10eUFSSGtuZUxVOWp2NGlINWdEcEZFXzRxb0s1REhGNGplREQ0RWp1TVpGY2tOcV9ZV1V2UTgyQ1lwdFJ1YWxMb2VmbmdXeUdqeEQ3NnlnMXBGcDZIQjYxTTBWZ0pLNEYtSy1TRVdCTmg0bkV0cUpMZk9ENTQ4VDRUUXJhNFozWENudlJuVzFXcFhzUXA5RUZv?oc=5",
+     "source": "Microsoft",
+     "sourceUrl": "https://www.microsoft.com",
+     "date": "2026-11-02",
+     "tag": "other"
     }
    ],
-   "newsChecked": "2026-11-24"
+   "newsChecked": "2026-11-25"
   },
   "Synthesia": {
    "roles": {
-    "total": 26,
+    "total": 24,
     "design": [
      {
       "title": "Product Designer, Enterprise (Staff-level / L6)",
@@ -279,12 +285,6 @@
      ],
      "product": [
       {
-       "title": "Product Manager, New Product Bet (Principal-level)",
-       "url": "https://jobs.ashbyhq.com/synthesia/c2ba6d4d-f991-4432-a9c8-1514a93b08bb",
-       "loc": "London",
-       "published": "2026-09-28"
-      },
-      {
        "title": "Product Manager, Enterprise (Staff/Principal-level)",
        "url": "https://jobs.ashbyhq.com/synthesia/31e1dca3-74fd-4f74-8f40-5bb19f4034bb",
        "loc": "London",
@@ -302,12 +302,12 @@
     "counts": {
      "design": 1,
      "engineering": 2,
-     "product": 3,
+     "product": 2,
      "data": 0,
-     "other": 20
+     "other": 19
     },
     "source": "ashby",
-    "checked": "2026-11-24",
+    "checked": "2026-11-25",
     "history": [
      {
       "date": "2026-11-17",
@@ -404,10 +404,30 @@
        "data": 0,
        "other": 20
       }
+     },
+     {
+      "date": "2026-11-25",
+      "total": 24,
+      "design": 1,
+      "counts": {
+       "design": 1,
+       "engineering": 2,
+       "product": 2,
+       "data": 0,
+       "other": 19
+      }
      }
     ]
    },
    "news": [
+    {
+     "title": "Best Synthesia alternatives in 2026",
+     "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQOG9jSVhfalViaWJ3QjlNbXpIQ0JwM3JRREc4Uk5RcWFPb1Zadm5zLVdUbWJaZkYwck1FRGtPcTBMbmFybDJWR0V2bEhiRU15ZDA2M0dZNTFXYWQxc1RNVGs2ejN0Q3pUWWlrTkd6UC1YQmpCZjNmUEJxWTV6OFdzbW5PRnNfYUhUZXJN?oc=5",
+     "source": "iTWire",
+     "sourceUrl": "https://itwire.com",
+     "date": "2026-11-23",
+     "tag": "other"
+    },
     {
      "title": "Synthesia: AI Video Avatars, US$4bn Value & the Fortune 100",
      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQUk9KOWFydzVVQkdaeDAyb0tvVkVkMU9SWDVhNTlZY0w4MXVYNVc1NjctWEozRlVHcWw2V19qTVc0RThWX0tpYnJKT3JoWHQ3TkJoSEVQMkl5NU1qMElFVnFIUkRyYjNjaUFCeEs1RzZfNTlySGlQV1EyTjA2dHJBN1pBYTZUNFFwZlpV?oc=5",
@@ -417,27 +437,19 @@
      "tag": "other"
     },
     {
-     "title": "Synthesia Adds AI Video Creation and Editing to Claude Chats",
-     "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPQnJob05jbUVfZlM3TE5WR1FSTm9UZVN1aTR2cEw1bDdyNjZFNkhTU0JrSWJiVGQ0UlZXQ0Itb3QteS1TT211N1M0cXJsR1NveDJHcWNOd3B6RGo0LTE3VFVhZnVOdENlZnZyak45cEloV3Y4VVZvVjEzeTlEcmpiQ3JSZEpmZGxRQ1E?oc=5",
-     "source": "Unite.AI",
-     "sourceUrl": "https://www.unite.ai",
-     "date": "2026-11-18",
-     "tag": "other"
-    },
-    {
-     "title": "I took on Synthesia’s AI-generated employee — and failed",
-     "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOLWFiV3F2aVh4RWUwRk02alRXaVVZMlZCdENmdzZESEFKRDNFRU1jMXJNOVYyYzNlendEdzNNbklHLWlxNFMxV1NIUjloa2lqWFN3UVlQZ29pLXN3QTVic2Jxb3VEMHZ5SGVnQ3dxUnptOEZyZTJfS254blBnVGlqUWFTc3NqMHRSemU5TmwyQUU2STVuclpUS25nMncwZTY3MzhsQ01VSnBrZUlVNmtteDBNdENvYzJYZnFj?oc=5",
-     "source": "The Times",
-     "sourceUrl": "https://www.thetimes.com",
-     "date": "2026-10-09",
+     "title": "BK Synthesia Pardubice vs SK Zabovresky scores & predictions",
+     "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQNzlSWXpBOFRzOTh0Q19PNlZwN19hU05KTXg0NkRJM3IyOHlFRmNTTlpUdEZFZGNncTllV2R2cEIyY2I3cW9qdmY1NGxVN3MxWTlyWEI0N25VLUx6UnM0bTZVU2huUUtFTHhFSndxclIwOE1GSmdBS1M5YVl6ZUlfbzdxalVyTWFUZHBKY3NsOFNVcDA?oc=5",
+     "source": "Sofascore",
+     "sourceUrl": "https://www.sofascore.com",
+     "date": "2026-11-20",
      "tag": "other"
     }
    ],
-   "newsChecked": "2026-11-24"
+   "newsChecked": "2026-11-25"
   },
   "Parloa": {
    "roles": {
-    "total": 39,
+    "total": 38,
     "design": [
      {
       "title": "Staff Product Designer - Expert Experience",
@@ -500,10 +512,10 @@
      "engineering": 6,
      "product": 1,
      "data": 0,
-     "other": 31
+     "other": 30
     },
     "source": "ashby",
-    "checked": "2026-11-24",
+    "checked": "2026-11-25",
     "history": [
      {
       "date": "2026-11-17",
@@ -600,6 +612,18 @@
        "data": 0,
        "other": 31
       }
+     },
+     {
+      "date": "2026-11-25",
+      "total": 38,
+      "design": 1,
+      "counts": {
+       "design": 1,
+       "engineering": 6,
+       "product": 1,
+       "data": 0,
+       "other": 30
+      }
      }
     ]
    },
@@ -613,27 +637,27 @@
      "tag": "other"
     },
     {
+     "title": "Agentifying the Globe: Parloa and OpenAI Expand Partnership to Advance AI Agents for Customer Experience",
+     "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQZjM4RjZEWmpTY1loZ3ZkVzdzWkpMTllHZEhOMktzd0FPYmM2MUgzMXItWW9tR1oyejdvV0JEU09IRG9YVWdRUzc0Rzl0MjYxNGx1eHpGLWVTQVlQNE5GOGtsMVlac3BkWjVlOTg3bi1mLURmR1BELTR4bXR0VDRkT1hqQlZzcTFVNDFnb3Zub2gybFlmX1AtVXNMb1I3bnlPRHVZbHktRnZvcWJNTks4T0F4WlpUNXUtN0ZOTE01YzlXUGJMRl91eWc0YkpsQzIxYkcxaGdWTFNLeEJZaXhiRUVabE5yUDBOcDlkYm8zS3c?oc=5",
+     "source": "PR Newswire",
+     "sourceUrl": "https://www.prnewswire.com",
+     "date": "2026-11-11",
+     "tag": "other"
+    },
+    {
      "title": "Parloa Expands North American Agentic CX Footprint through Alliance with Deloitte Canada",
      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPcWc1NDdJN1VNSlU5VzJEX0NaMGQyazZVbmFfT0h6djU5Y29sRmhYeWFVUjN2MjFqNHJYd0pHbnZQTVQxaEFGcW1VMHBiVVEzUk5fNklqT0hzaTJDWFkzQi14emtoZlhhQ2EzeHktWlVHcENUZFJNYUpMd1ZHc3prSDBkZHZITVVZMGhPeFZHcnkwUXFyTVFqUnZ0NTNTU1BYeHVkX3U4OG9peUhFeXVvdFBpOFFvaEwwNklpaV85RGI1bjJwM0FONkNLM1BLZmQxTHdtWUdQbjg0dloy?oc=5",
      "source": "PR Newswire",
      "sourceUrl": "https://www.prnewswire.com",
      "date": "2026-11-04",
      "tag": "other"
-    },
-    {
-     "title": "McKinsey and Parloa partner for customer-facing AI technology",
-     "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPTUUzLU1MNXMzTWllWlZyeXNMT0hUUjY2dnRoV2Z5Z0hJTFpZMFRHdENxM19DcXBzeTJSVlVZbExFTXR4VkVCSGRNYWhMNkY0Z0I5ZnFwYjlEeFRldWpSYUV0YlROMV93T3Jnc1VqcHQ4am5BdnM2Sk01cW9wbkVpTmN4WFcyOWFDUVFFLTdmMXRNZTV1?oc=5",
-     "source": "MarTech Cube",
-     "sourceUrl": "https://www.martechcube.com",
-     "date": "2026-10-29",
-     "tag": "other"
     }
    ],
-   "newsChecked": "2026-11-24"
+   "newsChecked": "2026-11-25"
   },
   "Lovable": {
    "roles": {
-    "total": 77,
+    "total": 76,
     "design": [
      {
       "title": "Staff / Principal Design Engineer, Web",
@@ -701,7 +725,7 @@
       {
        "title": "Staff / Principal Software Engineer, Security",
        "url": "https://jobs.ashbyhq.com/lovable/3496c512-9612-446a-bbed-152457fa2389",
-       "loc": "Stockholm",
+       "loc": "London",
        "published": "2026-05-22"
       },
       {
@@ -725,7 +749,7 @@
       {
        "title": "Staff / Principal Software Engineer, Detection and Response",
        "url": "https://jobs.ashbyhq.com/lovable/e53bdf9e-39ee-46d4-aa95-6b3ba5d3de73",
-       "loc": "Stockholm",
+       "loc": "London",
        "published": "2026-09-14"
       },
       {
@@ -883,10 +907,10 @@
      "engineering": 24,
      "product": 4,
      "data": 9,
-     "other": 38
+     "other": 37
     },
     "source": "ashby",
-    "checked": "2026-11-24",
+    "checked": "2026-11-25",
     "history": [
      {
       "date": "2026-11-17",
@@ -983,24 +1007,28 @@
        "data": 9,
        "other": 38
       }
+     },
+     {
+      "date": "2026-11-25",
+      "total": 76,
+      "design": 2,
+      "counts": {
+       "design": 2,
+       "engineering": 24,
+       "product": 4,
+       "data": 9,
+       "other": 37
+      }
      }
     ]
    },
    "news": [
     {
-     "title": "Lovable at Two: 70M Projects Signal AI-Native Development Goes Mainstream",
-     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQZm1sMFJUbGVlQUl0OGZmOHc0Mm0zeFgyaTZGZXkwQlJsd1MwMVRSVEhqSVdCbmdUUjRaWUZRaFR6czZBeHkxWlZNSWdZSDk2VHZKanZ0eFpiVDg0UjB3eFFoSjhSWjFGNmJwb2FucmRSa0FVMUtFREhHdmctc095c2g3ZG1OejRhb0NjNTlKZzFlSjZlNDRnZHBRX3ZVWFMwbXloTzhjNWlEN1E?oc=5",
-     "source": "The Futurum Group",
-     "sourceUrl": "https://futurumgroup.com",
-     "date": "2026-11-20",
-     "tag": "other"
-    },
-    {
-     "title": "What it takes to set intelligence free — Fabian Hedin, CTO, Lovable｜AI Engineer",
-     "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBENG5yYzVleS1WMlhfa2taUHQ0NjhYOV92RlFrNzJtSl85Mk5lOG1GZUNpWTJ0RnFqTnZ5WDA1a01LeGtKdGhfdlhrcGI4OFNqaVRtYlppSTdIazhzN1pz?oc=5",
-     "source": "finance.biggo.com",
-     "sourceUrl": "https://finance.biggo.com",
-     "date": "2026-11-19",
+     "title": "Anton Osika: Lovable users now build whole companies, not just apps",
+     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQNzVhck5rcFBrS3JaaFp4cUpuN00tZm0yOXpzS2J2cGJxY2Y0OEZpZlF6Z1pzVE5XNTFhcXdpNnFTOXl0VkJRWWZVTlAtN0ZNdktXU2xlMGpXelkzcmFCMld4NUpsUkdKZWRkQ1RIUzZ0VTNHZVVEUkpFRkRoaVJENDQ2M0VXNmRDcE9SSEo2Y2RmQjJ2aXJhRURNblpYT2Rm?oc=5",
+     "source": "Dealroom",
+     "sourceUrl": "https://app.dealroom.co",
+     "date": "2026-11-25",
      "tag": "other"
     },
     {
@@ -1010,13 +1038,21 @@
      "sourceUrl": "https://app.dealroom.co",
      "date": "2026-11-19",
      "tag": "other"
+    },
+    {
+     "title": "Lovable is building AI tools to help users run small businesses, not just make apps",
+     "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQRWNwSmNYUV9kVTBFcWdXcDRrX29ZSmNLUHRWOFUtQzE1Q01oOEh5WFN4RkxLczBlZ01QdDNRUlNMbG5oYkFJWE9Kcm93ZHRuQnNtNlR1WjFzN3E3QnBDMUg5ejRIelpMc2RuMC0wbndxdGM3ejJMNjJ5X3FrSzIyRVhvSkZqQWVxUWtWQ0pJX3dNaTdMRkxFMW5QdS1oYmFaLTAyRXZGVHBfTjlFYlBWN1pURFBWOFk?oc=5",
+     "source": "Superpower Daily",
+     "sourceUrl": "https://superpowerdaily.com",
+     "date": "2026-11-18",
+     "tag": "other"
     }
    ],
-   "newsChecked": "2026-11-24"
+   "newsChecked": "2026-11-25"
   },
   "Moss": {
    "roles": {
-    "total": 33,
+    "total": 32,
     "design": [
      {
       "title": "Senior Product Designer",
@@ -1060,10 +1096,10 @@
      "engineering": 4,
      "product": 0,
      "data": 0,
-     "other": 28
+     "other": 27
     },
     "source": "ashby",
-    "checked": "2026-11-24",
+    "checked": "2026-11-25",
     "history": [
      {
       "date": "2026-11-17",
@@ -1160,11 +1196,23 @@
        "data": 0,
        "other": 28
       }
+     },
+     {
+      "date": "2026-11-25",
+      "total": 32,
+      "design": 1,
+      "counts": {
+       "design": 1,
+       "engineering": 4,
+       "product": 0,
+       "data": 0,
+       "other": 27
+      }
      }
     ]
    },
    "news": [],
-   "newsChecked": "2026-11-24"
+   "newsChecked": "2026-11-25"
   },
   "Langdock": {
    "roles": {
@@ -1227,7 +1275,7 @@
      "other": 5
     },
     "source": "ashby",
-    "checked": "2026-11-24",
+    "checked": "2026-11-25",
     "history": [
      {
       "date": "2026-11-17",
@@ -1324,6 +1372,18 @@
        "data": 0,
        "other": 5
       }
+     },
+     {
+      "date": "2026-11-25",
+      "total": 12,
+      "design": 1,
+      "counts": {
+       "design": 1,
+       "engineering": 6,
+       "product": 0,
+       "data": 0,
+       "other": 5
+      }
      }
     ]
    },
@@ -1353,11 +1413,11 @@
      "tag": "other"
     }
    ],
-   "newsChecked": "2026-11-24"
+   "newsChecked": "2026-11-25"
   },
   "Pennylane": {
    "roles": {
-    "total": 204,
+    "total": 203,
     "design": [
      {
       "title": "Product Design Manager",
@@ -1463,10 +1523,10 @@
      "engineering": 5,
      "product": 3,
      "data": 3,
-     "other": 189
+     "other": 188
     },
     "source": "ashby",
-    "checked": "2026-11-24",
+    "checked": "2026-11-25",
     "history": [
      {
       "date": "2026-11-17",
@@ -1563,6 +1623,18 @@
        "data": 3,
        "other": 189
       }
+     },
+     {
+      "date": "2026-11-25",
+      "total": 203,
+      "design": 4,
+      "counts": {
+       "design": 4,
+       "engineering": 5,
+       "product": 3,
+       "data": 3,
+       "other": 188
+      }
      }
     ]
    },
@@ -1592,7 +1664,7 @@
      "tag": "funding"
     }
    ],
-   "newsChecked": "2026-11-24"
+   "newsChecked": "2026-11-25"
   },
   "Skalar": {
    "roles": {
@@ -1644,7 +1716,7 @@
      "other": 9
     },
     "source": "ashby",
-    "checked": "2026-11-24",
+    "checked": "2026-11-25",
     "history": [
      {
       "date": "2026-11-17",
@@ -1741,6 +1813,18 @@
        "data": 2,
        "other": 9
       }
+     },
+     {
+      "date": "2026-11-25",
+      "total": 14,
+      "design": 1,
+      "counts": {
+       "design": 1,
+       "engineering": 2,
+       "product": 0,
+       "data": 2,
+       "other": 9
+      }
      }
     ]
    },
@@ -1770,7 +1854,7 @@
      "tag": "funding"
     }
    ],
-   "newsChecked": "2026-11-24"
+   "newsChecked": "2026-11-25"
   },
   "Avelios Medical": {
    "roles": {
@@ -1883,7 +1967,7 @@
      "other": 33
     },
     "source": "ashby",
-    "checked": "2026-11-24",
+    "checked": "2026-11-25",
     "history": [
      {
       "date": "2026-11-17",
@@ -1980,6 +2064,18 @@
        "data": 2,
        "other": 33
       }
+     },
+     {
+      "date": "2026-11-25",
+      "total": 48,
+      "design": 1,
+      "counts": {
+       "design": 1,
+       "engineering": 9,
+       "product": 3,
+       "data": 2,
+       "other": 33
+      }
      }
     ]
    },
@@ -2009,11 +2105,11 @@
      "tag": "funding"
     }
    ],
-   "newsChecked": "2026-11-24"
+   "newsChecked": "2026-11-25"
   },
   "1KOMMA5°": {
    "roles": {
-    "total": 338,
+    "total": 343,
     "design": [],
     "families": {
      "engineering": [
@@ -2153,10 +2249,10 @@
      "engineering": 12,
      "product": 9,
      "data": 0,
-     "other": 317
+     "other": 322
     },
     "source": "personio",
-    "checked": "2026-11-24",
+    "checked": "2026-11-25",
     "history": [
      {
       "date": "2026-11-17",
@@ -2253,6 +2349,18 @@
        "data": 0,
        "other": 317
       }
+     },
+     {
+      "date": "2026-11-25",
+      "total": 343,
+      "design": 0,
+      "counts": {
+       "design": 0,
+       "engineering": 12,
+       "product": 9,
+       "data": 0,
+       "other": 322
+      }
      }
     ]
    },
@@ -2282,7 +2390,7 @@
      "tag": "funding"
     }
    ],
-   "newsChecked": "2026-11-24"
+   "newsChecked": "2026-11-25"
   },
   "Sereact": {
    "roles": {
@@ -2329,7 +2437,7 @@
      "other": 44
     },
     "source": "ashby",
-    "checked": "2026-11-24",
+    "checked": "2026-11-25",
     "history": [
      {
       "date": "2026-11-17",
@@ -2426,6 +2534,18 @@
        "data": 1,
        "other": 44
       }
+     },
+     {
+      "date": "2026-11-25",
+      "total": 48,
+      "design": 1,
+      "counts": {
+       "design": 1,
+       "engineering": 1,
+       "product": 1,
+       "data": 1,
+       "other": 44
+      }
      }
     ]
    },
@@ -2447,15 +2567,15 @@
      "tag": "other"
     },
     {
-     "title": "Otto Group and Sereact Bring NVIDIA-Powered Physical AI to Returns Processing",
-     "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNcndEbG9PQ3pIcG1MQVF6R0RxRXdac1RYMlNzbjRWc3QtLTdzOTB4aVY4MGxnRE13R3VVYnFyQmREWGRqY19ZWHM5UVZLTmNMZXd4R1JBNHMwdkdOQzVtOHg0aVZ1MFplTUVpOTlSbnhxZGd1ODZjSVlqdkVoWU11X3dqdW5HV01Hdm42MmttQmJMQUtGMGM2LTcxT3FGYzVlQUkxU3hWNXhiWnNNdmllYURMb3F0MzRkN3BwQ1dkNFZCcUdVLU4ydF8wU040VHJNMnVrdmo5Sy1CV2E3T0JaSENIVQ?oc=5",
-     "source": "GlobeNewswire",
-     "sourceUrl": "https://www.globenewswire.com",
-     "date": "2026-10-28",
-     "tag": "other"
+     "title": "CEVA Logistics, Sereact and Zalando launch robotic returns handling solution",
+     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPNjRPUENWUWh4eTdMNDQ1aEhxMVg0UHd5MmZncTVPeVhYbF82dDJDS3RDWXlQemdPbS1weEdsTVBsaWppWTdBZk9VMFZPcXRONWZScXlsdVhNdzM4NDVPWkxOanJkaU04T1AwYjNLYTFmS2RFU25UVl9fWHRuOGNpUVhGdHdUS1hHbHI3Y1haRDRaQUx2U3NUWFBSOUNRX0lzVlBneTlB?oc=5",
+     "source": "Modern Materials Handling",
+     "sourceUrl": "https://www.mmh.com",
+     "date": "2026-10-29",
+     "tag": "launch"
     }
    ],
-   "newsChecked": "2026-11-24"
+   "newsChecked": "2026-11-25"
   },
   "Lio": {
    "news": [
@@ -2484,7 +2604,7 @@
      "tag": "hire"
     }
    ],
-   "newsChecked": "2026-11-24"
+   "newsChecked": "2026-11-25"
   },
   "Tendos": {
    "news": [
@@ -2505,7 +2625,7 @@
      "tag": "funding"
     }
    ],
-   "newsChecked": "2026-11-24"
+   "newsChecked": "2026-11-25"
   },
   "Atira": {
    "news": [
@@ -2534,7 +2654,7 @@
      "tag": "funding"
     }
    ],
-   "newsChecked": "2026-11-24"
+   "newsChecked": "2026-11-25"
   },
   "ClearOps": {
    "news": [
@@ -2563,7 +2683,7 @@
      "tag": "funding"
     }
    ],
-   "newsChecked": "2026-11-24"
+   "newsChecked": "2026-11-25"
   },
   "Causa Prima": {
    "news": [
@@ -2592,7 +2712,7 @@
      "tag": "funding"
     }
    ],
-   "newsChecked": "2026-11-24"
+   "newsChecked": "2026-11-25"
   },
   "Lanes & Planes": {
    "news": [
@@ -2621,7 +2741,7 @@
      "tag": "funding"
     }
    ],
-   "newsChecked": "2026-11-24"
+   "newsChecked": "2026-11-25"
   },
   "Secfix": {
    "news": [
@@ -2642,7 +2762,7 @@
      "tag": "funding"
     }
    ],
-   "newsChecked": "2026-11-24"
+   "newsChecked": "2026-11-25"
   },
   "Voiceline": {
    "roles": {
@@ -2662,7 +2782,7 @@
      "tag": "other"
     }
    ],
-   "newsChecked": "2026-11-24"
+   "newsChecked": "2026-11-25"
   },
   "Sinpex": {
    "news": [
@@ -2691,7 +2811,7 @@
      "tag": "funding"
     }
    ],
-   "newsChecked": "2026-11-24"
+   "newsChecked": "2026-11-25"
   },
   "Rencore": {
    "news": [
@@ -2712,7 +2832,7 @@
      "tag": "launch"
     }
    ],
-   "newsChecked": "2026-11-24"
+   "newsChecked": "2026-11-25"
   },
   "Elevatry": {
    "news": [
@@ -2741,7 +2861,7 @@
      "tag": "funding"
     }
    ],
-   "newsChecked": "2026-11-24"
+   "newsChecked": "2026-11-25"
   },
   "Interloom": {
    "news": [
@@ -2762,14 +2882,30 @@
      "tag": "funding"
     }
    ],
-   "newsChecked": "2026-11-24"
+   "newsChecked": "2026-11-25"
   },
   "Finn": {
    "news": [],
-   "newsChecked": "2026-11-24"
+   "newsChecked": "2026-11-25"
   },
   "NavVis": {
    "news": [
+    {
+     "title": "NavVis - Mapping the Built World",
+     "url": "https://news.google.com/rss/articles/CBMiP0FVX3lxTE1EeFBJOFp0NnU5SmEwS1dIc2s5ZGlPbXRBZVd5Z3FueDAxRHJCbTM0QS0zVnlXd0I3TTFnd0w4MA?oc=5",
+     "source": "yespress.io",
+     "sourceUrl": "https://yespress.io",
+     "date": "2026-11-14",
+     "tag": "other"
+    },
+    {
+     "title": "NavVis Announces Miami and Tampa, Florida IN TOWN Events Featuring NavVis CLX and VLX4",
+     "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNbjdyckdoNTljY19XVHEzSno0M3h2Uko0b010d0dHUHVJb0tnR2U4b0RXWklEcEI2UThOWWFjZXU5S1oyNDloZ3lBakIxOTRjdHRHeHRpdzh6NkxZQlFDNlJsR0M3OFhMOHJ1b1VUdjcwWF9iZ1lwUXpyc2ZSOEFuU3FvQ2xYcjNJal9ZanllLVlZbVhDemtBOG1WcldwbGN5bTd1MVVBemw1cG0zNGxtcGhyYVNJUGdQLWdJM2xYdHZ2QmNMbGMzMUxuRDU?oc=5",
+     "source": "EIN Presswire",
+     "sourceUrl": "https://www.einpresswire.com",
+     "date": "2026-09-29",
+     "tag": "other"
+    },
     {
      "title": "NavVis introduces agile handheld capture device for reliable as-built data at scale",
      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQdGpCOXM1WHVQaDdzdUxCZ0tZZ0hEbHF5QnFwU0t1ckdFa2RPcVdKeEM4Rm5EMjFKZGd4S1d6eGY0RDd2ZUxFaV9iNzZVNzJ2bHd5c1VJdmNKdnhnaVRhMU5vWU54NWxlNW45UV9nZGgwOW1HVjdoUFFmZDh4aG12eFRiRHhoUy1hcFJ0d2lIWkhSYkFEWTZGOTJVTVFkM1JKeGNwQ0cyNFVBdExudzExaXZvQlA5SnZ6Wk9aSHAzTQ?oc=5",
@@ -2777,25 +2913,9 @@
      "sourceUrl": "https://www.gim-international.com",
      "date": "2026-09-10",
      "tag": "launch"
-    },
-    {
-     "title": "NavVis Raises $85M to Own the Spatial Data Layer for Physical AI",
-     "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9aVExLN3RKRnlQS0treHdYeXdWcW45WHF6X3ZLTHpCZEtfZHJVUFdXYl9GNHd2ZGVWNHZaUHhkQ251aF9ZblFkUEFwSmJkLWhhU3NMTWdLTndJTDR0SjlUY0xzMVJhbWtmbGtYa2sxc0xYdkVWUHN3?oc=5",
-     "source": "Geoawesome",
-     "sourceUrl": "https://geoawesome.com",
-     "date": "2026-08-15",
-     "tag": "funding"
-    },
-    {
-     "title": "Buildots adds laser scans through NavVis integration",
-     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNck1SRjhYWTVrcUx6U3JuTUw0dXJCTzBjMG1rRnBVeWVvMXRPc2NaVGxwT3ZYYVdZX1piMlZrSmpuWlNzTkdKWGpOVElNblFEaHNwakdFa3ZlZDlaejdGaFpwZWtPUHBOX0xLd0FMc0dKXzU3LUY2QXc4LUhNVVNEVERobEVZV0th?oc=5",
-     "source": "Engineering.com",
-     "sourceUrl": "https://www.engineering.com",
-     "date": "2026-08-13",
-     "tag": "other"
     }
    ],
-   "newsChecked": "2026-11-24"
+   "newsChecked": "2026-11-25"
   },
   "Limehome": {
    "news": [
@@ -2824,7 +2944,7 @@
      "tag": "other"
     }
    ],
-   "newsChecked": "2026-11-24"
+   "newsChecked": "2026-11-25"
   },
   "Microagi": {
    "news": [
@@ -2837,7 +2957,7 @@
      "tag": "funding"
     }
    ],
-   "newsChecked": "2026-11-24"
+   "newsChecked": "2026-11-25"
   },
   "Entrix": {
    "news": [
@@ -2858,15 +2978,15 @@
      "tag": "other"
     },
     {
-     "title": "European BESS route-to-market optimisers Entrix, GridBeyond raise €55 million",
-     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOZ0NreTNORGpyOW9wQlZOSnJmRWtRZkI3T1pLSmx3SUFra29LdFJLNEwxankwTVZWOTQ3ZlNpdkJhT0FHOWg0ZGFYZjlsaUJsSEp6UkJ1TUtlcy1WY0hGM3p3T3NCcjBaMk9tbW1ralFqWTBtWDRSUGpwSWJNVUQzYlN5ek9uRmFFdEtHQkplRE9TZUxGRlVtQmRmbmd1WnJMT0tDRW03N2pNX25JTmc?oc=5",
-     "source": "Energy-Storage.News",
-     "sourceUrl": "https://www.energy-storage.news",
-     "date": "2026-03-30",
-     "tag": "funding"
+     "title": "Entrix to optimize Germany’s first PV-plus-battery ‘grey’ co-location project",
+     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNVHhOV1JoX1F6ZHpYRGZhNjhja2NJallRUWNrWU5IeWpPWVhQdjFjNHZTRzN0dko4UVV2NVVxYnZaU1dHelFfSHFLcTV4Q2NfUU5YR0NwNkNIaE5TYUNkLXJJQk5WMnI3MWhveWJ2VTI2dk9qM0l4LWJZYU9lRmNGblU0M1JNNl8yU2NuRmh0bVhYaHNtTFJFRmFOT0l1RzU1ZGdRZ3ItdGRDNmNxZHVjbA?oc=5",
+     "source": "ESS News",
+     "sourceUrl": "https://www.ess-news.com",
+     "date": "2026-06-12",
+     "tag": "other"
     }
    ],
-   "newsChecked": "2026-11-24"
+   "newsChecked": "2026-11-25"
   },
   "Twaice": {},
   "Allo": {},
