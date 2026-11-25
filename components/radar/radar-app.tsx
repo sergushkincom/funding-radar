@@ -5,7 +5,7 @@ import { SearchIcon, XIcon } from "lucide-react"
 
 import type { FilterQuery } from "@/components/reui/filters/filters-types"
 import { Button } from "@/components/ui/button"
-import { Card, CardAction, CardContent, CardHeader, CardTitle } from "@/components/ui/card"
+import { Card, CardAction, CardContent, CardDescription, CardHeader, CardTitle } from "@/components/ui/card"
 import { Input } from "@/components/ui/input"
 import { CompaniesGrid } from "@/components/radar/companies-grid"
 import { CompanySheet } from "@/components/radar/company-sheet"
@@ -13,6 +13,7 @@ import { KPI_QUERIES, PRESETS, defaultQuery, matches, type PresetId, type Tracke
 import { ChanceExplainer } from "@/components/radar/chance-explainer"
 import { ChartLegend } from "@/components/radar/chart-legend"
 import { RadarChart } from "@/components/radar/radar-chart"
+import { RadarCount } from "@/components/radar/rolling-number"
 import { ToggleGroup, ToggleGroupItem } from "@/components/ui/toggle-group"
 import { ThemeToggle } from "@/components/theme-toggle"
 import { BACKGROUND, DATA_DATE, JOBS, RADAR, ROWS } from "@/lib/radar"
@@ -192,6 +193,9 @@ export function RadarApp() {
       <Card className="gap-2 shadow-sm">
         <CardHeader>
           <CardTitle>Round date × chance</CardTitle>
+          <CardDescription>
+            <RadarCount value={onChart.length} />
+          </CardDescription>
           <CardAction>
             <ChanceExplainer />
           </CardAction>
