@@ -41,6 +41,88 @@ type Point = {
 type Box = { x: number; y: number; w: number; h: number }
 const hit = (a: Box, b: Box) => a.x < b.x + b.w && b.x < a.x + a.w && a.y < b.y + b.h && b.y < a.y + a.h
 
+type Phase = "enter" | "in" | "exit"
+type Shown = Point & { phase: Phase }
+
+// Keep in step with bubble-pop (420ms) and bubble-shrink (260ms) in globals.css.
+const ENTER_MS = 440
+const EXIT_MS = 280
+
+function prefersReducedMotion() {
+  return window.matchMedia("(prefers-reduced-motion: reduce)").matches
+}
+
+/** Keep leavers until the shrink finishes, and mark arrivals so they can pop in. */
+function mergePoints(prev: Shown[], laid: Point[], reduce: boolean): Shown[] {
+  const next = new Map(laid.map((p) => [p.row.name, p]))
+  const seen = new Set<string>()
+  const out: Shown[] = []
+  for (const old of prev) {
+    const fresh = next.get(old.row.name)
+    if (fresh) {
+      seen.add(old.row.name)
+      out.push({ ...fresh, phase: old.phase === "exit" && !reduce ? "enter" : old.phase === "exit" ? "in" : old.phase })
+    } else if (!reduce) {
+      out.push(old.phase === "exit" ? old : { ...old, phase: "exit" })
+    }
+  }
+  for (const p of laid) {
+    if (!seen.has(p.row.name)) out.push({ ...p, phase: reduce ? "in" : "enter" })
+  }
+  return out
+}
+
+function useChartPoints(laid: Point[]) {
+  const [shown, setShown] = React.useState<Shown[]>(() => laid.map((p) => ({ ...p, phase: "in" })))
+  const laidRef = React.useRef(laid)
+  const timers = React.useRef(new Map<string, number>())
+
+  React.useEffect(() => {
+    if (laidRef.current === laid) return
+    laidRef.current = laid
+    setShown((prev) => mergePoints(prev, laid, prefersReducedMotion()))
+  }, [laid])
+
+  React.useEffect(() => {
+    const reduce = prefersReducedMotion()
+    const active = new Set<string>()
+    for (const p of shown) {
+      if (p.phase === "in") continue
+      const token = `${p.row.name}:${p.phase}`
+      active.add(token)
+      if (timers.current.has(token)) continue
+      const ms = reduce ? 0 : p.phase === "exit" ? EXIT_MS : ENTER_MS
+      const name = p.row.name
+      const phase = p.phase
+      const id = window.setTimeout(() => {
+        timers.current.delete(token)
+        setShown((curr) =>
+          phase === "exit"
+            ? curr.filter((x) => !(x.row.name === name && x.phase === "exit"))
+            : curr.map((x) => (x.row.name === name && x.phase === "enter" ? { ...x, phase: "in" } : x)),
+        )
+      }, ms)
+      timers.current.set(token, id)
+    }
+    for (const [token, id] of timers.current) {
+      if (!active.has(token)) {
+        window.clearTimeout(id)
+        timers.current.delete(token)
+      }
+    }
+  }, [shown])
+
+  React.useEffect(() => {
+    const pending = timers.current
+    return () => {
+      for (const id of pending.values()) window.clearTimeout(id)
+      pending.clear()
+    }
+  }, [])
+
+  return shown
+}
+
 function layout(rows: TrackedRow[]): Point[] {
   const pts: Point[] = rows.map((row) => {
     const d = row.date_iso ? new Date(row.date_iso) : null
@@ -125,10 +207,12 @@ export function RadarChart({
   const key = rows.map((r) => r.name).join("|")
   // eslint-disable-next-line react-hooks/exhaustive-deps -- keyed on the names; statuses are read at render
   const laid = React.useMemo(() => layout(rows), [key])
+  const shown = useChartPoints(laid)
   const byName = new Map(rows.map((r) => [r.name, r]))
-  const points = laid.map((p) => ({ ...p, row: byName.get(p.row.name) ?? p.row }))
+  const points = shown.map((p) => ({ ...p, row: byName.get(p.row.name) ?? p.row }))
   const [hovered, setHovered] = React.useState<string | null>(null)
-  const hoverPoint = points.find((p) => p.row.name === hovered)
+  const hoverPoint = points.find((p) => p.row.name === hovered && p.phase !== "exit")
+  if (hovered && !hoverPoint) setHovered(null)
   const ticks = React.useMemo(
     () =>
       Array.from({ length: 12 }, (_, i) => {
@@ -231,7 +315,8 @@ export function RadarChart({
                   <g
                     key={c.name}
                     role="button"
-                    tabIndex={0}
+                    tabIndex={p.phase === "exit" ? -1 : 0}
+                    aria-hidden={p.phase === "exit" ? true : undefined}
                     aria-label={`${c.name}, chance ${c.chance}`}
                     aria-pressed={isSel}
                     onClick={() => onSelect(c.name)}
@@ -245,7 +330,12 @@ export function RadarChart({
                     onPointerLeave={() => setHovered((h) => (h === c.name ? null : h))}
                     onFocus={() => setHovered(c.name)}
                     onBlur={() => setHovered((h) => (h === c.name ? null : h))}
-                    className="group/bubble cursor-pointer outline-none"
+                    className={cn(
+                      "bubble-motion group/bubble cursor-pointer outline-none",
+                      p.phase === "enter" && "bubble-enter",
+                      p.phase === "exit" && "bubble-exit",
+                    )}
+                    style={{ "--ox": `${p.cx}px`, "--oy": `${p.cy}px` } as React.CSSProperties}
                   >
                     {c.status !== "not_started" && (
                       <circle cx={p.cx} cy={p.cy} r={p.r + 4} fill="none" strokeWidth={2} className="stroke-foreground">
